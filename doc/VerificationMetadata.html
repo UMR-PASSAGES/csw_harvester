@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module VerificationMetadata</title>
+<meta charset="utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>VerificationMetadata</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/laurent/Documents/pdp/pdpmaster1/csw-harvester-refactoring/src/VerificationMetadata.py">/home/laurent/Documents/pdp/pdpmaster1/csw-harvester-refactoring/src/VerificationMetadata.py</a></font></td></tr></table>
+    <p><tt>#&nbsp;-*-&nbsp;coding:&nbsp;utf-8&nbsp;-*-</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="ConfigParser.html">ConfigParser</a><br>
+<a href="datetime.html">datetime</a><br>
+</td><td width="25%" valign=top><a href="lxml.etree.html">lxml.etree</a><br>
+<a href="logging.html">logging</a><br>
+</td><td width="25%" valign=top><a href="os.html">os</a><br>
+<a href="sys.html">sys</a><br>
+</td><td width="25%" valign=top><a href="owslib.util.html">owslib.util</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="VerificationMetadata.html#VerificationMetadata">VerificationMetadata</a>
+</font></dt></dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="VerificationMetadata">class <strong>VerificationMetadata</strong></a></font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>This&nbsp;module&nbsp;allows&nbsp;verify&nbsp;if&nbsp;every&nbsp;records&nbsp;in&nbsp;Orderecdict&nbsp;(data&nbsp;geographic&nbsp;retrieve&nbsp;from&nbsp;server&nbsp;for&nbsp;every<br>
+geocatalog)&nbsp;is&nbsp;provided&nbsp;correctly.&nbsp;For&nbsp;that&nbsp;this&nbsp;class&nbsp;verify&nbsp;if&nbsp;every&nbsp;attribute&nbsp;is&nbsp;provided&nbsp;and&nbsp;well&nbsp;informed<br>
+according&nbsp;to&nbsp;the&nbsp;ISO&nbsp;19115.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="VerificationMetadata-__init__"><strong>__init__</strong></a>(self, num)</dt><dd><tt>initialize&nbsp;session&nbsp;database&nbsp;and&nbsp;get&nbsp;the&nbsp;only&nbsp;instance&nbsp;of&nbsp;global&nbsp;data.<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;verif&nbsp;=&nbsp;<a href="#VerificationMetadata">VerificationMetadata</a>(1)<br>
+&gt;&gt;&gt;&nbsp;verif.sdi&nbsp;==&nbsp;1<br>
+True<br>
+&gt;&gt;&gt;&nbsp;verif.globalData&nbsp;is&nbsp;not&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;verif.session&nbsp;is&nbsp;not&nbsp;None<br>
+True</tt></dd></dl>
+
+<dl><dt><a name="VerificationMetadata-check"><strong>check</strong></a>(self, data)</dt><dd><tt>Check&nbsp;Collections.ordereddict&nbsp;correspond&nbsp;to&nbsp;ISO1915.<br>
+:param&nbsp;data:&nbsp;Collections.ordereddict<br>
+&nbsp;<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;verify&nbsp;=&nbsp;<a href="#VerificationMetadata">VerificationMetadata</a>(1)<br>
+&gt;&gt;&gt;&nbsp;o&nbsp;=&nbsp;OrderedDict()<br>
+&gt;&gt;&gt;&nbsp;md&nbsp;=&nbsp;MD_Metadata()<br>
+&gt;&gt;&gt;&nbsp;o['test']&nbsp;=&nbsp;md<br>
+&gt;&gt;&gt;&nbsp;verify.<a href="#VerificationMetadata-check">check</a>(o)<br>
+&gt;&gt;&gt;&nbsp;len(o.values())&nbsp;==&nbsp;0<br>
+True<br>
+&gt;&gt;&gt;&nbsp;md.identification&nbsp;=&nbsp;MD_DataIdentification()<br>
+&gt;&gt;&gt;&nbsp;o['test2']&nbsp;=&nbsp;md<br>
+&gt;&gt;&gt;&nbsp;verify.<a href="#VerificationMetadata-check">check</a>(o)<br>
+&gt;&gt;&gt;&nbsp;len(o.values())&nbsp;==0<br>
+True<br>
+&gt;&gt;&gt;&nbsp;md.identification.bbox&nbsp;=&nbsp;EX_GeographicBoundingBox()<br>
+&gt;&gt;&gt;&nbsp;o['test3']&nbsp;=&nbsp;md<br>
+&gt;&gt;&gt;&nbsp;verify.<a href="#VerificationMetadata-check">check</a>(o)<br>
+&gt;&gt;&gt;&nbsp;len(o.values())&nbsp;==&nbsp;1<br>
+True</tt></dd></dl>
+
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>absolute_import</strong> = _Feature((2, 5, 0, 'alpha', 1), (3, 0, 0, 'alpha', 0), 16384)<br>
+<strong>division</strong> = _Feature((2, 2, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), 8192)<br>
+<strong>engine</strong> = Engine(postgresql://postgres:***@localhost:5432/csw_harvesterafter)<br>
+<strong>namespaces</strong> = {None: 'http://www.isotc211.org/2005/gmd', 'gco': 'http://www.isotc211.org/2005/gco', 'gmd': 'http://www.isotc211.org/2005/gmd', 'gml': 'http://www.opengis.net/gml', 'gml32': 'http://www.opengis.net/gml/3.2', 'gmx': 'http://www.isotc211.org/2005/gmx', 'gts': 'http://www.isotc211.org/2005/gts', 'srv': 'http://www.isotc211.org/2005/srv', 'xlink': 'http://www.w3.org/1999/xlink'}<br>
+<strong>print_function</strong> = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), 65536)</td></tr></table>
+</body></html>

@@ -1,0 +1,256 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module Insertion</title>
+<meta charset="utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>Insertion</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/laurent/Documents/pdp/pdpmaster1/csw-harvester-refactoring/src/Insertion.py">/home/laurent/Documents/pdp/pdpmaster1/csw-harvester-refactoring/src/Insertion.py</a></font></td></tr></table>
+    <p><tt>#&nbsp;-*-&nbsp;coding:&nbsp;utf-8&nbsp;-*-</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="ConfigParser.html">ConfigParser</a><br>
+<a href="datetime.html">datetime</a><br>
+</td><td width="25%" valign=top><a href="lxml.etree.html">lxml.etree</a><br>
+<a href="sqlalchemy.exc.html">sqlalchemy.exc</a><br>
+</td><td width="25%" valign=top><a href="logging.html">logging</a><br>
+<a href="os.html">os</a><br>
+</td><td width="25%" valign=top><a href="sys.html">sys</a><br>
+<a href="owslib.util.html">owslib.util</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="__builtin__.html#object">__builtin__.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="Insertion.html#Insertion">Insertion</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Insertion">class <strong>Insertion</strong></a>(<a href="__builtin__.html#object">__builtin__.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>This&nbsp;class&nbsp;convert&nbsp;the&nbsp;set&nbsp;of&nbsp;values&nbsp;retrieved&nbsp;as&nbsp;<a href="__builtin__.html#object">object</a>&nbsp;OrderedDict&nbsp;to&nbsp;Declaratives&nbsp;which&nbsp;are&nbsp;classes<br>
+of&nbsp;simpler&nbsp;values&nbsp;(scalar)&nbsp;for&nbsp;storage&nbsp;in&nbsp;the&nbsp;Database,&nbsp;at&nbsp;this&nbsp;point&nbsp;metadata&nbsp;can&nbsp;be&nbsp;store&nbsp;in&nbsp;database&nbsp;thanks&nbsp;to<br>
+the&nbsp;ORM's&nbsp;declaratives,&nbsp;it&nbsp;preserves&nbsp;all&nbsp;properties&nbsp;of&nbsp;the&nbsp;OrderedDict&nbsp;and&nbsp;all&nbsp;their&nbsp;relationships&nbsp;so&nbsp;that&nbsp;they&nbsp;can<br>
+be&nbsp;reloaded&nbsp;if&nbsp;is&nbsp;needed.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="Insertion-__init__"><strong>__init__</strong></a>(self, source)</dt><dd><tt>Initialisation&nbsp;of&nbsp;connexion&nbsp;to&nbsp;database&nbsp;and&nbsp;list&nbsp;to&nbsp;records&nbsp;data.<br>
+Example:<br>
+&nbsp;&gt;&gt;&gt;&nbsp;insertion&nbsp;=&nbsp;<a href="#Insertion">Insertion</a>(Source())<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;insertion&nbsp;=&nbsp;<a href="#Insertion">Insertion</a>(Source())<br>
+&gt;&gt;&gt;&nbsp;print(type(insertion.session))<br>
+&lt;class&nbsp;'sqlalchemy.orm.session.Session'&gt;<br>
+&gt;&gt;&gt;&nbsp;insertion.id_keyword&nbsp;is&nbsp;not&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;insertion.id_metadata&nbsp;is&nbsp;not&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;insertion.id_responsibleparty&nbsp;is&nbsp;not&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insertion.session.query(Responsibleparty).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insertion.session.query(Metadata).delete()<br>
+&gt;&gt;&gt;&nbsp;num=&nbsp;insertion.session.query(Keyword).delete()<br>
+&gt;&gt;&gt;&nbsp;insertion.session.commit()<br>
+&gt;&gt;&gt;&nbsp;insertion2&nbsp;=&nbsp;<a href="#Insertion">Insertion</a>(Source())<br>
+&gt;&gt;&gt;&nbsp;insertion2.id_keyword&nbsp;==&nbsp;0<br>
+True<br>
+&gt;&gt;&gt;&nbsp;insertion2.id_metadata&nbsp;==&nbsp;0<br>
+True<br>
+&gt;&gt;&gt;&nbsp;insertion2.id_responsibleparty&nbsp;==&nbsp;0<br>
+True</tt></dd></dl>
+
+<dl><dt><a name="Insertion-convert_cswdata_to_orm"><strong>convert_cswdata_to_orm</strong></a>(self, data)</dt><dd><tt>&nbsp;&nbsp;&nbsp;&nbsp;Convert&nbsp;cswdata&nbsp;ro&nbsp;declaratives&nbsp;of&nbsp;sqlalchemy.<br>
+&nbsp;<br>
+:param&nbsp;data:&nbsp;collection.orderedDict,&nbsp;the&nbsp;data&nbsp;to&nbsp;convert<br>
+:return:&nbsp;List&nbsp;of&nbsp;declarative&nbsp;to&nbsp;save&nbsp;in&nbsp;BDD.<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;source&nbsp;=&nbsp;Source(123456789,&nbsp;"nameTest",&nbsp;0,&nbsp;0,&nbsp;30,&nbsp;"TestUrl",&nbsp;"testUrl_csw")<br>
+&gt;&gt;&gt;&nbsp;insert&nbsp;=&nbsp;<a href="#Insertion">Insertion</a>(source)<br>
+&gt;&gt;&gt;&nbsp;o&nbsp;=&nbsp;OrderedDict()<br>
+&gt;&gt;&gt;&nbsp;meta&nbsp;=&nbsp;MD_Metadata()<br>
+&gt;&gt;&gt;&nbsp;meta.identifier&nbsp;=&nbsp;'test_id'<br>
+&gt;&gt;&gt;&nbsp;meta.datetimestamp&nbsp;=&nbsp;datetime.datetime.today().strftime('%Y-%m-%d')<br>
+&gt;&gt;&gt;&nbsp;meta.xml&nbsp;=&nbsp;"test&nbsp;xml"<br>
+&gt;&gt;&gt;&nbsp;meta.stdname&nbsp;=&nbsp;"IDO&nbsp;&nbsp;1915"<br>
+&gt;&gt;&gt;&nbsp;meta.identification&nbsp;=&nbsp;MD_DataIdentification()<br>
+&gt;&gt;&gt;&nbsp;meta.identification.identtype&nbsp;=&nbsp;"test&nbsp;identype"<br>
+&gt;&gt;&gt;&nbsp;tabKeyword&nbsp;=&nbsp;[{'keywords':&nbsp;['Usage&nbsp;des&nbsp;sols'],&nbsp;'type':&nbsp;None,&nbsp;'thesaurus':&nbsp;{'date':&nbsp;'2008-06-01',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'datetype':&nbsp;'publication',&nbsp;'title':&nbsp;'GEMET&nbsp;-&nbsp;INSPIRE&nbsp;themes,&nbsp;version&nbsp;1.0'}},<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'keywords':&nbsp;['Risque&nbsp;/&nbsp;Zonages&nbsp;Risque&nbsp;naturel'],&nbsp;'type':&nbsp;'theme',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'thesaurus':&nbsp;{'date':&nbsp;'2009-12-03',&nbsp;'datetype':&nbsp;'publication',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'title':&nbsp;'Arborescence&nbsp;COVADIS'}},<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'keywords':&nbsp;['RESSOURCES&nbsp;-&nbsp;NUISANCES/NUISANCE/source&nbsp;de&nbsp;nuisance&nbsp;(inclut&nbsp;risques&nbsp;industriels&nbsp;et&nbsp;naturels)'],<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'type':&nbsp;'theme',&nbsp;'thesaurus':&nbsp;{'date':&nbsp;'2009',&nbsp;'datetype':&nbsp;'publication',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'title':&nbsp;u'Thésaurus&nbsp;URBAMET'}},&nbsp;{'keywords':&nbsp;[u'Donn�es&nbsp;vecteur'],<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'type':&nbsp;'stratum',&nbsp;'thesaurus':&nbsp;{'date':&nbsp;None,&nbsp;'datetype':&nbsp;None,&nbsp;'title':&nbsp;None}}]<br>
+&gt;&gt;&gt;&nbsp;meta.identification.keywords&nbsp;=&nbsp;tabKeyword<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox&nbsp;=&nbsp;EX_GeographicBoundingBox()<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox.minx&nbsp;=&nbsp;0<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox.miny&nbsp;=&nbsp;0<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contact&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;ci&nbsp;=&nbsp;CI_ResponsibleParty()<br>
+&gt;&gt;&gt;&nbsp;ci.city=&nbsp;'Bordeaux'<br>
+&gt;&gt;&gt;&nbsp;ci.role&nbsp;=&nbsp;'nothing'<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contact.append(ci)<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contributor&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contributor.append(ci)<br>
+&gt;&gt;&gt;&nbsp;meta.identification.creator&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;meta.identification.creator.append(ci)<br>
+&gt;&gt;&gt;&nbsp;o['test_id']&nbsp;=&nbsp;meta<br>
+&gt;&gt;&gt;&nbsp;temp_id_Meta&nbsp;=&nbsp;insert.id_metadata<br>
+&gt;&gt;&gt;&nbsp;listconvert&nbsp;=&nbsp;insert.<a href="#Insertion-convert_cswdata_to_orm">convert_cswdata_to_orm</a>(o)<br>
+&gt;&gt;&gt;&nbsp;len(listconvert)&nbsp;==&nbsp;15<br>
+True<br>
+&gt;&gt;&gt;&nbsp;(&nbsp;insert.id_metadata&nbsp;-temp_id_Meta)&nbsp;==&nbsp;1<br>
+True</tt></dd></dl>
+
+<dl><dt><a name="Insertion-extract_contacts"><strong>extract_contacts</strong></a>(self, input, index)</dt><dd><tt>Get&nbsp;contacts&nbsp;of&nbsp;Collections.MD_Metadata.<br>
+(&nbsp;see&nbsp;documentation&nbsp;of&nbsp;OSWLIB&nbsp;for&nbsp;more&nbsp;information&nbsp;to&nbsp;this&nbsp;type)<br>
+and&nbsp;convert&nbsp;to&nbsp;Collections.Declaratives.contact<br>
+&nbsp;<br>
+:param&nbsp;input:&nbsp;&nbsp;MD_Metadata<br>
+:return&nbsp;:&nbsp;list&nbsp;of&nbsp;declaratives.Contact</tt></dd></dl>
+
+<dl><dt><a name="Insertion-extract_contributors"><strong>extract_contributors</strong></a>(self, input, index)</dt><dd><tt>Get&nbsp;contributors&nbsp;of&nbsp;Collections.MD_Metadata.<br>
+(&nbsp;see&nbsp;documentation&nbsp;of&nbsp;OSWLIB&nbsp;for&nbsp;more&nbsp;information&nbsp;to&nbsp;this&nbsp;type)<br>
+and&nbsp;convert&nbsp;to&nbsp;Collections.Declaratives.contributor<br>
+&nbsp;<br>
+:param&nbsp;input:&nbsp;MD_Metadata.<br>
+:return&nbsp;list&nbsp;of&nbsp;declaratives.contributor</tt></dd></dl>
+
+<dl><dt><a name="Insertion-extract_creators"><strong>extract_creators</strong></a>(self, input, index)</dt><dd><tt>Get&nbsp;creator&nbsp;of&nbsp;Collections.MD_Metadata.<br>
+(&nbsp;see&nbsp;documentation&nbsp;of&nbsp;OSWLIB&nbsp;for&nbsp;more&nbsp;information&nbsp;to&nbsp;this&nbsp;type)<br>
+and&nbsp;convert&nbsp;to&nbsp;Collections.Declaratives.creator<br>
+&nbsp;<br>
+:param&nbsp;input:&nbsp;&nbsp;MD_Metadata<br>
+:return&nbsp;list&nbsp;of&nbsp;declaratives.creator</tt></dd></dl>
+
+<dl><dt><a name="Insertion-save_in_db"><strong>save_in_db</strong></a>(self, data)</dt><dd><tt>save&nbsp;ordereddict&nbsp;in&nbsp;database.&nbsp;Begin&nbsp;to&nbsp;convert&nbsp;this&nbsp;data&nbsp;to&nbsp;déclarative.<br>
+Then&nbsp;save&nbsp;déclaratives&nbsp;produce&nbsp;in&nbsp;database<br>
+:param&nbsp;data:&nbsp;datas&nbsp;to&nbsp;records.&nbsp;It's&nbsp;ordereddict.&nbsp;Value&nbsp;of&nbsp;this&nbsp;dictionary&nbsp;must&nbsp;me&nbsp;type&nbsp;of&nbsp;MD_Metadata.<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;source&nbsp;=&nbsp;Source(123456789,"nameTest",0,0,30,"TestUrl","testUrl_csw")<br>
+&gt;&gt;&gt;&nbsp;insert&nbsp;=&nbsp;<a href="#Insertion">Insertion</a>(source)<br>
+&gt;&gt;&gt;&nbsp;o&nbsp;=&nbsp;OrderedDict()<br>
+&gt;&gt;&gt;&nbsp;meta&nbsp;=&nbsp;MD_Metadata()<br>
+&gt;&gt;&gt;&nbsp;meta.identifier&nbsp;=&nbsp;'test_id'<br>
+&gt;&gt;&gt;&nbsp;meta.datetimestamp&nbsp;=&nbsp;datetime.datetime.today().strftime('%Y-%m-%d')<br>
+&gt;&gt;&gt;&nbsp;meta.xml&nbsp;=&nbsp;"test&nbsp;xml"<br>
+&gt;&gt;&gt;&nbsp;meta.stdname&nbsp;=&nbsp;"IDO&nbsp;&nbsp;1915"<br>
+&gt;&gt;&gt;&nbsp;meta.identification&nbsp;=&nbsp;MD_DataIdentification()<br>
+&gt;&gt;&gt;&nbsp;meta.identification.identtype&nbsp;=&nbsp;"test&nbsp;identype"<br>
+&gt;&gt;&gt;&nbsp;tabKeyword&nbsp;=&nbsp;[{'keywords':&nbsp;['Usage&nbsp;des&nbsp;sols'],&nbsp;'type':&nbsp;None,&nbsp;'thesaurus':&nbsp;{'date':&nbsp;'2008-06-01',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'datetype':&nbsp;'publication',&nbsp;'title':&nbsp;'GEMET&nbsp;-&nbsp;INSPIRE&nbsp;themes,&nbsp;version&nbsp;1.0'}},<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'keywords':&nbsp;['Risque&nbsp;/&nbsp;Zonages&nbsp;Risque&nbsp;naturel'],&nbsp;'type':&nbsp;'theme',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'thesaurus':&nbsp;{'date':&nbsp;'2009-12-03',&nbsp;'datetype':&nbsp;'publication',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'title':&nbsp;'Arborescence&nbsp;COVADIS'}},<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'keywords':&nbsp;['RESSOURCES&nbsp;-&nbsp;NUISANCES/NUISANCE/source&nbsp;de&nbsp;nuisance&nbsp;(inclut&nbsp;risques&nbsp;industriels&nbsp;et&nbsp;naturels)'],<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'type':&nbsp;'theme',&nbsp;'thesaurus':&nbsp;{'date':&nbsp;'2009',&nbsp;'datetype':&nbsp;'publication',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'title':&nbsp;u'Thésaurus&nbsp;URBAMET'}},&nbsp;{'keywords':&nbsp;[u'Donn�es&nbsp;vecteur'],<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'type':&nbsp;'stratum',&nbsp;'thesaurus':&nbsp;{'date':&nbsp;None,&nbsp;'datetype':&nbsp;None,&nbsp;'title':&nbsp;None}}]<br>
+&gt;&gt;&gt;&nbsp;meta.identification.keywords&nbsp;=&nbsp;tabKeyword<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox&nbsp;=&nbsp;EX_GeographicBoundingBox()<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox.maxx&nbsp;=5<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox.maxy&nbsp;=&nbsp;10<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox.minx&nbsp;=&nbsp;0<br>
+&gt;&gt;&gt;&nbsp;meta.identification.bbox.miny&nbsp;=&nbsp;0<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contact&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;ci&nbsp;=&nbsp;CI_ResponsibleParty()<br>
+&gt;&gt;&gt;&nbsp;ci.city=&nbsp;'Bordeaux'<br>
+&gt;&gt;&gt;&nbsp;ci.role&nbsp;=&nbsp;'nothing'<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contact.append(ci)<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contributor&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;meta.identification.contributor.append(ci)<br>
+&gt;&gt;&gt;&nbsp;meta.identification.creator&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;meta.identification.creator.append(ci)<br>
+&gt;&gt;&gt;&nbsp;o['test_id']&nbsp;=&nbsp;meta<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(SDI).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(Metadata).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(Responsibleparty).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(Keyword).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(Dataidentification).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(Contact).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(Geographicboundingbox).delete()<br>
+&gt;&gt;&gt;&nbsp;num&nbsp;=&nbsp;insert.session.query(Extraction).delete()<br>
+&gt;&gt;&gt;&nbsp;insert.session.commit()<br>
+&gt;&gt;&gt;&nbsp;listconvert&nbsp;=&nbsp;insert.<a href="#Insertion-save_in_db">save_in_db</a>(o)<br>
+&gt;&gt;&gt;</tt></dd></dl>
+
+<dl><dt><a name="Insertion-save_orm_in_db"><strong>save_orm_in_db</strong></a>(self, listDeclaratives, number_to_records)</dt><dd><tt>Save&nbsp;a&nbsp;list&nbsp;in&nbsp;database.&nbsp;the&nbsp;list&nbsp;must&nbsp;be&nbsp;Declaratives.&nbsp;Check&nbsp;sqlalchemy&nbsp;for&nbsp;more&nbsp;informations.<br>
+&nbsp;<br>
+:param&nbsp;listDeclaratives:&nbsp;list&nbsp;of&nbsp;<a href="__builtin__.html#object">object</a>&nbsp;type&nbsp;declaratives&nbsp;to&nbsp;save&nbsp;in&nbsp;BDD<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;insert&nbsp;=&nbsp;<a href="#Insertion">Insertion</a>(Source(name_idg='test'))<br>
+&gt;&gt;&gt;&nbsp;list&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;sdi&nbsp;=&nbsp;SDI(id_sdi=1048,&nbsp;name='test',&nbsp;url='test_url',&nbsp;url_csw='test&nbsp;url_csw')<br>
+&gt;&gt;&gt;&nbsp;num_rows&nbsp;=&nbsp;insert.session.query(SDI).delete()<br>
+&gt;&gt;&gt;&nbsp;num_rows2&nbsp;=&nbsp;insert.session.query(Responsibleparty).delete()<br>
+&gt;&gt;&gt;&nbsp;insert.session.commit()<br>
+&gt;&gt;&gt;&nbsp;responsibleparty=&nbsp;Responsibleparty(id_responsibleparty=1,&nbsp;city='test_city',&nbsp;role='test&nbsp;role',<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization='test&nbsp;organization')<br>
+&gt;&gt;&gt;&nbsp;list.append(sdi)<br>
+&gt;&gt;&gt;&nbsp;list.append(responsibleparty)<br>
+&gt;&gt;&gt;&nbsp;query&nbsp;=&nbsp;insert.session.query(SDI.id_sdi).filter(SDI.id_sdi&nbsp;==&nbsp;1048)<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;=&nbsp;insert.session.execute(query)<br>
+&gt;&gt;&gt;&nbsp;res.fetchone()&nbsp;==&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;insert.<a href="#Insertion-save_orm_in_db">save_orm_in_db</a>(list,2)<br>
+&gt;&gt;&gt;&nbsp;query&nbsp;=&nbsp;insert.session.query(SDI.id_sdi).filter(SDI.id_sdi&nbsp;==&nbsp;1048)<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;=&nbsp;insert.session.execute(query)<br>
+&gt;&gt;&gt;&nbsp;resultat&nbsp;=&nbsp;res.fetchone()[0]<br>
+&gt;&gt;&gt;&nbsp;resultat&nbsp;==&nbsp;1048<br>
+True<br>
+&gt;&gt;&gt;&nbsp;query&nbsp;=&nbsp;insert.session.query(Responsibleparty.id_responsibleparty).filter(<br>
+...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responsibleparty.id_responsibleparty&nbsp;==&nbsp;1)<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;=&nbsp;insert.session.execute(query)<br>
+&gt;&gt;&gt;&nbsp;resultat&nbsp;=&nbsp;res.fetchone()[0]<br>
+&gt;&gt;&gt;&nbsp;resultat&nbsp;==&nbsp;1<br>
+True<br>
+&gt;&gt;&gt;&nbsp;list&nbsp;=&nbsp;[sdi]<br>
+&gt;&gt;&gt;&nbsp;insert.<a href="#Insertion-save_orm_in_db">save_orm_in_db</a>(list,2)</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>absolute_import</strong> = _Feature((2, 5, 0, 'alpha', 1), (3, 0, 0, 'alpha', 0), 16384)<br>
+<strong>division</strong> = _Feature((2, 2, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), 8192)<br>
+<strong>engine</strong> = Engine(postgresql://postgres:***@localhost:5432/csw_harvesterafter)<br>
+<strong>func</strong> = &lt;sqlalchemy.sql.functions._FunctionGenerator object&gt;<br>
+<strong>namespaces</strong> = {None: 'http://www.isotc211.org/2005/gmd', 'gco': 'http://www.isotc211.org/2005/gco', 'gmd': 'http://www.isotc211.org/2005/gmd', 'gml': 'http://www.opengis.net/gml', 'gml32': 'http://www.opengis.net/gml/3.2', 'gmx': 'http://www.isotc211.org/2005/gmx', 'gts': 'http://www.isotc211.org/2005/gts', 'srv': 'http://www.isotc211.org/2005/srv', 'xlink': 'http://www.w3.org/1999/xlink'}<br>
+<strong>print_function</strong> = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), 65536)</td></tr></table>
+</body></html>

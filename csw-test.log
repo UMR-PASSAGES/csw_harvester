@@ -1,0 +1,1287 @@
+2018-06-05 16:21:09,269 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw
+2018-06-05 16:21:09,617 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:21:11,745 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 0 ;maxrecord 30 ; nextrecord 30 ; returned 29
+2018-06-05 16:21:12,020 Insertion: INFO: 29 next values from CARTOMER inserted into database
+2018-06-05 16:21:15,959 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 30 ;maxrecord 30 ; nextrecord 59 ; returned 29
+2018-06-05 16:21:15,965 VerificationMatadata: WARNING:  1 : records already exist
+2018-06-05 16:21:16,314 Insertion: INFO: 28 next values from CARTOMER inserted into database
+2018-06-05 16:21:18,382 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 59 ;maxrecord 30 ; nextrecord 89 ; returned 30
+2018-06-05 16:21:18,388 VerificationMatadata: WARNING:  1 : records already exist
+2018-06-05 16:21:18,686 Insertion: INFO: 29 next values from CARTOMER inserted into database
+2018-06-05 16:21:20,466 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 89 ;maxrecord 30 ; nextrecord 119 ; returned 30
+2018-06-05 16:21:20,473 VerificationMetadata: WARNING: 2 : number incorrect records  
+2018-06-05 16:21:20,705 Insertion: INFO: 28 next values from CARTOMER inserted into database
+2018-06-05 16:21:22,503 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 119 ;maxrecord 30 ; nextrecord 149 ; returned 30
+2018-06-05 16:21:22,792 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:24,516 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 149 ;maxrecord 30 ; nextrecord 179 ; returned 30
+2018-06-05 16:21:24,768 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:25,997 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 179 ;maxrecord 30 ; nextrecord 209 ; returned 30
+2018-06-05 16:21:26,226 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:28,371 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 209 ;maxrecord 30 ; nextrecord 239 ; returned 30
+2018-06-05 16:21:28,633 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:30,497 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 239 ;maxrecord 30 ; nextrecord 269 ; returned 30
+2018-06-05 16:21:30,760 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:32,974 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 269 ;maxrecord 30 ; nextrecord 299 ; returned 30
+2018-06-05 16:21:33,453 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:35,238 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 299 ;maxrecord 30 ; nextrecord 329 ; returned 30
+2018-06-05 16:21:35,599 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:37,050 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 329 ;maxrecord 30 ; nextrecord 359 ; returned 30
+2018-06-05 16:21:37,390 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:38,552 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 359 ;maxrecord 30 ; nextrecord 389 ; returned 30
+2018-06-05 16:21:38,555 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:21:38,753 Insertion: INFO: 29 next values from CARTOMER inserted into database
+2018-06-05 16:21:40,138 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 389 ;maxrecord 30 ; nextrecord 419 ; returned 30
+2018-06-05 16:21:40,336 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:41,986 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 419 ;maxrecord 30 ; nextrecord 449 ; returned 30
+2018-06-05 16:21:42,231 Insertion: INFO: 30 next values from CARTOMER inserted into database
+2018-06-05 16:21:43,672 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 449 ;maxrecord 25 ; nextrecord 474 ; returned 25
+2018-06-05 16:21:43,866 Insertion: INFO: 25 next values from CARTOMER inserted into database
+2018-06-05 16:21:44,255 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 474 ;maxrecord 25 ; nextrecord 475 ; returned 1
+2018-06-05 16:21:44,284 Insertion: INFO: 1 next values from CARTOMER inserted into database
+2018-06-05 16:21:44,285 ExtractionGeocatalogueController: INFO: connect to :http://www.mongeosource.fr/geosource/1033/fre/csw?version=2.0.2
+2018-06-05 16:21:47,825 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:21:51,038 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:21:51,264 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:21:53,495 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:21:53,695 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:21:55,878 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:21:56,093 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:21:58,323 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:21:58,516 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:22:00,694 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:22:00,885 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:22:02,925 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:22:03,117 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:22:08,295 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:22:08,499 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:22:10,541 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:22:10,775 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:22:13,043 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:22:13,249 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:22:15,481 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:22:15,704 Insertion: INFO: 30 next values from Cartorisque inserted into database
+2018-06-05 16:22:16,740 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 301 ;maxrecord 12 ; nextrecord 312 ; returned 11
+2018-06-05 16:22:16,847 Insertion: INFO: 11 next values from Cartorisque inserted into database
+2018-06-05 16:22:16,848 ExtractionGeocatalogueController: INFO: connect to :http://services.data.shom.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-06-05 16:22:16,935 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:22:17,245 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:22:17,295 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:17,397 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:22:17,407 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:17,554 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:22:17,564 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:17,681 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:22:17,691 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:18,643 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:22:18,652 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:18,766 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:22:18,775 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:19,054 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:22:19,160 Insertion: INFO: 11 next values from SHOM inserted into database
+2018-06-05 16:22:19,740 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:22:19,925 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-06-05 16:22:20,344 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:22:20,493 Insertion: INFO: 22 next values from SHOM inserted into database
+2018-06-05 16:22:20,684 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:22:20,695 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:20,824 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:22:20,833 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:20,960 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:22:20,969 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:21,096 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:22:21,106 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:21,236 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:22:21,246 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:21,373 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:22:21,385 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:21,511 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:22:21,528 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:21,664 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:22:21,674 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:21,812 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:22:21,855 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:22,099 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:22:22,107 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:22,236 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:22:22,244 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:22,407 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:22:22,417 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:22,547 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:22:22,559 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:22,691 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-06-05 16:22:22,700 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:22,858 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-06-05 16:22:22,867 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:22,999 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-06-05 16:22:23,009 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:23,194 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 751 ;maxrecord 30 ; nextrecord 781 ; returned 30
+2018-06-05 16:22:23,203 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:23,369 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 781 ;maxrecord 30 ; nextrecord 811 ; returned 30
+2018-06-05 16:22:23,377 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:23,512 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 811 ;maxrecord 30 ; nextrecord 841 ; returned 30
+2018-06-05 16:22:23,525 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:23,909 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 841 ;maxrecord 30 ; nextrecord 871 ; returned 30
+2018-06-05 16:22:23,918 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:24,051 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 871 ;maxrecord 30 ; nextrecord 901 ; returned 30
+2018-06-05 16:22:24,060 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:24,197 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 901 ;maxrecord 30 ; nextrecord 931 ; returned 30
+2018-06-05 16:22:24,206 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:24,333 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 931 ;maxrecord 30 ; nextrecord 961 ; returned 30
+2018-06-05 16:22:24,343 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:24,495 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 961 ;maxrecord 30 ; nextrecord 991 ; returned 30
+2018-06-05 16:22:24,504 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:24,685 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 991 ;maxrecord 11 ; nextrecord 0 ; returned 11
+2018-06-05 16:22:24,709 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:22:24,710 ExtractionGeocatalogueController: INFO: connect to :http://www.mongeosource.fr/geosource/1111/fre/csw
+2018-06-05 16:22:24,984 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:22:27,245 ExtractionGeocatalogueController: INFO: matches 61 (from 0 to 60) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:22:27,474 Insertion: INFO: 30 next values from Geolittoral inserted into database
+2018-06-05 16:22:29,628 ExtractionGeocatalogueController: INFO: matches 61 (from 0 to 60) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:22:29,822 Insertion: INFO: 30 next values from Geolittoral inserted into database
+2018-06-05 16:22:29,824 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-06-05 16:22:30,094 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:22:30,218 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-06-05 16:22:30,219 ExtractionGeocatalogueController: ERROR: records are not corrects : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-06-05 16:22:30,222 ExtractionGeocatalogueController: INFO: connect to :http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-06-05 16:22:30,886 ExtractionGeocatalogueController: ERROR: Cannot connect to http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-06-05 16:22:30,949 ExtractionGeocatalogueController: ERROR:  connexion csw lost or not initialisize
+2018-06-05 16:22:30,950 ExtractionGeocatalogueController: INFO: connect to :https://agroenvgeo.data.inra.fr/geonetwork/srv/fre/csw
+2018-06-05 16:22:31,173 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:22:32,786 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:22:33,000 Insertion: INFO: 30 next values from AGROENVGEO inserted into database
+2018-06-05 16:22:34,300 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:22:34,457 Insertion: INFO: 30 next values from AGROENVGEO inserted into database
+2018-06-05 16:22:35,721 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:22:35,982 Insertion: INFO: 30 next values from AGROENVGEO inserted into database
+2018-06-05 16:22:37,174 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:22:37,324 Insertion: INFO: 30 next values from AGROENVGEO inserted into database
+2018-06-05 16:22:38,806 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:22:39,056 Insertion: INFO: 30 next values from AGROENVGEO inserted into database
+2018-06-05 16:22:40,373 ExtractionGeocatalogueController: ERROR: connexion aborted from AGROENVGEO
+2018-06-05 16:22:40,374 ExtractionGeocatalogueController: INFO: connect to :http://sextant.ifremer.fr/geonetwork/srv/eng/csw
+2018-06-05 16:22:40,515 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:22:42,552 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:22:42,745 Insertion: INFO: 12 next values from SEXTANT inserted into database
+2018-06-05 16:22:45,504 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:22:45,746 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:22:48,409 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:22:48,642 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:22:51,295 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:22:51,616 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:22:54,291 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:22:54,534 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:22:57,378 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:22:57,649 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:00,330 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:23:00,562 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:03,107 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:23:03,408 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:05,531 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:23:05,758 Insertion: INFO: 18 next values from SEXTANT inserted into database
+2018-06-05 16:23:08,609 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:23:08,923 Insertion: INFO: 29 next values from SEXTANT inserted into database
+2018-06-05 16:23:11,366 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:23:11,369 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:23:11,622 Insertion: INFO: 28 next values from SEXTANT inserted into database
+2018-06-05 16:23:12,901 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:23:12,979 Insertion: INFO: 6 next values from SEXTANT inserted into database
+2018-06-05 16:23:15,471 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:23:15,710 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:18,159 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:23:18,424 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:21,050 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:23:21,344 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:24,650 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:23:24,933 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:27,777 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:23:28,082 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:30,934 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:23:30,942 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:23:31,281 Insertion: INFO: 29 next values from SEXTANT inserted into database
+2018-06-05 16:23:33,931 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:23:34,223 Insertion: INFO: 28 next values from SEXTANT inserted into database
+2018-06-05 16:23:36,655 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:23:36,902 Insertion: INFO: 24 next values from SEXTANT inserted into database
+2018-06-05 16:23:39,436 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:23:39,718 Insertion: INFO: 28 next values from SEXTANT inserted into database
+2018-06-05 16:23:42,694 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:23:43,105 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:46,194 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-06-05 16:23:46,546 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:49,676 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-06-05 16:23:50,147 Insertion: INFO: 30 next values from SEXTANT inserted into database
+2018-06-05 16:23:54,871 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-06-05 16:23:58,078 Insertion: INFO: 29 next values from SEXTANT inserted into database
+2018-06-05 16:24:00,566 ExtractionGeocatalogueController: ERROR: connexion aborted from SEXTANT
+2018-06-05 16:24:00,567 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/fre/csw
+2018-06-05 16:24:00,894 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:24:01,013 ExtractionGeocatalogueController: ERROR: mismatched tag: line 1, column 235
+2018-06-05 16:24:01,016 ExtractionGeocatalogueController: ERROR: records are not corrects : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-06-05 16:24:01,028 ExtractionGeocatalogueController: INFO: connect to :http://inventaire.naturefrance.fr/geosource/srv/fre/csw
+2018-06-05 16:24:01,243 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:24:01,418 ExtractionGeocatalogueController: ERROR: 'uuid'
+2018-06-05 16:24:01,547 ExtractionGeocatalogueController: ERROR: connexion aborted from SINP
+2018-06-05 16:24:01,548 ExtractionGeocatalogueController: INFO: connect to :http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/eng/csw-moissonnable-ds-2?service=CSW
+2018-06-05 16:24:02,182 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:24:02,335 ExtractionGeocatalogueController: ERROR: syntax error: line 1, column 49
+2018-06-05 16:24:02,336 ExtractionGeocatalogueController: ERROR: records are not corrects : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-06-05 16:24:02,339 ExtractionGeocatalogueController: INFO: connect to :https://www.cigalsace.org/geonetwork/srv/eng/csw
+2018-06-05 16:24:02,715 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:24:04,903 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:24:05,647 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:07,064 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:24:07,544 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:08,958 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:24:09,416 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:11,145 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:24:11,669 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:13,114 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:24:13,389 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:14,504 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:24:14,761 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:16,172 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:24:16,522 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:18,009 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:24:18,319 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:19,733 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:24:20,012 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:21,129 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:24:21,419 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:22,857 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:24:23,111 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:24,428 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:24:24,660 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:25,983 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:24:26,223 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:27,523 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:24:27,749 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:29,116 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:24:29,351 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:30,662 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:24:30,884 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:32,001 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:24:32,208 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:33,417 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:24:33,578 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:34,702 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:24:34,865 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:35,986 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:24:36,195 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:37,351 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:24:37,576 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:38,859 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:24:39,087 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:40,169 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-06-05 16:24:40,402 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:41,546 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-06-05 16:24:41,785 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:42,749 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-06-05 16:24:42,939 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:44,014 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 751 ;maxrecord 30 ; nextrecord 781 ; returned 30
+2018-06-05 16:24:44,255 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:45,377 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 781 ;maxrecord 30 ; nextrecord 811 ; returned 30
+2018-06-05 16:24:45,596 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:46,792 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 811 ;maxrecord 30 ; nextrecord 841 ; returned 30
+2018-06-05 16:24:46,985 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:48,124 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 841 ;maxrecord 30 ; nextrecord 871 ; returned 30
+2018-06-05 16:24:48,327 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:49,370 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 871 ;maxrecord 30 ; nextrecord 901 ; returned 30
+2018-06-05 16:24:49,566 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:50,541 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 901 ;maxrecord 30 ; nextrecord 931 ; returned 30
+2018-06-05 16:24:50,743 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:51,907 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 931 ;maxrecord 30 ; nextrecord 961 ; returned 30
+2018-06-05 16:24:52,132 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:53,284 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 961 ;maxrecord 30 ; nextrecord 991 ; returned 30
+2018-06-05 16:24:53,517 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:54,688 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 991 ;maxrecord 30 ; nextrecord 1021 ; returned 30
+2018-06-05 16:24:54,926 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:55,932 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1021 ;maxrecord 30 ; nextrecord 1051 ; returned 30
+2018-06-05 16:24:56,176 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:57,334 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1051 ;maxrecord 30 ; nextrecord 1081 ; returned 30
+2018-06-05 16:24:57,628 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:24:58,567 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1081 ;maxrecord 30 ; nextrecord 1111 ; returned 30
+2018-06-05 16:24:58,792 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:00,162 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1111 ;maxrecord 30 ; nextrecord 1141 ; returned 30
+2018-06-05 16:25:00,495 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:01,523 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1141 ;maxrecord 30 ; nextrecord 1171 ; returned 30
+2018-06-05 16:25:01,771 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:02,944 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1171 ;maxrecord 30 ; nextrecord 1201 ; returned 30
+2018-06-05 16:25:03,212 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:04,319 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1201 ;maxrecord 30 ; nextrecord 1231 ; returned 30
+2018-06-05 16:25:04,506 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:05,785 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1231 ;maxrecord 30 ; nextrecord 1261 ; returned 30
+2018-06-05 16:25:06,006 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:07,273 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1261 ;maxrecord 30 ; nextrecord 1291 ; returned 30
+2018-06-05 16:25:07,483 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:08,663 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1291 ;maxrecord 30 ; nextrecord 1321 ; returned 30
+2018-06-05 16:25:08,952 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:10,152 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1321 ;maxrecord 30 ; nextrecord 1351 ; returned 30
+2018-06-05 16:25:10,383 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:11,598 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1351 ;maxrecord 30 ; nextrecord 1381 ; returned 30
+2018-06-05 16:25:11,851 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:13,004 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1381 ;maxrecord 30 ; nextrecord 1411 ; returned 30
+2018-06-05 16:25:13,243 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:14,452 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1411 ;maxrecord 30 ; nextrecord 1441 ; returned 30
+2018-06-05 16:25:14,684 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:15,800 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1441 ;maxrecord 30 ; nextrecord 1471 ; returned 30
+2018-06-05 16:25:16,043 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:17,328 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1471 ;maxrecord 30 ; nextrecord 1501 ; returned 30
+2018-06-05 16:25:17,544 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:18,520 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1501 ;maxrecord 30 ; nextrecord 1531 ; returned 30
+2018-06-05 16:25:18,778 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:20,027 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1531 ;maxrecord 30 ; nextrecord 1561 ; returned 30
+2018-06-05 16:25:20,267 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:21,590 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1561 ;maxrecord 30 ; nextrecord 1591 ; returned 30
+2018-06-05 16:25:21,832 Insertion: INFO: 30 next values from CIGAL inserted into database
+2018-06-05 16:25:22,832 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1591 ;maxrecord 27 ; nextrecord 1617 ; returned 26
+2018-06-05 16:25:23,028 Insertion: INFO: 26 next values from CIGAL inserted into database
+2018-06-05 16:25:23,029 ExtractionGeocatalogueController: INFO: connect to :http://ids.craig.fr/geocat/srv/fre/csw
+2018-06-05 16:25:23,274 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:25:26,168 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:25:26,436 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:28,899 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:25:29,119 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:32,171 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:25:32,415 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:35,009 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:25:35,248 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:37,761 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:25:37,965 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:40,559 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:25:40,797 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:43,097 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:25:43,342 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:46,011 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:25:46,232 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:49,485 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:25:49,746 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:52,556 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:25:52,783 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:55,873 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:25:56,110 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:25:59,727 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:25:59,938 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:26:03,178 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:26:03,385 Insertion: INFO: 30 next values from CRAIG inserted into database
+2018-06-05 16:26:05,052 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 391 ;maxrecord 22 ; nextrecord 412 ; returned 21
+2018-06-05 16:26:05,055 VerificationMetadata: WARNING: 4 : number incorrect records  
+2018-06-05 16:26:05,175 Insertion: INFO: 17 next values from CRAIG inserted into database
+2018-06-05 16:26:05,176 ExtractionGeocatalogueController: INFO: connect to :http://geocatalogue.crige-paca.org/geonetwork/srv/fr/csw
+2018-06-05 16:26:05,473 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:26:07,297 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:26:07,559 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:08,856 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:26:09,054 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:10,584 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:26:10,788 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:12,391 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:26:12,593 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:14,114 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:26:14,317 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:15,851 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:26:16,068 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:17,726 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:26:17,939 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:19,581 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:26:19,829 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:21,522 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:26:21,766 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:23,725 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:26:23,983 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:25,735 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:26:25,955 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:27,818 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:26:28,025 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:29,902 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:26:30,125 Insertion: INFO: 29 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:31,811 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:26:32,047 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:33,827 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:26:34,066 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:35,791 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:26:36,020 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:37,908 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:26:38,147 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:40,031 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:26:40,244 Insertion: INFO: 27 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:42,065 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:26:42,305 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:43,832 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:26:44,074 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:45,672 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:26:45,889 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:47,450 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:26:47,643 Insertion: INFO: 30 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:48,595 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 661 ;maxrecord 16 ; nextrecord 676 ; returned 15
+2018-06-05 16:26:48,715 Insertion: INFO: 15 next values from CRIGE_PACA inserted into database
+2018-06-05 16:26:48,717 ExtractionGeocatalogueController: INFO: connect to :https://geobretagne.fr/geonetwork/srv/fre/csw
+2018-06-05 16:26:49,000 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:26:50,680 ExtractionGeocatalogueController: INFO: matches 1954 (from 0 to 1953) ; first record 0 ;maxrecord 30 ; nextrecord 29 ; returned 28
+2018-06-05 16:26:50,682 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:26:50,914 Insertion: INFO: 27 next values from GeoBretagne inserted into database
+2018-06-05 16:26:52,953 ExtractionGeocatalogueController: INFO: matches 1954 (from 0 to 1953) ; first record 29 ;maxrecord 30 ; nextrecord 59 ; returned 30
+2018-06-05 16:26:52,954 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:26:52,958 VerificationMatadata: WARNING:  2 : records already exist
+2018-06-05 16:26:53,175 Insertion: INFO: 27 next values from GeoBretagne inserted into database
+2018-06-05 16:26:55,071 ExtractionGeocatalogueController: ERROR: connexion aborted from GeoBretagne
+2018-06-05 16:26:55,072 ExtractionGeocatalogueController: INFO: connect to :http://catalogue.geo-centre.fr/geonetwork/srv/fre/csw
+2018-06-05 16:26:55,267 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:26:55,727 ExtractionGeocatalogueController: ERROR: 'uuid'
+2018-06-05 16:26:55,990 ExtractionGeocatalogueController: ERROR: connexion aborted from GeoCentre
+2018-06-05 16:26:55,991 ExtractionGeocatalogueController: INFO: connect to :http://catalogue.geoguyane.fr/geonetwork/srv/fre/csw
+2018-06-05 16:26:56,456 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:26:57,269 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 0 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:57,327 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:57,626 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:57,635 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:57,934 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:57,943 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:58,325 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:58,334 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:58,654 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:58,663 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:58,954 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:58,963 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:59,269 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:59,278 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:59,560 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:59,568 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:26:59,864 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:26:59,877 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:00,160 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:00,169 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:00,555 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:00,570 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:00,861 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:00,869 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:01,172 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:01,182 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:01,462 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:01,470 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:01,755 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:01,769 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:02,071 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:02,082 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:02,371 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:02,380 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:02,675 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:02,687 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:03,019 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:03,030 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:03,354 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:03,366 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:03,699 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:03,708 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:04,091 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:04,101 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:04,381 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:04,391 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:04,667 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:04,676 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:04,972 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:04,982 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:05,258 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:05,266 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:05,548 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:05,559 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:05,926 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:05,936 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:06,313 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:06,324 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:06,696 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:06,706 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:07,000 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:07,010 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:07,297 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:07,305 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:07,597 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:07,607 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:07,917 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:07,927 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:08,207 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:08,216 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:08,526 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:08,534 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:08,828 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:08,838 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:09,225 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:09,234 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:09,531 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:09,540 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:09,859 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:09,868 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:10,181 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:10,190 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:10,498 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:10,508 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:10,802 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:10,812 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:11,114 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:11,124 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:11,440 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:11,453 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:11,750 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:11,758 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:12,073 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:12,082 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:12,408 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:12,416 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:12,721 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:12,731 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:13,030 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:13,038 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:13,330 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:13,340 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:13,646 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:13,655 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:13,953 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:13,961 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:14,246 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:14,255 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:14,562 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:14,571 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:14,861 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:14,870 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:15,152 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:15,165 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:15,448 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:15,458 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:15,774 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:15,786 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:16,068 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:16,078 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:16,370 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:16,380 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:16,669 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:16,678 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:16,986 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:16,995 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:17,291 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:17,299 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:27:17,594 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:27:17,604 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:30:18,624 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw
+2018-06-05 16:30:18,952 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:30:21,090 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 0 ;maxrecord 30 ; nextrecord 30 ; returned 29
+2018-06-05 16:30:21,126 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:30:21,132 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:23,190 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 30 ;maxrecord 30 ; nextrecord 59 ; returned 29
+2018-06-05 16:30:23,200 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:30:23,204 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:25,205 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 59 ;maxrecord 30 ; nextrecord 89 ; returned 30
+2018-06-05 16:30:25,217 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:25,223 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:26,769 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 89 ;maxrecord 30 ; nextrecord 119 ; returned 30
+2018-06-05 16:30:26,771 VerificationMetadata: WARNING: 2 : number incorrect records  
+2018-06-05 16:30:26,782 VerificationMatadata: WARNING:  28 : records already exist
+2018-06-05 16:30:26,788 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:29,973 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 119 ;maxrecord 30 ; nextrecord 149 ; returned 30
+2018-06-05 16:30:29,983 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:29,989 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:31,656 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 149 ;maxrecord 30 ; nextrecord 179 ; returned 30
+2018-06-05 16:30:31,665 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:31,671 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:33,383 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 179 ;maxrecord 30 ; nextrecord 209 ; returned 30
+2018-06-05 16:30:33,393 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:33,398 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:34,995 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 209 ;maxrecord 30 ; nextrecord 239 ; returned 30
+2018-06-05 16:30:35,005 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:35,011 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:36,825 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 239 ;maxrecord 30 ; nextrecord 269 ; returned 30
+2018-06-05 16:30:36,837 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:36,842 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:39,014 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 269 ;maxrecord 30 ; nextrecord 299 ; returned 30
+2018-06-05 16:30:39,025 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:39,030 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:41,165 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 299 ;maxrecord 30 ; nextrecord 329 ; returned 30
+2018-06-05 16:30:41,174 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:41,179 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:44,252 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 329 ;maxrecord 30 ; nextrecord 359 ; returned 30
+2018-06-05 16:30:44,262 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:44,267 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:45,801 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 359 ;maxrecord 30 ; nextrecord 389 ; returned 30
+2018-06-05 16:30:45,803 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:30:45,822 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:30:45,827 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:47,154 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 389 ;maxrecord 30 ; nextrecord 419 ; returned 30
+2018-06-05 16:30:47,163 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:47,169 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:48,785 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 419 ;maxrecord 30 ; nextrecord 449 ; returned 30
+2018-06-05 16:30:48,795 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:48,800 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:49,975 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 449 ;maxrecord 25 ; nextrecord 474 ; returned 25
+2018-06-05 16:30:49,982 VerificationMatadata: WARNING:  25 : records already exist
+2018-06-05 16:30:49,987 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:50,378 ExtractionGeocatalogueController: INFO: matches 475 (from 0 to 474) ; first record 474 ;maxrecord 25 ; nextrecord 475 ; returned 1
+2018-06-05 16:30:50,410 VerificationMatadata: WARNING:  1 : records already exist
+2018-06-05 16:30:50,414 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-06-05 16:30:50,415 ExtractionGeocatalogueController: INFO: connect to :http://www.mongeosource.fr/geosource/1033/fre/csw?version=2.0.2
+2018-06-05 16:30:50,616 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:30:52,491 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:30:52,530 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:52,536 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:30:55,792 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:30:55,805 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:55,810 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:30:57,470 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:30:57,478 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:57,484 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:30:59,173 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:30:59,181 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:30:59,186 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:00,833 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:31:00,841 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:00,847 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:02,531 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:31:02,543 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:02,548 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:04,361 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:31:04,370 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:04,376 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:06,074 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:31:06,085 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:06,090 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:07,744 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:31:07,754 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:07,758 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:09,457 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:31:09,466 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:09,470 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:10,223 ExtractionGeocatalogueController: INFO: matches 312 (from 0 to 311) ; first record 301 ;maxrecord 12 ; nextrecord 312 ; returned 11
+2018-06-05 16:31:10,230 VerificationMatadata: WARNING:  11 : records already exist
+2018-06-05 16:31:10,236 Insertion: INFO: 0 next values from Cartorisque inserted into database
+2018-06-05 16:31:10,236 ExtractionGeocatalogueController: INFO: connect to :http://services.data.shom.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-06-05 16:31:10,336 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:31:10,583 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:31:10,621 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:10,721 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:31:10,730 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:10,829 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:31:10,838 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:11,022 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:31:11,032 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:11,132 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:31:11,140 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:11,284 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:31:11,294 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:11,587 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:31:11,593 VerificationMatadata: WARNING:  11 : records already exist
+2018-06-05 16:31:11,599 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:12,054 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:31:12,061 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:12,066 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:12,659 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:31:12,665 VerificationMatadata: WARNING:  22 : records already exist
+2018-06-05 16:31:12,670 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:12,867 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:31:12,877 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:13,118 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:31:13,127 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:13,262 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:31:13,273 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:13,388 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:31:13,398 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:13,516 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:31:13,530 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:13,656 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:31:13,664 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:13,799 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:31:13,808 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:13,941 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:31:13,952 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:14,076 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:31:14,086 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:14,212 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:31:14,225 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:14,352 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:31:14,365 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:14,493 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:31:14,503 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:14,631 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:31:14,642 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:14,780 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-06-05 16:31:14,791 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:14,922 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-06-05 16:31:14,931 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:15,062 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-06-05 16:31:15,072 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:15,207 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 751 ;maxrecord 30 ; nextrecord 781 ; returned 30
+2018-06-05 16:31:15,217 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:15,347 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 781 ;maxrecord 30 ; nextrecord 811 ; returned 30
+2018-06-05 16:31:15,356 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:15,484 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 811 ;maxrecord 30 ; nextrecord 841 ; returned 30
+2018-06-05 16:31:15,495 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:15,621 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 841 ;maxrecord 30 ; nextrecord 871 ; returned 30
+2018-06-05 16:31:15,631 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:15,757 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 871 ;maxrecord 30 ; nextrecord 901 ; returned 30
+2018-06-05 16:31:15,766 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:15,896 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 901 ;maxrecord 30 ; nextrecord 931 ; returned 30
+2018-06-05 16:31:15,905 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:16,035 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 931 ;maxrecord 30 ; nextrecord 961 ; returned 30
+2018-06-05 16:31:16,046 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:16,172 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 961 ;maxrecord 30 ; nextrecord 991 ; returned 30
+2018-06-05 16:31:16,182 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:16,307 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 991 ;maxrecord 11 ; nextrecord 0 ; returned 11
+2018-06-05 16:31:16,323 Insertion: INFO: 0 next values from SHOM inserted into database
+2018-06-05 16:31:16,324 ExtractionGeocatalogueController: INFO: connect to :http://www.mongeosource.fr/geosource/1111/fre/csw
+2018-06-05 16:31:16,518 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:31:18,387 ExtractionGeocatalogueController: INFO: matches 61 (from 0 to 60) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:31:18,421 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:18,427 Insertion: INFO: 0 next values from Geolittoral inserted into database
+2018-06-05 16:31:20,040 ExtractionGeocatalogueController: INFO: matches 61 (from 0 to 60) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:31:20,047 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:20,052 Insertion: INFO: 0 next values from Geolittoral inserted into database
+2018-06-05 16:31:20,052 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-06-05 16:31:35,257 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:31:40,362 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-06-05 16:31:40,363 ExtractionGeocatalogueController: ERROR: records are not corrects : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-06-05 16:31:40,366 ExtractionGeocatalogueController: INFO: connect to :http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-06-05 16:31:40,806 ExtractionGeocatalogueController: ERROR: Cannot connect to http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-06-05 16:31:40,836 ExtractionGeocatalogueController: ERROR:  connexion csw lost or not initialisize
+2018-06-05 16:31:40,837 ExtractionGeocatalogueController: INFO: connect to :https://agroenvgeo.data.inra.fr/geonetwork/srv/fre/csw
+2018-06-05 16:31:41,024 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:31:42,389 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:31:42,423 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:42,428 Insertion: INFO: 0 next values from AGROENVGEO inserted into database
+2018-06-05 16:31:43,559 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:31:43,566 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:43,570 Insertion: INFO: 0 next values from AGROENVGEO inserted into database
+2018-06-05 16:31:44,669 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:31:44,676 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:44,680 Insertion: INFO: 0 next values from AGROENVGEO inserted into database
+2018-06-05 16:31:45,742 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:31:45,749 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:45,754 Insertion: INFO: 0 next values from AGROENVGEO inserted into database
+2018-06-05 16:31:47,012 ExtractionGeocatalogueController: INFO: matches 195 (from 0 to 194) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:31:47,020 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:47,025 Insertion: INFO: 0 next values from AGROENVGEO inserted into database
+2018-06-05 16:31:47,848 ExtractionGeocatalogueController: ERROR: connexion aborted from AGROENVGEO
+2018-06-05 16:31:47,849 ExtractionGeocatalogueController: INFO: connect to :http://sextant.ifremer.fr/geonetwork/srv/eng/csw
+2018-06-05 16:31:47,911 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:31:49,465 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:31:49,498 VerificationMatadata: WARNING:  12 : records already exist
+2018-06-05 16:31:49,504 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:31:51,686 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:31:51,697 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:51,702 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:31:53,948 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:31:53,959 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:53,964 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:31:56,114 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:31:56,126 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:56,131 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:31:58,306 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:31:58,317 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:31:58,323 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:00,687 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:32:00,699 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:00,706 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:04,311 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:32:04,322 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:04,327 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:06,644 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:32:06,656 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:06,660 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:08,416 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:32:08,426 VerificationMatadata: WARNING:  18 : records already exist
+2018-06-05 16:32:08,434 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:10,903 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:32:10,914 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:32:10,920 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:13,191 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:32:13,193 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:32:13,207 VerificationMatadata: WARNING:  28 : records already exist
+2018-06-05 16:32:13,213 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:14,256 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:32:14,265 VerificationMatadata: WARNING:  6 : records already exist
+2018-06-05 16:32:14,270 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:16,640 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:32:16,650 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:16,656 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:19,040 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:32:19,052 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:19,057 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:21,783 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:32:21,794 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:21,799 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:24,841 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:32:24,853 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:24,858 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:28,190 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:32:28,202 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:28,207 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:31,223 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:32:31,224 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:32:31,236 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:32:31,241 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:34,066 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:32:34,079 VerificationMatadata: WARNING:  28 : records already exist
+2018-06-05 16:32:34,084 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:36,905 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:32:36,917 VerificationMatadata: WARNING:  24 : records already exist
+2018-06-05 16:32:36,923 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:39,706 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:32:39,718 VerificationMatadata: WARNING:  28 : records already exist
+2018-06-05 16:32:39,723 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:42,480 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:32:42,496 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:42,502 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:45,542 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-06-05 16:32:45,553 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:45,557 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:48,575 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-06-05 16:32:48,588 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:48,594 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:51,347 ExtractionGeocatalogueController: INFO: matches 6667 (from 0 to 6666) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-06-05 16:32:51,363 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:32:51,369 Insertion: INFO: 0 next values from SEXTANT inserted into database
+2018-06-05 16:32:53,623 ExtractionGeocatalogueController: ERROR: connexion aborted from SEXTANT
+2018-06-05 16:32:53,623 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/fre/csw
+2018-06-05 16:32:54,025 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:32:54,138 ExtractionGeocatalogueController: ERROR: mismatched tag: line 1, column 235
+2018-06-05 16:32:54,138 ExtractionGeocatalogueController: ERROR: records are not corrects : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-06-05 16:32:54,141 ExtractionGeocatalogueController: INFO: connect to :http://inventaire.naturefrance.fr/geosource/srv/fre/csw
+2018-06-05 16:32:54,267 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:32:54,419 ExtractionGeocatalogueController: ERROR: 'uuid'
+2018-06-05 16:32:54,534 ExtractionGeocatalogueController: ERROR: connexion aborted from SINP
+2018-06-05 16:32:54,535 ExtractionGeocatalogueController: INFO: connect to :http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/eng/csw-moissonnable-ds-2?service=CSW
+2018-06-05 16:32:55,169 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:32:55,307 ExtractionGeocatalogueController: ERROR: syntax error: line 1, column 49
+2018-06-05 16:32:55,308 ExtractionGeocatalogueController: ERROR: records are not corrects : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-06-05 16:32:55,310 ExtractionGeocatalogueController: INFO: connect to :https://www.cigalsace.org/geonetwork/srv/eng/csw
+2018-06-05 16:32:55,520 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:32:56,952 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:32:56,997 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:57,003 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:32:58,220 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:32:58,242 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:58,247 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:32:59,506 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:32:59,526 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:32:59,531 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:00,612 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:33:00,632 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:00,636 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:02,203 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:33:02,223 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:02,227 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:03,519 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:33:03,538 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:03,545 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:04,638 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:33:04,662 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:04,666 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:05,823 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:33:05,841 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:05,847 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:06,956 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:33:06,976 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:06,982 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:08,274 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:33:08,294 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:08,298 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:09,620 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:33:09,638 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:09,645 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:10,900 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:33:10,919 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:10,924 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:12,037 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:33:12,058 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:12,064 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:13,318 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:33:13,369 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:13,374 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:14,532 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:33:14,567 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:14,580 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:16,010 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:33:16,030 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:16,035 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:17,212 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:33:17,234 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:17,240 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:18,394 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:33:18,411 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:18,416 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:19,510 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:33:19,528 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:19,533 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:20,755 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:33:20,773 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:20,780 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:21,931 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:33:21,948 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:21,955 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:23,009 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:33:23,027 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:23,033 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:24,261 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-06-05 16:33:24,278 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:24,283 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:25,406 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-06-05 16:33:25,424 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:25,430 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:26,618 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-06-05 16:33:26,639 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:26,645 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:27,786 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 751 ;maxrecord 30 ; nextrecord 781 ; returned 30
+2018-06-05 16:33:27,806 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:27,810 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:28,927 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 781 ;maxrecord 30 ; nextrecord 811 ; returned 30
+2018-06-05 16:33:28,947 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:28,953 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:29,920 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 811 ;maxrecord 30 ; nextrecord 841 ; returned 30
+2018-06-05 16:33:29,945 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:29,950 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:31,120 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 841 ;maxrecord 30 ; nextrecord 871 ; returned 30
+2018-06-05 16:33:31,140 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:31,146 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:32,376 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 871 ;maxrecord 30 ; nextrecord 901 ; returned 30
+2018-06-05 16:33:32,396 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:32,402 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:33,531 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 901 ;maxrecord 30 ; nextrecord 931 ; returned 30
+2018-06-05 16:33:33,556 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:33,560 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:34,680 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 931 ;maxrecord 30 ; nextrecord 961 ; returned 30
+2018-06-05 16:33:34,700 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:34,706 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:35,962 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 961 ;maxrecord 30 ; nextrecord 991 ; returned 30
+2018-06-05 16:33:35,984 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:35,988 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:37,211 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 991 ;maxrecord 30 ; nextrecord 1021 ; returned 30
+2018-06-05 16:33:37,232 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:37,238 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:38,505 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1021 ;maxrecord 30 ; nextrecord 1051 ; returned 30
+2018-06-05 16:33:38,527 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:38,533 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:39,579 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1051 ;maxrecord 30 ; nextrecord 1081 ; returned 30
+2018-06-05 16:33:39,599 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:39,604 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:40,848 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1081 ;maxrecord 30 ; nextrecord 1111 ; returned 30
+2018-06-05 16:33:40,867 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:40,873 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:42,075 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1111 ;maxrecord 30 ; nextrecord 1141 ; returned 30
+2018-06-05 16:33:42,100 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:42,104 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:43,171 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1141 ;maxrecord 30 ; nextrecord 1171 ; returned 30
+2018-06-05 16:33:43,191 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:43,196 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:44,447 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1171 ;maxrecord 30 ; nextrecord 1201 ; returned 30
+2018-06-05 16:33:44,466 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:44,472 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:45,580 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1201 ;maxrecord 30 ; nextrecord 1231 ; returned 30
+2018-06-05 16:33:45,599 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:45,605 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:46,893 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1231 ;maxrecord 30 ; nextrecord 1261 ; returned 30
+2018-06-05 16:33:46,912 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:46,918 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:48,134 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1261 ;maxrecord 30 ; nextrecord 1291 ; returned 30
+2018-06-05 16:33:48,153 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:48,158 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:49,362 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1291 ;maxrecord 30 ; nextrecord 1321 ; returned 30
+2018-06-05 16:33:49,382 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:49,387 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:50,373 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1321 ;maxrecord 30 ; nextrecord 1351 ; returned 30
+2018-06-05 16:33:50,395 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:50,401 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:51,684 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1351 ;maxrecord 30 ; nextrecord 1381 ; returned 30
+2018-06-05 16:33:51,707 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:51,714 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:52,910 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1381 ;maxrecord 30 ; nextrecord 1411 ; returned 30
+2018-06-05 16:33:52,935 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:52,940 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:54,096 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1411 ;maxrecord 30 ; nextrecord 1441 ; returned 30
+2018-06-05 16:33:54,120 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:54,126 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:55,188 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1441 ;maxrecord 30 ; nextrecord 1471 ; returned 30
+2018-06-05 16:33:55,209 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:55,214 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:56,418 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1471 ;maxrecord 30 ; nextrecord 1501 ; returned 30
+2018-06-05 16:33:56,438 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:56,444 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:57,572 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1501 ;maxrecord 30 ; nextrecord 1531 ; returned 30
+2018-06-05 16:33:57,595 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:57,600 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:58,809 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1531 ;maxrecord 30 ; nextrecord 1561 ; returned 30
+2018-06-05 16:33:58,831 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:58,837 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:33:59,819 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1561 ;maxrecord 30 ; nextrecord 1591 ; returned 30
+2018-06-05 16:33:59,839 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:33:59,844 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:34:00,689 ExtractionGeocatalogueController: INFO: matches 1617 (from 0 to 1616) ; first record 1591 ;maxrecord 27 ; nextrecord 1617 ; returned 26
+2018-06-05 16:34:00,709 VerificationMatadata: WARNING:  26 : records already exist
+2018-06-05 16:34:00,713 Insertion: INFO: 0 next values from CIGAL inserted into database
+2018-06-05 16:34:00,713 ExtractionGeocatalogueController: INFO: connect to :http://ids.craig.fr/geocat/srv/fre/csw
+2018-06-05 16:34:00,923 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:34:04,346 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:34:04,386 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:04,392 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:07,110 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:34:07,119 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:07,124 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:10,315 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:34:10,329 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:10,334 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:13,379 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:34:13,388 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:13,393 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:16,335 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:34:16,348 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:16,353 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:19,265 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:34:19,275 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:19,280 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:21,984 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:34:21,993 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:21,998 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:25,065 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:34:25,075 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:25,081 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:28,996 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:34:29,005 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:29,010 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:32,303 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:34:32,318 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:32,323 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:35,667 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:34:35,676 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:35,682 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:39,371 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:34:39,382 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:39,387 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:42,266 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:34:42,276 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:42,282 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:43,804 ExtractionGeocatalogueController: INFO: matches 412 (from 0 to 411) ; first record 391 ;maxrecord 22 ; nextrecord 412 ; returned 21
+2018-06-05 16:34:43,807 VerificationMetadata: WARNING: 4 : number incorrect records  
+2018-06-05 16:34:43,819 VerificationMatadata: WARNING:  17 : records already exist
+2018-06-05 16:34:43,824 Insertion: INFO: 0 next values from CRAIG inserted into database
+2018-06-05 16:34:43,825 ExtractionGeocatalogueController: INFO: connect to :http://geocatalogue.crige-paca.org/geonetwork/srv/fr/csw
+2018-06-05 16:34:44,028 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:34:45,537 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-06-05 16:34:45,576 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:45,581 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:47,146 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-06-05 16:34:47,157 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:47,161 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:48,554 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-06-05 16:34:48,564 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:48,569 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:49,959 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-06-05 16:34:49,975 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:49,983 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:51,519 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-06-05 16:34:51,530 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:51,536 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:53,030 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-06-05 16:34:53,042 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:53,048 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:54,500 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-06-05 16:34:54,513 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:54,518 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:55,997 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-06-05 16:34:56,006 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:56,013 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:57,553 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-06-05 16:34:57,564 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:57,570 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:34:59,112 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-06-05 16:34:59,124 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:34:59,131 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:00,878 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-06-05 16:35:00,893 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:00,899 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:02,410 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-06-05 16:35:02,422 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:02,428 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:04,027 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-06-05 16:35:04,038 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:35:04,043 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:05,625 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-06-05 16:35:05,638 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:05,644 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:07,151 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-06-05 16:35:07,162 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:07,168 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:08,667 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-06-05 16:35:08,679 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:08,684 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:10,537 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-06-05 16:35:10,548 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:10,552 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:12,404 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-06-05 16:35:12,421 VerificationMatadata: WARNING:  27 : records already exist
+2018-06-05 16:35:12,426 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:14,149 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-06-05 16:35:14,160 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:14,165 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:15,723 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-06-05 16:35:15,734 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:15,739 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:17,265 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-06-05 16:35:17,276 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:17,281 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:18,808 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-06-05 16:35:18,820 VerificationMatadata: WARNING:  30 : records already exist
+2018-06-05 16:35:18,826 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:19,753 ExtractionGeocatalogueController: INFO: matches 676 (from 0 to 675) ; first record 661 ;maxrecord 16 ; nextrecord 676 ; returned 15
+2018-06-05 16:35:19,762 VerificationMatadata: WARNING:  15 : records already exist
+2018-06-05 16:35:19,769 Insertion: INFO: 0 next values from CRIGE_PACA inserted into database
+2018-06-05 16:35:19,769 ExtractionGeocatalogueController: INFO: connect to :https://geobretagne.fr/geonetwork/srv/fre/csw
+2018-06-05 16:35:20,035 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:35:21,779 ExtractionGeocatalogueController: INFO: matches 1954 (from 0 to 1953) ; first record 0 ;maxrecord 30 ; nextrecord 29 ; returned 28
+2018-06-05 16:35:21,782 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:35:21,818 VerificationMatadata: WARNING:  27 : records already exist
+2018-06-05 16:35:21,824 Insertion: INFO: 0 next values from GeoBretagne inserted into database
+2018-06-05 16:35:23,403 ExtractionGeocatalogueController: INFO: matches 1954 (from 0 to 1953) ; first record 29 ;maxrecord 30 ; nextrecord 59 ; returned 30
+2018-06-05 16:35:23,404 VerificationMetadata: WARNING: 1 : number incorrect records  
+2018-06-05 16:35:23,413 VerificationMatadata: WARNING:  29 : records already exist
+2018-06-05 16:35:23,418 Insertion: INFO: 0 next values from GeoBretagne inserted into database
+2018-06-05 16:35:25,001 ExtractionGeocatalogueController: ERROR: connexion aborted from GeoBretagne
+2018-06-05 16:35:25,002 ExtractionGeocatalogueController: INFO: connect to :http://catalogue.geo-centre.fr/geonetwork/srv/fre/csw
+2018-06-05 16:35:25,135 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:35:25,420 ExtractionGeocatalogueController: ERROR: 'uuid'
+2018-06-05 16:35:25,672 ExtractionGeocatalogueController: ERROR: connexion aborted from GeoCentre
+2018-06-05 16:35:25,673 ExtractionGeocatalogueController: INFO: connect to :http://catalogue.geoguyane.fr/geonetwork/srv/fre/csw
+2018-06-05 16:35:26,052 ExtractionGeocatalogueController: INFO: connected
+2018-06-05 16:35:26,760 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 0 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:26,800 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:27,182 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:27,190 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:27,608 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:27,618 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:27,935 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:27,943 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:28,261 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:28,271 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:28,564 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:28,573 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:28,880 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:28,889 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:29,185 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:29,193 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:29,483 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:29,494 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:29,809 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:29,818 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:30,104 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:30,112 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:30,487 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:30,496 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:30,895 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:30,904 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:31,203 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:31,211 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:31,602 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:31,610 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:31,916 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:31,925 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:32,299 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:32,308 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:32,639 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:32,647 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:32,964 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:32,977 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:33,650 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:33,658 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:33,999 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:34,008 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:34,300 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:34,308 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:34,608 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:34,617 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:35,015 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:35,024 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:35,667 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:35,677 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:36,139 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:36,148 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:36,482 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:36,491 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:36,787 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:36,796 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:37,199 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:37,208 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:37,620 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:37,628 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:38,022 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:38,031 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:38,340 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:38,349 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:38,750 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:38,763 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:39,152 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:39,161 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:39,471 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:39,480 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:39,812 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:39,822 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:40,119 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:40,133 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:40,514 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:40,523 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:40,832 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:40,841 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:41,135 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:41,144 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:41,430 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:41,438 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:41,744 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:41,753 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:42,032 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:42,040 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:42,404 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:42,414 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:42,703 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:42,712 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:43,000 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:43,009 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:43,301 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:43,310 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:43,600 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:43,608 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:43,890 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:43,900 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:44,192 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:44,200 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:44,509 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:44,519 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:44,899 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:44,908 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:45,203 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:45,212 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:45,536 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:45,544 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:45,840 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:45,849 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:46,154 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:46,163 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:46,479 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:46,488 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:46,784 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:46,793 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:47,188 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:47,198 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:47,535 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:47,543 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:47,841 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:47,850 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:48,222 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:48,230 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:48,543 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:48,552 Insertion: INFO: 0 next values from GeoGuyane inserted into database
+2018-06-05 16:35:48,833 ExtractionGeocatalogueController: INFO: matches 3447 (from 0 to 3446) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-06-05 16:35:48,841 Insertion: INFO: 0 next values from GeoGuyane inserted into database

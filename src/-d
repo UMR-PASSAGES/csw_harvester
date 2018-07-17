@@ -1,0 +1,176 @@
+2018-05-24 09:50:00,132 ExtractionGeocatalogueController: INFO: connect to :http://www.sigogne.org:8080/geosource/srv/fre/csw
+2018-05-24 09:50:00,327 ExtractionGeocatalogueController: INFO: connected
+2018-05-24 09:50:02,264 ExtractionGeocatalogueController: INFO: matches 36 (from 0 to 35) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-05-24 09:50:02,553 Insertion: INFO: 30 next values from SIGOGNE inserted into database
+2018-05-24 09:50:03,034 ExtractionGeocatalogueController: INFO: matches 36 (from 0 to 35) ; first record 31 ;maxrecord 6 ; nextrecord 36 ; returned 5
+2018-05-24 09:50:03,091 Insertion: INFO: 5 next values from SIGOGNE inserted into database
+2018-05-24 09:50:03,092 ExtractionGeocatalogueController: INFO: connect to :http://www.geomartinique.fr/geonetwork/srv/fre/csw
+2018-05-24 09:50:03,303 ExtractionGeocatalogueController: INFO: connected
+2018-05-24 09:50:03,441 ExtractionGeocatalogueController: ERROR: 'uuid'
+2018-05-24 09:50:03,549 ExtractionGeocatalogueController: ERROR: connexion aborted from GeoMartinique
+2018-05-24 09:50:03,549 ExtractionGeocatalogueController: INFO: connect to :http://www.karugeo.fr/geonetwork/srv/fre/csw
+2018-05-24 09:50:03,925 ExtractionGeocatalogueController: INFO: connected
+2018-05-24 09:50:04,527 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 0 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:04,569 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:04,835 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:04,841 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:05,168 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:05,174 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:05,430 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:05,437 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:05,715 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:05,722 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:05,978 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:05,985 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:06,320 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:06,325 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:06,578 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:06,585 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:06,840 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:06,848 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:07,182 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:07,188 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:07,440 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:07,446 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:07,703 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:07,710 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:07,949 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:07,955 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:08,213 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:08,219 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:08,479 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:08,485 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:08,734 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:08,740 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:08,995 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:09,001 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:09,242 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:09,249 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:09,521 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:09,527 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:09,792 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:09,798 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:10,053 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:10,059 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:10,299 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:10,305 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:10,658 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:10,664 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:10,919 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:10,925 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:11,162 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:11,168 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:11,428 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:11,434 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:11,726 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:11,732 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:12,035 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:12,042 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:12,297 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:12,303 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:12,570 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:12,578 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:12,827 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:12,833 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:13,067 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:13,073 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:13,327 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:13,332 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:13,678 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:13,685 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:13,924 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:13,933 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:14,189 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:14,196 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:14,432 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:14,438 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:14,694 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:14,700 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:14,954 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:14,960 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:15,199 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:15,205 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:15,460 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:15,467 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:15,727 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:15,734 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:15,971 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:15,977 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:16,227 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:16,233 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:16,491 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:16,497 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:16,743 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:16,748 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:17,005 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:17,011 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:17,330 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:17,337 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:17,590 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:17,595 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:17,866 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:17,872 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:18,113 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:18,150 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:18,431 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:18,436 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:18,692 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:18,698 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:18,941 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:18,947 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:19,208 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:19,215 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:19,463 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:19,468 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:19,724 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:19,731 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:19,989 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:19,994 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:20,238 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:20,244 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:20,591 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:20,596 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:20,849 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:20,855 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:21,095 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:21,100 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:21,354 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:21,360 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:21,601 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:21,607 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:21,875 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:21,882 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:22,146 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:22,152 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:22,395 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:22,402 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:22,659 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:22,665 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:22,905 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:22,910 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:23,243 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:23,249 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:23,512 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:23,518 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:23,780 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:23,787 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:24,046 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:24,052 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:24,289 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:24,296 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:24,544 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:24,550 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:24,805 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:24,810 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:25,046 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:25,051 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:25,391 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:25,396 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:25,636 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:25,643 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:25,898 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:25,905 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:26,156 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:26,162 Insertion: INFO: 0 next values from Karugeo inserted into database
+2018-05-24 09:50:26,473 ExtractionGeocatalogueController: INFO: matches 566 (from 0 to 565) ; first record 1 ;maxrecord 30 ; nextrecord 1 ; returned 0
+2018-05-24 09:50:26,479 Insertion: INFO: 0 next values from Karugeo inserted into database

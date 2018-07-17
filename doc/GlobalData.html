@@ -1,0 +1,122 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module GlobalData</title>
+<meta charset="utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>GlobalData</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/laurent/Documents/pdp/pdpmaster1/csw-harvester-refactoring/src/GlobalData.py">/home/laurent/Documents/pdp/pdpmaster1/csw-harvester-refactoring/src/GlobalData.py</a></font></td></tr></table>
+    <p><tt>#&nbsp;-*-&nbsp;coding:&nbsp;utf-8&nbsp;-*-</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="ConfigParser.html">ConfigParser</a><br>
+</td><td width="25%" valign=top><a href="datetime.html">datetime</a><br>
+</td><td width="25%" valign=top><a href="logging.html">logging</a><br>
+</td><td width="25%" valign=top><a href="sys.html">sys</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="__builtin__.html#object">__builtin__.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="GlobalData.html#GlobalData">GlobalData</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="GlobalData">class <strong>GlobalData</strong></a>(<a href="__builtin__.html#object">__builtin__.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>&nbsp;This&nbsp;module&nbsp;allows&nbsp;to&nbsp;manage&nbsp;not&nbsp;only&nbsp;the&nbsp;external&nbsp;resources&nbsp;required&nbsp;for&nbsp;performed&nbsp;the&nbsp;harvesting&nbsp;such&nbsp;as&nbsp;database<br>
+(to&nbsp;archive&nbsp;information&nbsp;for&nbsp;future&nbsp;analyse)&nbsp;and&nbsp;list&nbsp;of&nbsp;geocatalogs&nbsp;in&nbsp;a&nbsp;CSV&nbsp;File&nbsp;(it&nbsp;is&nbsp;used&nbsp;to&nbsp;find&nbsp;server&nbsp;where<br>
+we&nbsp;request&nbsp;the&nbsp;metadata&nbsp;geographic),&nbsp;but&nbsp;also&nbsp;the&nbsp;execute&nbsp;options.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="GlobalData-__init__"><strong>__init__</strong></a>(self)</dt><dd><tt>Test:<br>
+&gt;&gt;&gt;&nbsp;globalData&nbsp;=&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>()<br>
+&gt;&gt;&gt;&nbsp;globalData.parser&nbsp;is&nbsp;not&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;globalData.dictDataBaseParameter&nbsp;is&nbsp;not&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;globalData.list_geocatalog_sources&nbsp;is&nbsp;not&nbsp;None<br>
+True</tt></dd></dl>
+
+<dl><dt><a name="GlobalData-get_data_base_parameter"><strong>get_data_base_parameter</strong></a>(self, key)</dt><dd><tt>Get&nbsp;options&nbsp;of&nbsp;database&nbsp;:&nbsp;port,&nbsp;dbname,&nbsp;host,&nbsp;user,&nbsp;password.<br>
+&nbsp;<br>
+:param&nbsp;key:&nbsp;the&nbsp;option&nbsp;of&nbsp;database&nbsp;to&nbsp;recover<br>
+:return:&nbsp;string&nbsp;to&nbsp;option<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;glob&nbsp;=&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>()<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;=&nbsp;glob.<a href="#GlobalData-get_data_base_parameter">get_data_base_parameter</a>('port')<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;is&nbsp;not&nbsp;None<br>
+True</tt></dd></dl>
+
+<dl><dt><a name="GlobalData-get_geocatalog_sources"><strong>get_geocatalog_sources</strong></a>(self)</dt><dd><tt>Get&nbsp;the&nbsp;list&nbsp;entire&nbsp;of&nbsp;geocatalogs&nbsp;in&nbsp;the&nbsp;file&nbsp;source.<br>
+&nbsp;<br>
+:return:&nbsp;sources.<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;glob&nbsp;=&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>()<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;=&nbsp;glob.<a href="#GlobalData-get_geocatalog_sources">get_geocatalog_sources</a>()<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;is&nbsp;not&nbsp;None<br>
+True</tt></dd></dl>
+
+<dl><dt><a name="GlobalData-get_options"><strong>get_options</strong></a>(self)</dt><dd><tt>Get&nbsp;all&nbsp;possible&nbsp;options&nbsp;for&nbsp;execute&nbsp;the&nbsp;application.<br>
+&nbsp;<br>
+:return:&nbsp;all&nbsp;option&nbsp;of&nbsp;the&nbsp;application<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;glob&nbsp;=&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>()<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;=&nbsp;glob.<a href="#GlobalData-get_options">get_options</a>()<br>
+&gt;&gt;&gt;&nbsp;res&nbsp;is&nbsp;not&nbsp;None<br>
+True</tt></dd></dl>
+
+<hr>
+Static methods defined here:<br>
+<dl><dt><a name="GlobalData-get_instance"><strong>get_instance</strong></a>()</dt><dd><tt>Returns&nbsp;the&nbsp;unique&nbsp;instance&nbsp;of&nbsp;the&nbsp;<a href="#GlobalData">GlobalData</a>&nbsp;class<br>
+&nbsp;<br>
+:return:&nbsp;&nbsp;the&nbsp;single&nbsp;instance&nbsp;of&nbsp;global&nbsp;data<br>
+&nbsp;<br>
+Test:<br>
+&gt;&gt;&gt;&nbsp;globalData&nbsp;=&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>()<br>
+&gt;&gt;&gt;&nbsp;globalData&nbsp;is&nbsp;not&nbsp;None<br>
+True<br>
+&gt;&gt;&gt;&nbsp;g&nbsp;=&nbsp;<a href="#GlobalData">GlobalData</a>()<br>
+Traceback&nbsp;(most&nbsp;recent&nbsp;call&nbsp;last):<br>
+&nbsp;...<br>
+Exception:&nbsp;This&nbsp;class&nbsp;is&nbsp;a&nbsp;singleton!<br>
+&gt;&gt;&gt;&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>().parser.set_default('sources',&nbsp;None)<br>
+&gt;&gt;&gt;&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>().list_geocatalog_sources&nbsp;=&nbsp;[]<br>
+&gt;&gt;&gt;&nbsp;<a href="#GlobalData">GlobalData</a>.<a href="#GlobalData-get_instance">get_instance</a>()._init_csv_file()<br>
+Traceback&nbsp;(most&nbsp;recent&nbsp;call&nbsp;last):<br>
+...<br>
+NameError:&nbsp;Error&nbsp;CSV&nbsp;file&nbsp;Name&nbsp;:&nbsp;None</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+</td></tr></table></td></tr></table>
+</body></html>

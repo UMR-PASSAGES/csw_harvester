@@ -3,6 +3,7 @@
 ## Synopsis
 
 This is a python script that harvests metadata from CSW web services and saves some information from these metadata in a postgreSQL database.
+This script was created by [Mathias Rouan](https://github.com/mrouan) and [Julie Pierson](https://github.com/juliepierson), and completely refactored by Laurent Bouquin, Jeniffer Ortiz Lozano, Julien Massonneau et Abdelwahid Hadj Zoubir.
 
 ## Motivation
 

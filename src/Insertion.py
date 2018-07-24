@@ -295,7 +295,7 @@ class Insertion(object):
                                                (nb_records, self.source.name_idg))
             except exc.SQLAlchemyError as e:
                 Log.get_instance().insert_error('Insertion',
-                                               '%s next values from %s  don\'t inserted into database : %s' %
+                                               '%s next values from %s  not inserted into database : %s' %
                                                (nb_records, self.source.num_idg, e))
 
     def _convert_to_metadata(self, data):
@@ -323,6 +323,7 @@ class Insertion(object):
         for input in data.values():
             metadata = Metadata(id_metadata=self.id_metadata + index, identifier=input.identifier,
                                 datestamp=input.datestamp, xml_text=input.xml, stdname=input.stdname, xml=input.xml)
+            #Log.get_instance().insert_info(datestamp, 'ici')
             list_to_return.append(metadata)
             index += 1
         return list_to_return

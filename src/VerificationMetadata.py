@@ -104,6 +104,8 @@ class VerificationMetadata:
         for j in data:
             i = data.get(j)
             correspond = False
+            if all([hasattr(i, 'keywords')]):
+                Log.get_instance().insert_warning('VerificationMetadata', 'prout')
             if all([hasattr(i, 'datetimestamp'),
                     hasattr(i, 'xml'),
                     hasattr(i, 'stdname'),
@@ -125,7 +127,7 @@ class VerificationMetadata:
                 data.pop(j)
                 nb_bad += 1
         if nb_bad != 0:
-            Log.get_instance().insert_warning('VerificationMetadata', '%s : number incorrect records  ' % nb_bad)
+            Log.get_instance().insert_warning('VerificationMetadata', '%s incorrect records  ' % nb_bad)
 
     def _check_existing_previous_record(self, data):
         """

@@ -84,12 +84,14 @@ class ExtractionGeocatalogue(object):
         nmbr_records_to_get = 0
         try:
             self.csw.getrecords2(**self.queries)
+            Log.get_instance().insert_info('ok', 'ok')
 
             if self.source.end_record and self.source.end_record < self.csw.results['matches']:
                 nmbr_records_to_get = self.source.end_record
             else:
                 nmbr_records_to_get = self.csw.results['matches']
         except Exception as e:
+            Log.get_instance().insert_info('ici', 'ici')
             Log.get_instance().insert_error('ExtractionGeocatalogueController', e)
         return nmbr_records_to_get
 
@@ -173,7 +175,7 @@ class ExtractionGeocatalogue(object):
         """
         if self.csw is  None:
             Log.get_instance().insert_error('ExtractionGeocatalogueController',
-                                            ' connexion csw lost or not initialisize')
+                                            ' connexion csw lost or not initialised')
             return
         try:
             self.nmbr_records_to_get = self.get_number_of_record_to_harwvester()
@@ -199,7 +201,7 @@ class ExtractionGeocatalogue(object):
                         return
 
         except Exception as e:
-            Log.get_instance().insert_error("ExtractionGeocatalogueController", "records are not corrects : \n \t %s \n aborted."%e)
+            Log.get_instance().insert_error("ExtractionGeocatalogueController", "records are not correct : \n \t %s \n aborted."%e)
 
 if __name__ == "__main__":
     import doctest

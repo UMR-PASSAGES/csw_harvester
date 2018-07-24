@@ -25,10 +25,10 @@ pass
 if __name__ == "__main__":
     """
     
-    This class extracts geographic information from the ServiceWeb for each instance(geocataglog)of the Source class
+    This class extracts geographic information from the ServiceWeb for each instance(geocatalog)of the Source class
     and for that it utilises Extraction's class to traverse the genetator (list of instances of Source). Which returns a
     generator object that contains the set of values for every geocatalog. These Metadata are verified by the method 
-    check of the VerificationMetadata's class in order ensure it fulfils with the requirements necessary for analysis. 
+    check of the VerificationMetadata's class to ensure it fullfills the requirements necessary for analysis. 
     Once it is verified, metadata is saved in the csw_harvester database with the method saveIndB of the class Insertion
     . 
  

@@ -10,8 +10,8 @@ from GlobalData import *
 class ExtractionGeocatalogue(object):
     """
 
-    This class establish connection with the catalogue web service in order to extract the metadata that matches with the
-    output schema if it does, a generator of OrderedDict is returned containing the set of values(records) for every
+    This class establishes a connection with the catalogue web service in order to extract the metadata that matches with the
+    output schema. If it does, a generator of OrderedDict is returned containing the set of values(records) for every
     geocatalogue.
 
 
@@ -68,16 +68,16 @@ class ExtractionGeocatalogue(object):
         if self.csw is not None:
             Log.get_instance().insert_info('ExtractionGeocatalogueController', "connected")
 
-    def get_number_of_record_to_harwvester(self):
+    def get_number_of_record_to_harvest(self):
         """
-            This function return the real number that we can get.
+            This function returns the real number that we can get.
             Compare how much records you want with the number of records of catalogue service web.
-        :return: the number of records you can get. on source initialize on this classe
+        :return: the number of records you can get. on source initialize on this class
 
         Test:
         >>> source = Source(None, None, None, 4, None, None, 'http://www.mongeosource.fr/geosource/1033/fre/csw?version=2.0.2')
         >>> extract = ExtractionGeocatalogue(source)
-        >>> extract.get_number_of_record_to_harwvester()
+        >>> extract.get_number_of_record_to_harvest()
         4
 
         """
@@ -91,20 +91,19 @@ class ExtractionGeocatalogue(object):
             else:
                 nmbr_records_to_get = self.csw.results['matches']
         except Exception as e:
-            Log.get_instance().insert_info('ici', 'ici')
             Log.get_instance().insert_error('ExtractionGeocatalogueController', e)
         return nmbr_records_to_get
 
     def launch_next_request_CSW(self):
         """
-            This function create request and send it to
+            This function creates request and send it to
             OSWLIB  (library wich get data from geocatalogue).
             After this function you can get results with self.csw.records
 
         Test:
         >>> source = Source(None, None, 0, 4, 2, None, 'http://www.mongeosource.fr/geosource/1033/fre/csw?version=2.0.2')
         >>> extract = ExtractionGeocatalogue(source)
-        >>> extract.get_number_of_record_to_harwvester()
+        >>> extract.get_number_of_record_to_harvest()
         4
         >>> extract.queries['startposition'] = extract.source.begin_record
         >>> extract.csw.results['nextrecord'] = extract.source.begin_record
@@ -120,8 +119,17 @@ class ExtractionGeocatalogue(object):
         if self.csw.results['nextrecord'] + self.source.step - 1 > self.nmbr_records_to_get:
             self.queries['maxrecords'] = ((self.nmbr_records_to_get - self.source.begin_record)
                                           % self.source.step) + 1
-
         self.csw.getrecords2(**self.queries)
+            
+        # if record cannot be integrated (for example if it's a feature catalogue) 
+        while len(self.csw.records) == 0:
+            # jumps to next record
+            Log.get_instance().insert_warning('ExtractionGeocatalogueController', 'could not insert record %s, jumping to next record' % str(self.csw.results['nextrecord']-1))
+            print (self.csw.results['nextrecord'])
+            self.csw.results['nextrecord'] +=1
+            self.queries['startposition'] = self.csw.results['nextrecord']
+            self.csw.getrecords2(**self.queries)
+                
         Log.get_instance().insert_info('ExtractionGeocatalogueController',
                                        'matches %s (from %s to %s) ; first record %s ;' %
                                        (self.nmbr_records_to_get - self.source.begin_record + 1,
@@ -178,7 +186,7 @@ class ExtractionGeocatalogue(object):
                                             ' connexion csw lost or not initialised')
             return
         try:
-            self.nmbr_records_to_get = self.get_number_of_record_to_harwvester()
+            self.nmbr_records_to_get = self.get_number_of_record_to_harvest()
 
             #initialize queries
             self.queries['startposition'] = self.source.begin_record

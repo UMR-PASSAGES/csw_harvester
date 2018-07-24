@@ -11,8 +11,8 @@ from Log import *
 class GlobalData(object):
     """
 
-     This module allows to manage not only the external resources required for performed the harvesting such as database
-    (to archive information for future analyse) and list of geocatalogs in a CSV File (it is used to find server where
+     This module manages not only the external resources required for performing the harvesting such as database
+    (to archive information for future analysis) and list of geocatalogs in a CSV File (it is used to find server where
     we request the metadata geographic), but also the execute options.
 
     """

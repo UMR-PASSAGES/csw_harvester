@@ -14,9 +14,9 @@ from Log import *
 class VerificationMetadata:
     """
 
-    This module allows verify if every records in Orderecdict (data geographic retrieve from server for every
-    geocatalog) is provided correctly. For that this class verify if every attribute is provided and well informed
-    according to the ISO 19115.
+    This module checks that each record in OrderedDict (data retrieved from server for each
+    geocatalog) is provided correctly. In order to do this this class checks that each attribute is provided and well formed
+    according to ISO 19115.
 
     """
 
@@ -72,7 +72,25 @@ class VerificationMetadata:
 
         """
         self._check_all_field(data)
+        #self._check_type(data)
         self._check_existing_previous_record(data)
+        
+        
+    def _check_type(self, data):
+        """
+        
+        Check the type of each record
+        Eliminate feature catalogue
+        """
+        
+        nb_incorrect_type = 0
+        for j in data:
+            i = data.get(j)
+            if i.type == 'FeatureCatalogue':
+                nb_incorrect_type +=1
+            data.pop(j)
+        if nb_incorrect_type != 0:
+            Log.get_instance().insert_warning('VerificationMetadata', '%s feature catalogues, not inserted into database  ' % nb_incorrect_type)
 
 
     def _check_all_field(self,data):
@@ -104,8 +122,7 @@ class VerificationMetadata:
         for j in data:
             i = data.get(j)
             correspond = False
-            if all([hasattr(i, 'keywords')]):
-                Log.get_instance().insert_warning('VerificationMetadata', 'prout')
+            
             if all([hasattr(i, 'datetimestamp'),
                     hasattr(i, 'xml'),
                     hasattr(i, 'stdname'),
@@ -127,7 +144,7 @@ class VerificationMetadata:
                 data.pop(j)
                 nb_bad += 1
         if nb_bad != 0:
-            Log.get_instance().insert_warning('VerificationMetadata', '%s incorrect records  ' % nb_bad)
+            Log.get_instance().insert_warning('VerificationMetadata', '%s incorrect record(s)  ' % nb_bad)
 
     def _check_existing_previous_record(self, data):
         """

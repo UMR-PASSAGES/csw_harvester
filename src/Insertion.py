@@ -116,7 +116,7 @@ class Insertion(object):
         """
         save ordereddict in database. Begin to convert this data to déclarative.
         Then save déclaratives produce in database
-        :param data: datas to records. It's ordereddict. Value of this dictionary must me type of MD_Metadata.
+        :param data: datas to records. It's ordereddict. Value of this dictionary must be of type MD_Metadata.
 
         Test:
         >>> source = Source(123456789,"nameTest",0,0,30,"TestUrl","testUrl_csw")
@@ -250,7 +250,7 @@ class Insertion(object):
         self.id_metadata += len(data.values())
         return list_orm
 
-    def save_orm_in_db(self, listDeclaratives, number_to_records):
+    def save_orm_in_db(self, listDeclaratives, number_of_records):
         """
         Save a list in database. the list must be Declaratives. Check sqlalchemy for more informations.
 
@@ -285,7 +285,7 @@ class Insertion(object):
         >>> list = [sdi]
         >>> insert.save_orm_in_db(list,2)
         """
-        nb_records = number_to_records
+        nb_records = number_of_records
 
         if listDeclaratives > 0:
             try:

@@ -15803,3 +15803,189 @@ LINE 1: ... (7346, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
 2018-07-26 14:13:51,197 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
 2018-07-26 14:13:51,557 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
 2018-07-26 14:13:51,925 ExtractionGeocatalogueController: WARNING: could not insert record 7, jumping to next record
+2018-07-26 14:29:10,478 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:29:10,873 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:29:11,159 ok: INFO: ok
+2018-07-26 14:29:11,535 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 14:29:11,903 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 14:33:25,328 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:33:25,328 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:33:25,369 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 14:33:48,278 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:33:48,279 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:33:48,321 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 14:34:00,677 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:34:00,983 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:34:01,146 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-07-26 14:34:01,146 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 14:34:37,214 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:34:37,424 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:34:37,566 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-07-26 14:34:37,566 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 14:34:54,241 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:34:54,457 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:34:54,595 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-07-26 14:34:54,596 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 14:35:15,906 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:35:16,147 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:35:16,277 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-07-26 14:35:16,277 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 14:35:26,135 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:35:26,363 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:35:26,496 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-07-26 14:35:26,496 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 14:35:38,837 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:35:38,837 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:35:38,878 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 14:35:53,265 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:35:53,265 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:35:53,306 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 14:37:21,953 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:37:22,186 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:37:22,209 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 14:38:35,955 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:38:36,175 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:38:36,318 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-07-26 14:38:36,318 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 14:40:05,796 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:40:06,180 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:40:06,205 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 14:40:56,243 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:40:56,617 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-07-26 14:40:56,641 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 14:41:32,031 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW&VERSION=2.0.2
+2018-07-26 14:41:32,440 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW&VERSION=2.0.2
+2018-07-26 14:41:32,464 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-26 15:11:56,917 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW&VERSION=2.0.2
+2018-07-26 15:11:56,917 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:11:57,188 ok: INFO: ok
+2018-07-26 15:11:58,048 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 15:11:58,141 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:11:58,823 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 15:11:58,824 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 15:11:58,897 Insertion: INFO: 29 next values from Geoportail inserted into database
+2018-07-26 15:11:59,814 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 15:11:59,892 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:12:00,677 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 15:12:00,759 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:12:01,731 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 15:12:01,809 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:12:02,446 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-26 15:12:02,521 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:12:03,156 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-07-26 15:12:03,234 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:12:04,083 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-07-26 15:12:04,164 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:12:04,770 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-07-26 15:13:45,171 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW&VERSION=2.0.2
+2018-07-26 15:13:45,172 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:13:45,443 ok: INFO: ok
+2018-07-26 15:13:46,017 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 15:13:46,026 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:46,030 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:46,766 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 15:13:46,766 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 15:13:46,769 VerificationMatadata: WARNING:  29 : records already exist
+2018-07-26 15:13:46,771 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:47,519 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 15:13:47,522 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:47,524 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:48,166 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 15:13:48,170 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:48,172 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:48,761 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 15:13:48,765 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:48,766 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:49,581 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-26 15:13:49,585 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:49,587 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:50,335 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-07-26 15:13:50,338 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:50,340 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:51,074 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-07-26 15:13:51,077 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:51,079 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:51,888 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-07-26 15:13:51,891 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 15:13:51,893 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:13:52,593 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-07-26 15:13:52,671 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:53,665 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-07-26 15:13:53,749 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:54,459 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-07-26 15:13:54,535 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:55,389 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-07-26 15:13:55,473 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:56,287 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-07-26 15:13:56,369 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:57,329 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-07-26 15:13:57,409 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:58,222 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-07-26 15:13:58,306 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:59,195 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-07-26 15:13:59,283 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:13:59,866 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-07-26 15:13:59,944 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:14:00,659 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-07-26 15:14:00,753 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:14:01,617 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-07-26 15:14:01,700 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:14:02,455 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-07-26 15:14:02,630 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:14:03,464 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-07-26 15:14:03,465 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 15:14:03,554 Insertion: INFO: 29 next values from Geoportail inserted into database
+2018-07-26 15:14:04,125 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-07-26 15:14:04,205 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:14:04,910 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-07-26 15:14:04,911 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-26 15:14:04,981 Insertion: INFO: 28 next values from Geoportail inserted into database
+2018-07-26 15:14:05,746 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-07-26 15:14:05,747 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 15:14:05,855 Insertion: INFO: 29 next values from Geoportail inserted into database
+2018-07-26 15:14:06,592 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 751 ;maxrecord 30 ; nextrecord 781 ; returned 30
+2018-07-26 15:14:06,694 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:14:07,505 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 781 ;maxrecord 30 ; nextrecord 811 ; returned 30
+2018-07-26 15:14:07,506 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 15:14:07,621 Insertion: INFO: 29 next values from Geoportail inserted into database
+2018-07-26 15:14:08,652 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 811 ;maxrecord 30 ; nextrecord 841 ; returned 30
+2018-07-26 15:14:08,653 VerificationMetadata: WARNING: 27 incorrect record(s)  
+2018-07-26 15:14:08,671 Insertion: INFO: 3 next values from Geoportail inserted into database
+2018-07-26 15:14:09,347 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 841 ;maxrecord 30 ; nextrecord 871 ; returned 30
+2018-07-26 15:14:09,348 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-26 15:14:09,353 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-07-26 15:14:10,036 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 871 ;maxrecord 30 ; nextrecord 901 ; returned 30
+2018-07-26 15:14:10,036 VerificationMetadata: WARNING: 25 incorrect record(s)  
+2018-07-26 15:14:10,057 Insertion: INFO: 5 next values from Geoportail inserted into database
+2018-07-26 15:14:10,798 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 901 ;maxrecord 30 ; nextrecord 931 ; returned 30
+2018-07-26 15:14:10,798 VerificationMetadata: WARNING: 8 incorrect record(s)  
+2018-07-26 15:14:10,860 Insertion: INFO: 22 next values from Geoportail inserted into database
+2018-07-26 15:14:11,412 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 931 ;maxrecord 30 ; nextrecord 961 ; returned 30
+2018-07-26 15:14:11,413 VerificationMetadata: WARNING: 5 incorrect record(s)  
+2018-07-26 15:14:11,473 Insertion: INFO: 25 next values from Geoportail inserted into database
+2018-07-26 15:14:12,512 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 961 ;maxrecord 30 ; nextrecord 991 ; returned 30
+2018-07-26 15:14:12,512 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-26 15:14:12,619 Insertion: INFO: 28 next values from Geoportail inserted into database
+2018-07-26 15:14:13,355 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 991 ;maxrecord 30 ; nextrecord 1021 ; returned 30
+2018-07-26 15:14:13,356 VerificationMetadata: WARNING: 6 incorrect record(s)  
+2018-07-26 15:14:13,406 Insertion: INFO: 24 next values from Geoportail inserted into database
+2018-07-26 15:14:13,946 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 1021 ;maxrecord 30 ; nextrecord 1051 ; returned 30
+2018-07-26 15:14:13,947 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 15:14:14,000 Insertion: INFO: 29 next values from Geoportail inserted into database
+2018-07-26 15:14:14,643 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 1051 ;maxrecord 30 ; nextrecord 1081 ; returned 30
+2018-07-26 15:14:14,717 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-07-26 15:14:15,151 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 1081 ;maxrecord 30 ; nextrecord 1111 ; returned 30
+2018-07-26 15:14:15,152 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-26 15:14:15,214 Insertion: INFO: 28 next values from Geoportail inserted into database

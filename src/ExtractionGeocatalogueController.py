@@ -63,7 +63,9 @@ class ExtractionGeocatalogue(object):
         """
         Log.get_instance().insert_info('ExtractionGeocatalogueController', "connect to :%s" % url_csw)
         try:
-            self.csw = CatalogueServiceWeb(url_csw)
+            # added skip_caps=True for geocatalogue
+            #self.csw = CatalogueServiceWeb(url_csw)
+            self.csw = CatalogueServiceWeb(url_csw, skip_caps=True)
         except:
             Log.get_instance().insert_error('ExtractionGeocatalogueController', 'Cannot connect to %s' % url_csw)
         if self.csw is not None:
@@ -183,7 +185,7 @@ class ExtractionGeocatalogue(object):
         """
         if self.csw is  None:
             Log.get_instance().insert_error('ExtractionGeocatalogueController',
-                                            ' connexion csw lost or not initialised')
+                                            ' connection csw lost or not initialised')
             return
         try:
             self.nmbr_records_to_get = self.get_number_of_record_to_harvest()
@@ -205,7 +207,7 @@ class ExtractionGeocatalogue(object):
                     except Exception as e:
                         self.queries['startposition'] = self.queries['startposition'] + 1
                         Log.get_instance().insert_error('ExtractionGeocatalogueController',
-                                                            'connexion aborted from %s' % self.source.name_idg)
+                                                            'connection aborted from %s' % self.source.name_idg)
                         return
 
         except Exception as e:

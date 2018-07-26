@@ -14569,3 +14569,1237 @@ LINE 1: ... (7346, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
 2018-07-26 09:24:46,551 Insertion: INFO: 30 next values from georep inserted into database
 2018-07-26 09:24:49,689 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 241 ;maxrecord 16 ; nextrecord 256 ; returned 15
 2018-07-26 09:24:49,764 Insertion: INFO: 15 next values from georep inserted into database
+2018-07-26 09:31:35,872 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 09:31:36,265 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:31:36,357 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 09:31:36,357 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 09:32:38,293 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 09:32:38,574 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:32:38,663 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 09:32:38,664 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 09:32:48,561 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 09:32:48,901 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:32:48,992 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 09:32:48,992 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 09:32:58,776 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 09:32:59,051 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:32:59,141 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 09:32:59,141 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 11:56:36,599 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 11:56:36,911 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 11:56:37,012 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 11:56:37,012 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 11:57:21,977 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 11:57:22,189 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 11:57:22,282 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 11:57:22,282 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 11:57:29,438 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 11:57:29,740 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 11:57:29,835 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 11:57:29,836 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 11:57:39,612 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 11:57:39,805 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 11:57:39,898 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 11:57:39,898 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 11:58:36,576 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 11:58:36,791 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 11:58:36,879 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 11:58:36,879 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 13:56:50,630 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 13:56:50,956 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 13:56:51,242 ok: INFO: ok
+2018-07-26 13:56:51,612 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 13:56:51,989 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 13:56:52,331 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-26 13:56:52,674 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-07-26 13:56:53,041 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-07-26 13:56:53,422 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-07-26 13:56:53,794 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
+2018-07-26 13:56:54,168 ExtractionGeocatalogueController: WARNING: could not insert record 7, jumping to next record
+2018-07-26 13:56:54,552 ExtractionGeocatalogueController: WARNING: could not insert record 8, jumping to next record
+2018-07-26 13:56:54,878 ExtractionGeocatalogueController: WARNING: could not insert record 9, jumping to next record
+2018-07-26 13:56:55,212 ExtractionGeocatalogueController: WARNING: could not insert record 10, jumping to next record
+2018-07-26 13:56:55,571 ExtractionGeocatalogueController: WARNING: could not insert record 11, jumping to next record
+2018-07-26 13:56:55,914 ExtractionGeocatalogueController: WARNING: could not insert record 12, jumping to next record
+2018-07-26 13:56:56,252 ExtractionGeocatalogueController: WARNING: could not insert record 13, jumping to next record
+2018-07-26 13:56:56,590 ExtractionGeocatalogueController: WARNING: could not insert record 14, jumping to next record
+2018-07-26 13:56:56,920 ExtractionGeocatalogueController: WARNING: could not insert record 15, jumping to next record
+2018-07-26 13:56:57,254 ExtractionGeocatalogueController: WARNING: could not insert record 16, jumping to next record
+2018-07-26 13:56:57,564 ExtractionGeocatalogueController: WARNING: could not insert record 17, jumping to next record
+2018-07-26 13:56:57,895 ExtractionGeocatalogueController: WARNING: could not insert record 18, jumping to next record
+2018-07-26 13:56:58,232 ExtractionGeocatalogueController: WARNING: could not insert record 19, jumping to next record
+2018-07-26 13:56:58,558 ExtractionGeocatalogueController: WARNING: could not insert record 20, jumping to next record
+2018-07-26 13:56:58,882 ExtractionGeocatalogueController: WARNING: could not insert record 21, jumping to next record
+2018-07-26 13:56:59,215 ExtractionGeocatalogueController: WARNING: could not insert record 22, jumping to next record
+2018-07-26 13:56:59,538 ExtractionGeocatalogueController: WARNING: could not insert record 23, jumping to next record
+2018-07-26 13:56:59,862 ExtractionGeocatalogueController: WARNING: could not insert record 24, jumping to next record
+2018-07-26 13:57:00,197 ExtractionGeocatalogueController: WARNING: could not insert record 25, jumping to next record
+2018-07-26 13:57:00,508 ExtractionGeocatalogueController: WARNING: could not insert record 26, jumping to next record
+2018-07-26 13:57:00,814 ExtractionGeocatalogueController: WARNING: could not insert record 27, jumping to next record
+2018-07-26 13:57:01,139 ExtractionGeocatalogueController: WARNING: could not insert record 28, jumping to next record
+2018-07-26 13:57:01,508 ExtractionGeocatalogueController: WARNING: could not insert record 29, jumping to next record
+2018-07-26 13:57:01,817 ExtractionGeocatalogueController: WARNING: could not insert record 30, jumping to next record
+2018-07-26 13:57:02,193 ExtractionGeocatalogueController: WARNING: could not insert record 31, jumping to next record
+2018-07-26 13:57:02,585 ExtractionGeocatalogueController: WARNING: could not insert record 32, jumping to next record
+2018-07-26 13:57:02,936 ExtractionGeocatalogueController: WARNING: could not insert record 33, jumping to next record
+2018-07-26 13:57:03,255 ExtractionGeocatalogueController: WARNING: could not insert record 34, jumping to next record
+2018-07-26 13:57:03,602 ExtractionGeocatalogueController: WARNING: could not insert record 35, jumping to next record
+2018-07-26 13:57:03,928 ExtractionGeocatalogueController: WARNING: could not insert record 36, jumping to next record
+2018-07-26 13:57:04,303 ExtractionGeocatalogueController: WARNING: could not insert record 37, jumping to next record
+2018-07-26 13:57:04,673 ExtractionGeocatalogueController: WARNING: could not insert record 38, jumping to next record
+2018-07-26 13:57:05,053 ExtractionGeocatalogueController: WARNING: could not insert record 39, jumping to next record
+2018-07-26 13:57:05,395 ExtractionGeocatalogueController: WARNING: could not insert record 40, jumping to next record
+2018-07-26 13:57:05,747 ExtractionGeocatalogueController: WARNING: could not insert record 41, jumping to next record
+2018-07-26 13:57:06,061 ExtractionGeocatalogueController: WARNING: could not insert record 42, jumping to next record
+2018-07-26 13:57:06,383 ExtractionGeocatalogueController: WARNING: could not insert record 43, jumping to next record
+2018-07-26 13:57:06,725 ExtractionGeocatalogueController: WARNING: could not insert record 44, jumping to next record
+2018-07-26 13:57:07,061 ExtractionGeocatalogueController: WARNING: could not insert record 45, jumping to next record
+2018-07-26 13:57:07,391 ExtractionGeocatalogueController: WARNING: could not insert record 46, jumping to next record
+2018-07-26 13:57:07,717 ExtractionGeocatalogueController: WARNING: could not insert record 47, jumping to next record
+2018-07-26 13:57:08,051 ExtractionGeocatalogueController: WARNING: could not insert record 48, jumping to next record
+2018-07-26 13:57:08,379 ExtractionGeocatalogueController: WARNING: could not insert record 49, jumping to next record
+2018-07-26 13:57:08,709 ExtractionGeocatalogueController: WARNING: could not insert record 50, jumping to next record
+2018-07-26 13:57:09,032 ExtractionGeocatalogueController: WARNING: could not insert record 51, jumping to next record
+2018-07-26 13:57:09,372 ExtractionGeocatalogueController: WARNING: could not insert record 52, jumping to next record
+2018-07-26 13:57:09,723 ExtractionGeocatalogueController: WARNING: could not insert record 53, jumping to next record
+2018-07-26 13:57:10,056 ExtractionGeocatalogueController: WARNING: could not insert record 54, jumping to next record
+2018-07-26 13:57:10,391 ExtractionGeocatalogueController: WARNING: could not insert record 55, jumping to next record
+2018-07-26 13:57:10,726 ExtractionGeocatalogueController: WARNING: could not insert record 56, jumping to next record
+2018-07-26 13:57:11,071 ExtractionGeocatalogueController: WARNING: could not insert record 57, jumping to next record
+2018-07-26 13:57:11,383 ExtractionGeocatalogueController: WARNING: could not insert record 58, jumping to next record
+2018-07-26 13:57:11,723 ExtractionGeocatalogueController: WARNING: could not insert record 59, jumping to next record
+2018-07-26 13:57:12,072 ExtractionGeocatalogueController: WARNING: could not insert record 60, jumping to next record
+2018-07-26 13:57:12,423 ExtractionGeocatalogueController: WARNING: could not insert record 61, jumping to next record
+2018-07-26 13:57:12,798 ExtractionGeocatalogueController: WARNING: could not insert record 62, jumping to next record
+2018-07-26 13:57:13,154 ExtractionGeocatalogueController: WARNING: could not insert record 63, jumping to next record
+2018-07-26 13:57:13,505 ExtractionGeocatalogueController: WARNING: could not insert record 64, jumping to next record
+2018-07-26 13:57:13,850 ExtractionGeocatalogueController: WARNING: could not insert record 65, jumping to next record
+2018-07-26 13:57:14,192 ExtractionGeocatalogueController: WARNING: could not insert record 66, jumping to next record
+2018-07-26 13:57:14,538 ExtractionGeocatalogueController: WARNING: could not insert record 67, jumping to next record
+2018-07-26 13:57:14,894 ExtractionGeocatalogueController: WARNING: could not insert record 68, jumping to next record
+2018-07-26 13:57:15,237 ExtractionGeocatalogueController: WARNING: could not insert record 69, jumping to next record
+2018-07-26 13:57:15,579 ExtractionGeocatalogueController: WARNING: could not insert record 70, jumping to next record
+2018-07-26 13:57:15,933 ExtractionGeocatalogueController: WARNING: could not insert record 71, jumping to next record
+2018-07-26 13:57:16,275 ExtractionGeocatalogueController: WARNING: could not insert record 72, jumping to next record
+2018-07-26 13:57:16,613 ExtractionGeocatalogueController: WARNING: could not insert record 73, jumping to next record
+2018-07-26 13:57:16,936 ExtractionGeocatalogueController: WARNING: could not insert record 74, jumping to next record
+2018-07-26 13:57:17,300 ExtractionGeocatalogueController: WARNING: could not insert record 75, jumping to next record
+2018-07-26 13:57:17,676 ExtractionGeocatalogueController: WARNING: could not insert record 76, jumping to next record
+2018-07-26 13:57:18,000 ExtractionGeocatalogueController: WARNING: could not insert record 77, jumping to next record
+2018-07-26 13:57:18,332 ExtractionGeocatalogueController: WARNING: could not insert record 78, jumping to next record
+2018-07-26 13:57:18,683 ExtractionGeocatalogueController: WARNING: could not insert record 79, jumping to next record
+2018-07-26 13:57:19,072 ExtractionGeocatalogueController: WARNING: could not insert record 80, jumping to next record
+2018-07-26 13:57:19,401 ExtractionGeocatalogueController: WARNING: could not insert record 81, jumping to next record
+2018-07-26 13:57:19,756 ExtractionGeocatalogueController: WARNING: could not insert record 82, jumping to next record
+2018-07-26 13:57:20,133 ExtractionGeocatalogueController: WARNING: could not insert record 83, jumping to next record
+2018-07-26 13:57:20,522 ExtractionGeocatalogueController: WARNING: could not insert record 84, jumping to next record
+2018-07-26 13:57:20,868 ExtractionGeocatalogueController: WARNING: could not insert record 85, jumping to next record
+2018-07-26 13:57:21,207 ExtractionGeocatalogueController: WARNING: could not insert record 86, jumping to next record
+2018-07-26 13:57:21,532 ExtractionGeocatalogueController: WARNING: could not insert record 87, jumping to next record
+2018-07-26 13:57:21,881 ExtractionGeocatalogueController: WARNING: could not insert record 88, jumping to next record
+2018-07-26 13:57:22,232 ExtractionGeocatalogueController: WARNING: could not insert record 89, jumping to next record
+2018-07-26 13:57:22,563 ExtractionGeocatalogueController: WARNING: could not insert record 90, jumping to next record
+2018-07-26 13:57:22,917 ExtractionGeocatalogueController: WARNING: could not insert record 91, jumping to next record
+2018-07-26 13:57:23,248 ExtractionGeocatalogueController: WARNING: could not insert record 92, jumping to next record
+2018-07-26 13:57:23,584 ExtractionGeocatalogueController: WARNING: could not insert record 93, jumping to next record
+2018-07-26 13:57:23,936 ExtractionGeocatalogueController: WARNING: could not insert record 94, jumping to next record
+2018-07-26 13:57:24,269 ExtractionGeocatalogueController: WARNING: could not insert record 95, jumping to next record
+2018-07-26 13:57:24,594 ExtractionGeocatalogueController: WARNING: could not insert record 96, jumping to next record
+2018-07-26 13:57:24,919 ExtractionGeocatalogueController: WARNING: could not insert record 97, jumping to next record
+2018-07-26 13:57:25,257 ExtractionGeocatalogueController: WARNING: could not insert record 98, jumping to next record
+2018-07-26 13:57:25,580 ExtractionGeocatalogueController: WARNING: could not insert record 99, jumping to next record
+2018-07-26 13:57:25,930 ExtractionGeocatalogueController: WARNING: could not insert record 100, jumping to next record
+2018-07-26 13:57:26,272 ExtractionGeocatalogueController: WARNING: could not insert record 101, jumping to next record
+2018-07-26 13:57:26,607 ExtractionGeocatalogueController: WARNING: could not insert record 102, jumping to next record
+2018-07-26 13:57:26,924 ExtractionGeocatalogueController: WARNING: could not insert record 103, jumping to next record
+2018-07-26 13:57:27,253 ExtractionGeocatalogueController: WARNING: could not insert record 104, jumping to next record
+2018-07-26 13:57:27,581 ExtractionGeocatalogueController: WARNING: could not insert record 105, jumping to next record
+2018-07-26 13:57:27,918 ExtractionGeocatalogueController: WARNING: could not insert record 106, jumping to next record
+2018-07-26 13:57:28,275 ExtractionGeocatalogueController: WARNING: could not insert record 107, jumping to next record
+2018-07-26 13:57:28,659 ExtractionGeocatalogueController: WARNING: could not insert record 108, jumping to next record
+2018-07-26 13:57:28,988 ExtractionGeocatalogueController: WARNING: could not insert record 109, jumping to next record
+2018-07-26 13:57:29,324 ExtractionGeocatalogueController: WARNING: could not insert record 110, jumping to next record
+2018-07-26 13:57:29,694 ExtractionGeocatalogueController: WARNING: could not insert record 111, jumping to next record
+2018-07-26 13:57:30,076 ExtractionGeocatalogueController: WARNING: could not insert record 112, jumping to next record
+2018-07-26 13:57:30,418 ExtractionGeocatalogueController: WARNING: could not insert record 113, jumping to next record
+2018-07-26 13:57:30,768 ExtractionGeocatalogueController: WARNING: could not insert record 114, jumping to next record
+2018-07-26 13:57:31,099 ExtractionGeocatalogueController: WARNING: could not insert record 115, jumping to next record
+2018-07-26 13:57:31,524 ExtractionGeocatalogueController: WARNING: could not insert record 116, jumping to next record
+2018-07-26 13:57:32,121 ExtractionGeocatalogueController: WARNING: could not insert record 117, jumping to next record
+2018-07-26 13:57:32,565 ExtractionGeocatalogueController: WARNING: could not insert record 118, jumping to next record
+2018-07-26 13:57:32,947 ExtractionGeocatalogueController: WARNING: could not insert record 119, jumping to next record
+2018-07-26 13:57:34,589 ExtractionGeocatalogueController: WARNING: could not insert record 120, jumping to next record
+2018-07-26 13:57:34,982 ExtractionGeocatalogueController: WARNING: could not insert record 121, jumping to next record
+2018-07-26 13:57:35,355 ExtractionGeocatalogueController: WARNING: could not insert record 122, jumping to next record
+2018-07-26 13:57:35,752 ExtractionGeocatalogueController: WARNING: could not insert record 123, jumping to next record
+2018-07-26 13:57:36,076 ExtractionGeocatalogueController: WARNING: could not insert record 124, jumping to next record
+2018-07-26 13:57:36,399 ExtractionGeocatalogueController: WARNING: could not insert record 125, jumping to next record
+2018-07-26 13:57:36,783 ExtractionGeocatalogueController: WARNING: could not insert record 126, jumping to next record
+2018-07-26 13:57:37,162 ExtractionGeocatalogueController: WARNING: could not insert record 127, jumping to next record
+2018-07-26 13:57:37,528 ExtractionGeocatalogueController: WARNING: could not insert record 128, jumping to next record
+2018-07-26 13:57:37,924 ExtractionGeocatalogueController: WARNING: could not insert record 129, jumping to next record
+2018-07-26 13:57:38,312 ExtractionGeocatalogueController: WARNING: could not insert record 130, jumping to next record
+2018-07-26 13:57:38,643 ExtractionGeocatalogueController: WARNING: could not insert record 131, jumping to next record
+2018-07-26 13:57:38,975 ExtractionGeocatalogueController: WARNING: could not insert record 132, jumping to next record
+2018-07-26 13:57:39,370 ExtractionGeocatalogueController: WARNING: could not insert record 133, jumping to next record
+2018-07-26 13:57:39,742 ExtractionGeocatalogueController: WARNING: could not insert record 134, jumping to next record
+2018-07-26 13:57:40,086 ExtractionGeocatalogueController: WARNING: could not insert record 135, jumping to next record
+2018-07-26 13:57:40,425 ExtractionGeocatalogueController: WARNING: could not insert record 136, jumping to next record
+2018-07-26 13:57:40,806 ExtractionGeocatalogueController: WARNING: could not insert record 137, jumping to next record
+2018-07-26 13:57:41,144 ExtractionGeocatalogueController: WARNING: could not insert record 138, jumping to next record
+2018-07-26 13:57:41,480 ExtractionGeocatalogueController: WARNING: could not insert record 139, jumping to next record
+2018-07-26 13:57:41,824 ExtractionGeocatalogueController: WARNING: could not insert record 140, jumping to next record
+2018-07-26 13:57:42,164 ExtractionGeocatalogueController: WARNING: could not insert record 141, jumping to next record
+2018-07-26 13:57:42,502 ExtractionGeocatalogueController: WARNING: could not insert record 142, jumping to next record
+2018-07-26 13:57:42,843 ExtractionGeocatalogueController: WARNING: could not insert record 143, jumping to next record
+2018-07-26 13:57:43,159 ExtractionGeocatalogueController: WARNING: could not insert record 144, jumping to next record
+2018-07-26 13:57:43,547 ExtractionGeocatalogueController: WARNING: could not insert record 145, jumping to next record
+2018-07-26 13:57:43,863 ExtractionGeocatalogueController: WARNING: could not insert record 146, jumping to next record
+2018-07-26 13:57:44,196 ExtractionGeocatalogueController: WARNING: could not insert record 147, jumping to next record
+2018-07-26 13:57:44,515 ExtractionGeocatalogueController: WARNING: could not insert record 148, jumping to next record
+2018-07-26 13:57:44,838 ExtractionGeocatalogueController: WARNING: could not insert record 149, jumping to next record
+2018-07-26 13:57:45,187 ExtractionGeocatalogueController: WARNING: could not insert record 150, jumping to next record
+2018-07-26 13:57:45,532 ExtractionGeocatalogueController: WARNING: could not insert record 151, jumping to next record
+2018-07-26 13:57:45,874 ExtractionGeocatalogueController: WARNING: could not insert record 152, jumping to next record
+2018-07-26 13:57:46,217 ExtractionGeocatalogueController: WARNING: could not insert record 153, jumping to next record
+2018-07-26 13:57:46,525 ExtractionGeocatalogueController: WARNING: could not insert record 154, jumping to next record
+2018-07-26 13:57:46,849 ExtractionGeocatalogueController: WARNING: could not insert record 155, jumping to next record
+2018-07-26 13:57:47,177 ExtractionGeocatalogueController: WARNING: could not insert record 156, jumping to next record
+2018-07-26 13:57:47,504 ExtractionGeocatalogueController: WARNING: could not insert record 157, jumping to next record
+2018-07-26 13:57:47,840 ExtractionGeocatalogueController: WARNING: could not insert record 158, jumping to next record
+2018-07-26 13:57:48,179 ExtractionGeocatalogueController: WARNING: could not insert record 159, jumping to next record
+2018-07-26 13:57:48,518 ExtractionGeocatalogueController: WARNING: could not insert record 160, jumping to next record
+2018-07-26 13:57:48,853 ExtractionGeocatalogueController: WARNING: could not insert record 161, jumping to next record
+2018-07-26 13:57:49,165 ExtractionGeocatalogueController: WARNING: could not insert record 162, jumping to next record
+2018-07-26 13:57:49,478 ExtractionGeocatalogueController: WARNING: could not insert record 163, jumping to next record
+2018-07-26 13:57:49,810 ExtractionGeocatalogueController: WARNING: could not insert record 164, jumping to next record
+2018-07-26 13:57:50,144 ExtractionGeocatalogueController: WARNING: could not insert record 165, jumping to next record
+2018-07-26 13:57:50,476 ExtractionGeocatalogueController: WARNING: could not insert record 166, jumping to next record
+2018-07-26 13:57:50,795 ExtractionGeocatalogueController: WARNING: could not insert record 167, jumping to next record
+2018-07-26 13:57:51,137 ExtractionGeocatalogueController: WARNING: could not insert record 168, jumping to next record
+2018-07-26 13:57:51,432 ExtractionGeocatalogueController: WARNING: could not insert record 169, jumping to next record
+2018-07-26 13:57:51,772 ExtractionGeocatalogueController: WARNING: could not insert record 170, jumping to next record
+2018-07-26 13:57:52,121 ExtractionGeocatalogueController: WARNING: could not insert record 171, jumping to next record
+2018-07-26 13:57:52,499 ExtractionGeocatalogueController: WARNING: could not insert record 172, jumping to next record
+2018-07-26 13:57:52,828 ExtractionGeocatalogueController: WARNING: could not insert record 173, jumping to next record
+2018-07-26 13:57:53,156 ExtractionGeocatalogueController: WARNING: could not insert record 174, jumping to next record
+2018-07-26 13:57:53,490 ExtractionGeocatalogueController: WARNING: could not insert record 175, jumping to next record
+2018-07-26 13:57:53,833 ExtractionGeocatalogueController: WARNING: could not insert record 176, jumping to next record
+2018-07-26 13:57:54,147 ExtractionGeocatalogueController: WARNING: could not insert record 177, jumping to next record
+2018-07-26 13:57:54,492 ExtractionGeocatalogueController: WARNING: could not insert record 178, jumping to next record
+2018-07-26 13:57:54,830 ExtractionGeocatalogueController: WARNING: could not insert record 179, jumping to next record
+2018-07-26 13:57:55,160 ExtractionGeocatalogueController: WARNING: could not insert record 180, jumping to next record
+2018-07-26 13:57:55,511 ExtractionGeocatalogueController: WARNING: could not insert record 181, jumping to next record
+2018-07-26 13:57:55,844 ExtractionGeocatalogueController: WARNING: could not insert record 182, jumping to next record
+2018-07-26 13:57:56,182 ExtractionGeocatalogueController: WARNING: could not insert record 183, jumping to next record
+2018-07-26 13:57:56,512 ExtractionGeocatalogueController: WARNING: could not insert record 184, jumping to next record
+2018-07-26 13:57:56,836 ExtractionGeocatalogueController: WARNING: could not insert record 185, jumping to next record
+2018-07-26 13:57:57,226 ExtractionGeocatalogueController: WARNING: could not insert record 186, jumping to next record
+2018-07-26 13:57:57,573 ExtractionGeocatalogueController: WARNING: could not insert record 187, jumping to next record
+2018-07-26 13:57:57,912 ExtractionGeocatalogueController: WARNING: could not insert record 188, jumping to next record
+2018-07-26 13:57:58,248 ExtractionGeocatalogueController: WARNING: could not insert record 189, jumping to next record
+2018-07-26 13:57:58,586 ExtractionGeocatalogueController: WARNING: could not insert record 190, jumping to next record
+2018-07-26 13:57:58,925 ExtractionGeocatalogueController: WARNING: could not insert record 191, jumping to next record
+2018-07-26 13:57:59,238 ExtractionGeocatalogueController: WARNING: could not insert record 192, jumping to next record
+2018-07-26 13:57:59,552 ExtractionGeocatalogueController: WARNING: could not insert record 193, jumping to next record
+2018-07-26 13:57:59,898 ExtractionGeocatalogueController: WARNING: could not insert record 194, jumping to next record
+2018-07-26 13:58:00,260 ExtractionGeocatalogueController: WARNING: could not insert record 195, jumping to next record
+2018-07-26 13:58:00,587 ExtractionGeocatalogueController: WARNING: could not insert record 196, jumping to next record
+2018-07-26 13:58:00,919 ExtractionGeocatalogueController: WARNING: could not insert record 197, jumping to next record
+2018-07-26 13:58:01,250 ExtractionGeocatalogueController: WARNING: could not insert record 198, jumping to next record
+2018-07-26 13:58:01,574 ExtractionGeocatalogueController: WARNING: could not insert record 199, jumping to next record
+2018-07-26 13:58:01,915 ExtractionGeocatalogueController: WARNING: could not insert record 200, jumping to next record
+2018-07-26 13:58:02,252 ExtractionGeocatalogueController: WARNING: could not insert record 201, jumping to next record
+2018-07-26 13:58:02,592 ExtractionGeocatalogueController: WARNING: could not insert record 202, jumping to next record
+2018-07-26 13:58:02,920 ExtractionGeocatalogueController: WARNING: could not insert record 203, jumping to next record
+2018-07-26 13:58:03,238 ExtractionGeocatalogueController: WARNING: could not insert record 204, jumping to next record
+2018-07-26 13:58:03,566 ExtractionGeocatalogueController: WARNING: could not insert record 205, jumping to next record
+2018-07-26 13:58:03,917 ExtractionGeocatalogueController: WARNING: could not insert record 206, jumping to next record
+2018-07-26 13:58:04,233 ExtractionGeocatalogueController: WARNING: could not insert record 207, jumping to next record
+2018-07-26 13:58:04,576 ExtractionGeocatalogueController: WARNING: could not insert record 208, jumping to next record
+2018-07-26 13:58:04,905 ExtractionGeocatalogueController: WARNING: could not insert record 209, jumping to next record
+2018-07-26 13:58:05,224 ExtractionGeocatalogueController: WARNING: could not insert record 210, jumping to next record
+2018-07-26 13:58:05,554 ExtractionGeocatalogueController: WARNING: could not insert record 211, jumping to next record
+2018-07-26 13:58:05,887 ExtractionGeocatalogueController: WARNING: could not insert record 212, jumping to next record
+2018-07-26 13:58:06,217 ExtractionGeocatalogueController: WARNING: could not insert record 213, jumping to next record
+2018-07-26 13:58:06,555 ExtractionGeocatalogueController: WARNING: could not insert record 214, jumping to next record
+2018-07-26 13:58:06,875 ExtractionGeocatalogueController: WARNING: could not insert record 215, jumping to next record
+2018-07-26 13:58:07,217 ExtractionGeocatalogueController: WARNING: could not insert record 216, jumping to next record
+2018-07-26 13:58:07,547 ExtractionGeocatalogueController: WARNING: could not insert record 217, jumping to next record
+2018-07-26 13:58:07,886 ExtractionGeocatalogueController: WARNING: could not insert record 218, jumping to next record
+2018-07-26 13:58:08,215 ExtractionGeocatalogueController: WARNING: could not insert record 219, jumping to next record
+2018-07-26 13:58:08,556 ExtractionGeocatalogueController: WARNING: could not insert record 220, jumping to next record
+2018-07-26 13:58:08,896 ExtractionGeocatalogueController: WARNING: could not insert record 221, jumping to next record
+2018-07-26 13:58:09,230 ExtractionGeocatalogueController: WARNING: could not insert record 222, jumping to next record
+2018-07-26 13:58:09,542 ExtractionGeocatalogueController: WARNING: could not insert record 223, jumping to next record
+2018-07-26 13:58:09,883 ExtractionGeocatalogueController: WARNING: could not insert record 224, jumping to next record
+2018-07-26 13:58:10,213 ExtractionGeocatalogueController: WARNING: could not insert record 225, jumping to next record
+2018-07-26 13:58:10,549 ExtractionGeocatalogueController: WARNING: could not insert record 226, jumping to next record
+2018-07-26 13:58:10,890 ExtractionGeocatalogueController: WARNING: could not insert record 227, jumping to next record
+2018-07-26 13:58:11,248 ExtractionGeocatalogueController: WARNING: could not insert record 228, jumping to next record
+2018-07-26 13:58:11,575 ExtractionGeocatalogueController: WARNING: could not insert record 229, jumping to next record
+2018-07-26 13:58:11,923 ExtractionGeocatalogueController: WARNING: could not insert record 230, jumping to next record
+2018-07-26 13:58:12,280 ExtractionGeocatalogueController: WARNING: could not insert record 231, jumping to next record
+2018-07-26 13:58:12,628 ExtractionGeocatalogueController: WARNING: could not insert record 232, jumping to next record
+2018-07-26 13:58:12,958 ExtractionGeocatalogueController: WARNING: could not insert record 233, jumping to next record
+2018-07-26 13:58:13,460 ExtractionGeocatalogueController: WARNING: could not insert record 234, jumping to next record
+2018-07-26 13:58:13,870 ExtractionGeocatalogueController: WARNING: could not insert record 235, jumping to next record
+2018-07-26 13:58:14,270 ExtractionGeocatalogueController: WARNING: could not insert record 236, jumping to next record
+2018-07-26 13:58:14,612 ExtractionGeocatalogueController: WARNING: could not insert record 237, jumping to next record
+2018-07-26 13:58:14,921 ExtractionGeocatalogueController: WARNING: could not insert record 238, jumping to next record
+2018-07-26 13:58:15,312 ExtractionGeocatalogueController: WARNING: could not insert record 239, jumping to next record
+2018-07-26 13:58:15,685 ExtractionGeocatalogueController: WARNING: could not insert record 240, jumping to next record
+2018-07-26 13:58:16,052 ExtractionGeocatalogueController: WARNING: could not insert record 241, jumping to next record
+2018-07-26 13:58:16,390 ExtractionGeocatalogueController: WARNING: could not insert record 242, jumping to next record
+2018-07-26 13:58:16,752 ExtractionGeocatalogueController: WARNING: could not insert record 243, jumping to next record
+2018-07-26 13:58:17,067 ExtractionGeocatalogueController: WARNING: could not insert record 244, jumping to next record
+2018-07-26 13:58:17,400 ExtractionGeocatalogueController: WARNING: could not insert record 245, jumping to next record
+2018-07-26 13:58:17,744 ExtractionGeocatalogueController: WARNING: could not insert record 246, jumping to next record
+2018-07-26 13:58:18,080 ExtractionGeocatalogueController: WARNING: could not insert record 247, jumping to next record
+2018-07-26 13:58:18,417 ExtractionGeocatalogueController: WARNING: could not insert record 248, jumping to next record
+2018-07-26 13:58:18,751 ExtractionGeocatalogueController: WARNING: could not insert record 249, jumping to next record
+2018-07-26 13:58:19,112 ExtractionGeocatalogueController: WARNING: could not insert record 250, jumping to next record
+2018-07-26 13:58:19,463 ExtractionGeocatalogueController: WARNING: could not insert record 251, jumping to next record
+2018-07-26 13:58:19,804 ExtractionGeocatalogueController: WARNING: could not insert record 252, jumping to next record
+2018-07-26 13:58:20,143 ExtractionGeocatalogueController: WARNING: could not insert record 253, jumping to next record
+2018-07-26 13:58:20,502 ExtractionGeocatalogueController: WARNING: could not insert record 254, jumping to next record
+2018-07-26 13:58:20,842 ExtractionGeocatalogueController: WARNING: could not insert record 255, jumping to next record
+2018-07-26 13:58:21,188 ExtractionGeocatalogueController: WARNING: could not insert record 256, jumping to next record
+2018-07-26 13:58:21,541 ExtractionGeocatalogueController: WARNING: could not insert record 257, jumping to next record
+2018-07-26 13:58:21,884 ExtractionGeocatalogueController: WARNING: could not insert record 258, jumping to next record
+2018-07-26 13:58:22,226 ExtractionGeocatalogueController: WARNING: could not insert record 259, jumping to next record
+2018-07-26 13:58:22,558 ExtractionGeocatalogueController: WARNING: could not insert record 260, jumping to next record
+2018-07-26 13:58:22,889 ExtractionGeocatalogueController: WARNING: could not insert record 261, jumping to next record
+2018-07-26 13:58:23,253 ExtractionGeocatalogueController: WARNING: could not insert record 262, jumping to next record
+2018-07-26 13:58:23,585 ExtractionGeocatalogueController: WARNING: could not insert record 263, jumping to next record
+2018-07-26 13:58:23,904 ExtractionGeocatalogueController: WARNING: could not insert record 264, jumping to next record
+2018-07-26 13:58:24,246 ExtractionGeocatalogueController: WARNING: could not insert record 265, jumping to next record
+2018-07-26 13:58:24,581 ExtractionGeocatalogueController: WARNING: could not insert record 266, jumping to next record
+2018-07-26 13:58:24,894 ExtractionGeocatalogueController: WARNING: could not insert record 267, jumping to next record
+2018-07-26 13:58:25,229 ExtractionGeocatalogueController: WARNING: could not insert record 268, jumping to next record
+2018-07-26 13:58:25,561 ExtractionGeocatalogueController: WARNING: could not insert record 269, jumping to next record
+2018-07-26 13:58:25,892 ExtractionGeocatalogueController: WARNING: could not insert record 270, jumping to next record
+2018-07-26 13:58:26,223 ExtractionGeocatalogueController: WARNING: could not insert record 271, jumping to next record
+2018-07-26 13:58:26,537 ExtractionGeocatalogueController: WARNING: could not insert record 272, jumping to next record
+2018-07-26 13:58:26,880 ExtractionGeocatalogueController: WARNING: could not insert record 273, jumping to next record
+2018-07-26 13:58:27,265 ExtractionGeocatalogueController: WARNING: could not insert record 274, jumping to next record
+2018-07-26 13:58:27,610 ExtractionGeocatalogueController: WARNING: could not insert record 275, jumping to next record
+2018-07-26 13:58:27,933 ExtractionGeocatalogueController: WARNING: could not insert record 276, jumping to next record
+2018-07-26 13:58:28,267 ExtractionGeocatalogueController: WARNING: could not insert record 277, jumping to next record
+2018-07-26 13:58:28,609 ExtractionGeocatalogueController: WARNING: could not insert record 278, jumping to next record
+2018-07-26 13:58:28,942 ExtractionGeocatalogueController: WARNING: could not insert record 279, jumping to next record
+2018-07-26 13:58:29,281 ExtractionGeocatalogueController: WARNING: could not insert record 280, jumping to next record
+2018-07-26 13:58:29,607 ExtractionGeocatalogueController: WARNING: could not insert record 281, jumping to next record
+2018-07-26 13:58:29,937 ExtractionGeocatalogueController: WARNING: could not insert record 282, jumping to next record
+2018-07-26 13:58:30,265 ExtractionGeocatalogueController: WARNING: could not insert record 283, jumping to next record
+2018-07-26 13:58:30,590 ExtractionGeocatalogueController: WARNING: could not insert record 284, jumping to next record
+2018-07-26 13:58:30,926 ExtractionGeocatalogueController: WARNING: could not insert record 285, jumping to next record
+2018-07-26 13:58:31,260 ExtractionGeocatalogueController: WARNING: could not insert record 286, jumping to next record
+2018-07-26 13:58:31,603 ExtractionGeocatalogueController: WARNING: could not insert record 287, jumping to next record
+2018-07-26 13:58:31,929 ExtractionGeocatalogueController: WARNING: could not insert record 288, jumping to next record
+2018-07-26 13:58:32,239 ExtractionGeocatalogueController: WARNING: could not insert record 289, jumping to next record
+2018-07-26 13:58:32,585 ExtractionGeocatalogueController: WARNING: could not insert record 290, jumping to next record
+2018-07-26 13:58:32,921 ExtractionGeocatalogueController: WARNING: could not insert record 291, jumping to next record
+2018-07-26 13:58:33,218 ExtractionGeocatalogueController: WARNING: could not insert record 292, jumping to next record
+2018-07-26 13:58:33,540 ExtractionGeocatalogueController: WARNING: could not insert record 293, jumping to next record
+2018-07-26 13:58:33,869 ExtractionGeocatalogueController: WARNING: could not insert record 294, jumping to next record
+2018-07-26 13:58:34,196 ExtractionGeocatalogueController: WARNING: could not insert record 295, jumping to next record
+2018-07-26 13:58:34,515 ExtractionGeocatalogueController: WARNING: could not insert record 296, jumping to next record
+2018-07-26 13:58:34,868 ExtractionGeocatalogueController: WARNING: could not insert record 297, jumping to next record
+2018-07-26 13:58:35,207 ExtractionGeocatalogueController: WARNING: could not insert record 298, jumping to next record
+2018-07-26 13:58:35,559 ExtractionGeocatalogueController: WARNING: could not insert record 299, jumping to next record
+2018-07-26 13:58:35,876 ExtractionGeocatalogueController: WARNING: could not insert record 300, jumping to next record
+2018-07-26 13:58:36,198 ExtractionGeocatalogueController: WARNING: could not insert record 301, jumping to next record
+2018-07-26 13:58:36,530 ExtractionGeocatalogueController: WARNING: could not insert record 302, jumping to next record
+2018-07-26 13:58:36,852 ExtractionGeocatalogueController: WARNING: could not insert record 303, jumping to next record
+2018-07-26 13:58:37,191 ExtractionGeocatalogueController: WARNING: could not insert record 304, jumping to next record
+2018-07-26 13:58:37,538 ExtractionGeocatalogueController: WARNING: could not insert record 305, jumping to next record
+2018-07-26 13:58:37,884 ExtractionGeocatalogueController: WARNING: could not insert record 306, jumping to next record
+2018-07-26 13:58:38,223 ExtractionGeocatalogueController: WARNING: could not insert record 307, jumping to next record
+2018-07-26 13:58:38,526 ExtractionGeocatalogueController: WARNING: could not insert record 308, jumping to next record
+2018-07-26 13:58:38,858 ExtractionGeocatalogueController: WARNING: could not insert record 309, jumping to next record
+2018-07-26 13:58:39,183 ExtractionGeocatalogueController: WARNING: could not insert record 310, jumping to next record
+2018-07-26 13:58:39,527 ExtractionGeocatalogueController: WARNING: could not insert record 311, jumping to next record
+2018-07-26 13:58:39,860 ExtractionGeocatalogueController: WARNING: could not insert record 312, jumping to next record
+2018-07-26 13:58:40,194 ExtractionGeocatalogueController: WARNING: could not insert record 313, jumping to next record
+2018-07-26 13:58:40,524 ExtractionGeocatalogueController: WARNING: could not insert record 314, jumping to next record
+2018-07-26 13:58:40,851 ExtractionGeocatalogueController: WARNING: could not insert record 315, jumping to next record
+2018-07-26 13:58:41,176 ExtractionGeocatalogueController: WARNING: could not insert record 316, jumping to next record
+2018-07-26 13:58:41,509 ExtractionGeocatalogueController: WARNING: could not insert record 317, jumping to next record
+2018-07-26 13:58:41,843 ExtractionGeocatalogueController: WARNING: could not insert record 318, jumping to next record
+2018-07-26 13:58:42,176 ExtractionGeocatalogueController: WARNING: could not insert record 319, jumping to next record
+2018-07-26 13:58:42,504 ExtractionGeocatalogueController: WARNING: could not insert record 320, jumping to next record
+2018-07-26 13:58:42,827 ExtractionGeocatalogueController: WARNING: could not insert record 321, jumping to next record
+2018-07-26 13:58:43,159 ExtractionGeocatalogueController: WARNING: could not insert record 322, jumping to next record
+2018-07-26 13:58:43,471 ExtractionGeocatalogueController: WARNING: could not insert record 323, jumping to next record
+2018-07-26 13:58:43,792 ExtractionGeocatalogueController: WARNING: could not insert record 324, jumping to next record
+2018-07-26 13:58:44,126 ExtractionGeocatalogueController: WARNING: could not insert record 325, jumping to next record
+2018-07-26 13:58:44,478 ExtractionGeocatalogueController: WARNING: could not insert record 326, jumping to next record
+2018-07-26 13:58:44,825 ExtractionGeocatalogueController: WARNING: could not insert record 327, jumping to next record
+2018-07-26 13:58:45,160 ExtractionGeocatalogueController: WARNING: could not insert record 328, jumping to next record
+2018-07-26 13:58:45,487 ExtractionGeocatalogueController: WARNING: could not insert record 329, jumping to next record
+2018-07-26 13:58:45,830 ExtractionGeocatalogueController: WARNING: could not insert record 330, jumping to next record
+2018-07-26 13:58:46,177 ExtractionGeocatalogueController: WARNING: could not insert record 331, jumping to next record
+2018-07-26 13:58:46,481 ExtractionGeocatalogueController: WARNING: could not insert record 332, jumping to next record
+2018-07-26 13:58:46,815 ExtractionGeocatalogueController: WARNING: could not insert record 333, jumping to next record
+2018-07-26 13:58:47,154 ExtractionGeocatalogueController: WARNING: could not insert record 334, jumping to next record
+2018-07-26 13:58:47,483 ExtractionGeocatalogueController: WARNING: could not insert record 335, jumping to next record
+2018-07-26 13:58:47,827 ExtractionGeocatalogueController: WARNING: could not insert record 336, jumping to next record
+2018-07-26 13:58:48,173 ExtractionGeocatalogueController: WARNING: could not insert record 337, jumping to next record
+2018-07-26 13:58:48,495 ExtractionGeocatalogueController: WARNING: could not insert record 338, jumping to next record
+2018-07-26 13:58:48,833 ExtractionGeocatalogueController: WARNING: could not insert record 339, jumping to next record
+2018-07-26 13:58:49,148 ExtractionGeocatalogueController: WARNING: could not insert record 340, jumping to next record
+2018-07-26 13:58:49,479 ExtractionGeocatalogueController: WARNING: could not insert record 341, jumping to next record
+2018-07-26 13:58:49,808 ExtractionGeocatalogueController: WARNING: could not insert record 342, jumping to next record
+2018-07-26 13:58:50,140 ExtractionGeocatalogueController: WARNING: could not insert record 343, jumping to next record
+2018-07-26 13:58:50,470 ExtractionGeocatalogueController: WARNING: could not insert record 344, jumping to next record
+2018-07-26 13:58:50,800 ExtractionGeocatalogueController: WARNING: could not insert record 345, jumping to next record
+2018-07-26 13:58:51,113 ExtractionGeocatalogueController: WARNING: could not insert record 346, jumping to next record
+2018-07-26 13:58:51,446 ExtractionGeocatalogueController: WARNING: could not insert record 347, jumping to next record
+2018-07-26 13:58:51,770 ExtractionGeocatalogueController: WARNING: could not insert record 348, jumping to next record
+2018-07-26 13:58:52,102 ExtractionGeocatalogueController: WARNING: could not insert record 349, jumping to next record
+2018-07-26 13:58:52,443 ExtractionGeocatalogueController: WARNING: could not insert record 350, jumping to next record
+2018-07-26 13:58:52,785 ExtractionGeocatalogueController: WARNING: could not insert record 351, jumping to next record
+2018-07-26 13:58:53,105 ExtractionGeocatalogueController: WARNING: could not insert record 352, jumping to next record
+2018-07-26 13:58:53,430 ExtractionGeocatalogueController: WARNING: could not insert record 353, jumping to next record
+2018-07-26 13:58:53,777 ExtractionGeocatalogueController: WARNING: could not insert record 354, jumping to next record
+2018-07-26 13:58:54,104 ExtractionGeocatalogueController: WARNING: could not insert record 355, jumping to next record
+2018-07-26 13:58:54,414 ExtractionGeocatalogueController: WARNING: could not insert record 356, jumping to next record
+2018-07-26 13:58:54,755 ExtractionGeocatalogueController: WARNING: could not insert record 357, jumping to next record
+2018-07-26 13:58:55,088 ExtractionGeocatalogueController: WARNING: could not insert record 358, jumping to next record
+2018-07-26 13:58:55,453 ExtractionGeocatalogueController: WARNING: could not insert record 359, jumping to next record
+2018-07-26 13:58:55,793 ExtractionGeocatalogueController: WARNING: could not insert record 360, jumping to next record
+2018-07-26 13:58:56,118 ExtractionGeocatalogueController: WARNING: could not insert record 361, jumping to next record
+2018-07-26 13:58:56,461 ExtractionGeocatalogueController: WARNING: could not insert record 362, jumping to next record
+2018-07-26 13:58:56,782 ExtractionGeocatalogueController: WARNING: could not insert record 363, jumping to next record
+2018-07-26 13:58:57,127 ExtractionGeocatalogueController: WARNING: could not insert record 364, jumping to next record
+2018-07-26 13:58:57,464 ExtractionGeocatalogueController: WARNING: could not insert record 365, jumping to next record
+2018-07-26 13:58:57,783 ExtractionGeocatalogueController: WARNING: could not insert record 366, jumping to next record
+2018-07-26 13:58:58,128 ExtractionGeocatalogueController: WARNING: could not insert record 367, jumping to next record
+2018-07-26 13:58:58,481 ExtractionGeocatalogueController: WARNING: could not insert record 368, jumping to next record
+2018-07-26 13:58:58,840 ExtractionGeocatalogueController: WARNING: could not insert record 369, jumping to next record
+2018-07-26 13:58:59,181 ExtractionGeocatalogueController: WARNING: could not insert record 370, jumping to next record
+2018-07-26 13:58:59,515 ExtractionGeocatalogueController: WARNING: could not insert record 371, jumping to next record
+2018-07-26 13:58:59,855 ExtractionGeocatalogueController: WARNING: could not insert record 372, jumping to next record
+2018-07-26 13:59:00,187 ExtractionGeocatalogueController: WARNING: could not insert record 373, jumping to next record
+2018-07-26 13:59:00,519 ExtractionGeocatalogueController: WARNING: could not insert record 374, jumping to next record
+2018-07-26 13:59:00,856 ExtractionGeocatalogueController: WARNING: could not insert record 375, jumping to next record
+2018-07-26 13:59:01,193 ExtractionGeocatalogueController: WARNING: could not insert record 376, jumping to next record
+2018-07-26 13:59:01,532 ExtractionGeocatalogueController: WARNING: could not insert record 377, jumping to next record
+2018-07-26 13:59:01,861 ExtractionGeocatalogueController: WARNING: could not insert record 378, jumping to next record
+2018-07-26 13:59:02,181 ExtractionGeocatalogueController: WARNING: could not insert record 379, jumping to next record
+2018-07-26 13:59:02,510 ExtractionGeocatalogueController: WARNING: could not insert record 380, jumping to next record
+2018-07-26 13:59:02,847 ExtractionGeocatalogueController: WARNING: could not insert record 381, jumping to next record
+2018-07-26 13:59:03,227 ExtractionGeocatalogueController: WARNING: could not insert record 382, jumping to next record
+2018-07-26 13:59:03,559 ExtractionGeocatalogueController: WARNING: could not insert record 383, jumping to next record
+2018-07-26 13:59:03,888 ExtractionGeocatalogueController: WARNING: could not insert record 384, jumping to next record
+2018-07-26 13:59:04,217 ExtractionGeocatalogueController: WARNING: could not insert record 385, jumping to next record
+2018-07-26 13:59:04,546 ExtractionGeocatalogueController: WARNING: could not insert record 386, jumping to next record
+2018-07-26 13:59:04,871 ExtractionGeocatalogueController: WARNING: could not insert record 387, jumping to next record
+2018-07-26 13:59:05,220 ExtractionGeocatalogueController: WARNING: could not insert record 388, jumping to next record
+2018-07-26 13:59:05,567 ExtractionGeocatalogueController: WARNING: could not insert record 389, jumping to next record
+2018-07-26 13:59:05,925 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 391 ;maxrecord 30 ; nextrecord 392 ; returned 1
+2018-07-26 13:59:05,947 Insertion: INFO: 1 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:06,307 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 392 ;maxrecord 30 ; nextrecord 394 ; returned 2
+2018-07-26 13:59:06,308 VerificationMatadata: WARNING:  1 : records already exist
+2018-07-26 13:59:06,317 Insertion: INFO: 1 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:06,678 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 394 ;maxrecord 30 ; nextrecord 398 ; returned 4
+2018-07-26 13:59:06,679 VerificationMatadata: WARNING:  2 : records already exist
+2018-07-26 13:59:06,690 Insertion: INFO: 2 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:07,150 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 398 ;maxrecord 30 ; nextrecord 406 ; returned 8
+2018-07-26 13:59:07,151 VerificationMatadata: WARNING:  4 : records already exist
+2018-07-26 13:59:07,167 Insertion: INFO: 4 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:07,671 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 406 ;maxrecord 30 ; nextrecord 417 ; returned 11
+2018-07-26 13:59:07,673 VerificationMatadata: WARNING:  8 : records already exist
+2018-07-26 13:59:07,688 Insertion: INFO: 3 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:08,326 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 417 ;maxrecord 30 ; nextrecord 439 ; returned 22
+2018-07-26 13:59:08,328 VerificationMatadata: WARNING:  11 : records already exist
+2018-07-26 13:59:08,360 Insertion: INFO: 11 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:09,742 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 439 ;maxrecord 30 ; nextrecord 469 ; returned 30
+2018-07-26 13:59:09,743 VerificationMatadata: WARNING:  8 : records already exist
+2018-07-26 13:59:09,795 Insertion: INFO: 22 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:12,734 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 469 ;maxrecord 30 ; nextrecord 499 ; returned 30
+2018-07-26 13:59:12,800 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:13,727 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 499 ;maxrecord 30 ; nextrecord 529 ; returned 30
+2018-07-26 13:59:13,791 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:14,724 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 529 ;maxrecord 30 ; nextrecord 559 ; returned 30
+2018-07-26 13:59:14,788 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:15,782 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 559 ;maxrecord 30 ; nextrecord 589 ; returned 30
+2018-07-26 13:59:15,849 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:16,817 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 589 ;maxrecord 30 ; nextrecord 619 ; returned 30
+2018-07-26 13:59:16,890 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:17,887 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 619 ;maxrecord 30 ; nextrecord 649 ; returned 30
+2018-07-26 13:59:17,959 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:18,837 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 649 ;maxrecord 30 ; nextrecord 679 ; returned 30
+2018-07-26 13:59:18,904 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:19,793 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 679 ;maxrecord 30 ; nextrecord 709 ; returned 30
+2018-07-26 13:59:19,857 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:20,761 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 709 ;maxrecord 30 ; nextrecord 739 ; returned 30
+2018-07-26 13:59:20,835 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:21,732 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 739 ;maxrecord 30 ; nextrecord 769 ; returned 30
+2018-07-26 13:59:21,801 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:22,688 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 769 ;maxrecord 30 ; nextrecord 799 ; returned 30
+2018-07-26 13:59:22,762 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:23,636 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 799 ;maxrecord 30 ; nextrecord 829 ; returned 30
+2018-07-26 13:59:23,704 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:24,621 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 829 ;maxrecord 30 ; nextrecord 859 ; returned 30
+2018-07-26 13:59:24,691 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:25,614 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 859 ;maxrecord 30 ; nextrecord 889 ; returned 30
+2018-07-26 13:59:25,685 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:26,546 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 889 ;maxrecord 30 ; nextrecord 919 ; returned 30
+2018-07-26 13:59:26,624 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:27,541 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 919 ;maxrecord 30 ; nextrecord 949 ; returned 30
+2018-07-26 13:59:27,609 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:28,544 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 949 ;maxrecord 30 ; nextrecord 979 ; returned 30
+2018-07-26 13:59:28,617 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:29,510 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 979 ;maxrecord 30 ; nextrecord 1009 ; returned 30
+2018-07-26 13:59:29,581 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:32,725 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1009 ;maxrecord 30 ; nextrecord 1039 ; returned 30
+2018-07-26 13:59:32,796 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:35,101 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1039 ;maxrecord 30 ; nextrecord 1069 ; returned 30
+2018-07-26 13:59:35,178 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:38,004 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1069 ;maxrecord 30 ; nextrecord 1099 ; returned 30
+2018-07-26 13:59:38,076 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:41,586 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1099 ;maxrecord 30 ; nextrecord 1129 ; returned 30
+2018-07-26 13:59:41,660 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:44,286 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1129 ;maxrecord 30 ; nextrecord 1159 ; returned 30
+2018-07-26 13:59:44,354 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:45,198 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1159 ;maxrecord 30 ; nextrecord 1189 ; returned 30
+2018-07-26 13:59:45,265 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:46,153 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1189 ;maxrecord 30 ; nextrecord 1219 ; returned 30
+2018-07-26 13:59:46,225 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:48,359 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1219 ;maxrecord 30 ; nextrecord 1249 ; returned 30
+2018-07-26 13:59:48,437 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:51,750 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1249 ;maxrecord 30 ; nextrecord 1279 ; returned 30
+2018-07-26 13:59:51,819 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:55,058 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1279 ;maxrecord 30 ; nextrecord 1309 ; returned 30
+2018-07-26 13:59:55,128 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:56,007 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1309 ;maxrecord 30 ; nextrecord 1339 ; returned 30
+2018-07-26 13:59:56,082 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:57,006 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1339 ;maxrecord 30 ; nextrecord 1369 ; returned 30
+2018-07-26 13:59:57,083 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:58,018 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1369 ;maxrecord 30 ; nextrecord 1399 ; returned 30
+2018-07-26 13:59:58,095 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:59,033 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1399 ;maxrecord 30 ; nextrecord 1429 ; returned 30
+2018-07-26 13:59:59,110 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 13:59:59,978 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1429 ;maxrecord 30 ; nextrecord 1459 ; returned 30
+2018-07-26 14:00:00,053 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:00,972 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1459 ;maxrecord 30 ; nextrecord 1489 ; returned 30
+2018-07-26 14:00:01,046 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:01,996 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1489 ;maxrecord 30 ; nextrecord 1519 ; returned 30
+2018-07-26 14:00:02,077 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:02,977 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1519 ;maxrecord 30 ; nextrecord 1549 ; returned 30
+2018-07-26 14:00:03,056 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:03,926 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1549 ;maxrecord 30 ; nextrecord 1579 ; returned 30
+2018-07-26 14:00:04,004 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:04,846 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1579 ;maxrecord 30 ; nextrecord 1609 ; returned 30
+2018-07-26 14:00:04,847 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:00:04,920 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:07,880 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1609 ;maxrecord 30 ; nextrecord 1639 ; returned 30
+2018-07-26 14:00:07,957 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:08,832 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1639 ;maxrecord 30 ; nextrecord 1669 ; returned 30
+2018-07-26 14:00:08,928 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:09,778 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1669 ;maxrecord 30 ; nextrecord 1699 ; returned 30
+2018-07-26 14:00:09,855 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:10,756 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1699 ;maxrecord 30 ; nextrecord 1729 ; returned 30
+2018-07-26 14:00:10,833 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:11,712 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1729 ;maxrecord 30 ; nextrecord 1759 ; returned 30
+2018-07-26 14:00:11,786 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:12,688 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1759 ;maxrecord 30 ; nextrecord 1789 ; returned 30
+2018-07-26 14:00:12,765 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:13,647 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1789 ;maxrecord 30 ; nextrecord 1819 ; returned 30
+2018-07-26 14:00:13,724 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:14,698 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1819 ;maxrecord 30 ; nextrecord 1849 ; returned 30
+2018-07-26 14:00:14,775 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:15,616 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1849 ;maxrecord 30 ; nextrecord 1879 ; returned 30
+2018-07-26 14:00:15,694 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:16,595 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1879 ;maxrecord 30 ; nextrecord 1909 ; returned 30
+2018-07-26 14:00:16,678 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:17,546 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1909 ;maxrecord 30 ; nextrecord 1939 ; returned 30
+2018-07-26 14:00:17,628 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:18,519 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1939 ;maxrecord 30 ; nextrecord 1969 ; returned 30
+2018-07-26 14:00:18,598 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:19,557 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1969 ;maxrecord 30 ; nextrecord 1999 ; returned 30
+2018-07-26 14:00:19,633 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:22,702 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 1999 ;maxrecord 30 ; nextrecord 2029 ; returned 30
+2018-07-26 14:00:22,783 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:26,053 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2029 ;maxrecord 30 ; nextrecord 2059 ; returned 30
+2018-07-26 14:00:26,133 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:29,293 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2059 ;maxrecord 30 ; nextrecord 2089 ; returned 30
+2018-07-26 14:00:29,293 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:00:29,378 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:32,423 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2089 ;maxrecord 30 ; nextrecord 2119 ; returned 30
+2018-07-26 14:00:32,508 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:35,474 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2119 ;maxrecord 30 ; nextrecord 2149 ; returned 30
+2018-07-26 14:00:35,558 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:38,681 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2149 ;maxrecord 30 ; nextrecord 2179 ; returned 30
+2018-07-26 14:00:38,771 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:41,889 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2179 ;maxrecord 30 ; nextrecord 2209 ; returned 30
+2018-07-26 14:00:41,975 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:44,973 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2209 ;maxrecord 30 ; nextrecord 2239 ; returned 30
+2018-07-26 14:00:45,066 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:48,323 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2239 ;maxrecord 30 ; nextrecord 2269 ; returned 30
+2018-07-26 14:00:48,410 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:51,913 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2269 ;maxrecord 30 ; nextrecord 2299 ; returned 30
+2018-07-26 14:00:52,005 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:55,014 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2299 ;maxrecord 30 ; nextrecord 2329 ; returned 30
+2018-07-26 14:00:55,098 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:00:58,060 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2329 ;maxrecord 30 ; nextrecord 2359 ; returned 30
+2018-07-26 14:00:58,145 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:01,362 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2359 ;maxrecord 30 ; nextrecord 2389 ; returned 30
+2018-07-26 14:01:01,362 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:01:01,442 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:04,796 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2389 ;maxrecord 30 ; nextrecord 2419 ; returned 30
+2018-07-26 14:01:04,889 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:08,389 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2419 ;maxrecord 30 ; nextrecord 2449 ; returned 30
+2018-07-26 14:01:08,470 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:12,257 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2449 ;maxrecord 30 ; nextrecord 2479 ; returned 30
+2018-07-26 14:01:12,329 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:15,239 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2479 ;maxrecord 30 ; nextrecord 2509 ; returned 30
+2018-07-26 14:01:15,306 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:18,899 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2509 ;maxrecord 30 ; nextrecord 2539 ; returned 30
+2018-07-26 14:01:18,979 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:22,013 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2539 ;maxrecord 30 ; nextrecord 2569 ; returned 30
+2018-07-26 14:01:22,014 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:01:22,087 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:25,553 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2569 ;maxrecord 30 ; nextrecord 2599 ; returned 30
+2018-07-26 14:01:25,634 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:29,663 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2599 ;maxrecord 30 ; nextrecord 2629 ; returned 30
+2018-07-26 14:01:29,734 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:32,877 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2629 ;maxrecord 30 ; nextrecord 2659 ; returned 30
+2018-07-26 14:01:32,948 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:36,211 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2659 ;maxrecord 30 ; nextrecord 2689 ; returned 30
+2018-07-26 14:01:36,300 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:39,553 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2689 ;maxrecord 30 ; nextrecord 2719 ; returned 30
+2018-07-26 14:01:39,626 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:43,496 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2719 ;maxrecord 30 ; nextrecord 2749 ; returned 30
+2018-07-26 14:01:43,578 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:46,851 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2749 ;maxrecord 30 ; nextrecord 2779 ; returned 30
+2018-07-26 14:01:46,924 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:50,412 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2779 ;maxrecord 30 ; nextrecord 2809 ; returned 30
+2018-07-26 14:01:50,487 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:53,983 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2809 ;maxrecord 30 ; nextrecord 2839 ; returned 30
+2018-07-26 14:01:54,061 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:01:57,268 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2839 ;maxrecord 30 ; nextrecord 2869 ; returned 30
+2018-07-26 14:01:57,363 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:00,438 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2869 ;maxrecord 30 ; nextrecord 2899 ; returned 30
+2018-07-26 14:02:00,514 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:03,744 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2899 ;maxrecord 30 ; nextrecord 2929 ; returned 30
+2018-07-26 14:02:03,830 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:07,384 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2929 ;maxrecord 30 ; nextrecord 2959 ; returned 30
+2018-07-26 14:02:07,385 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:02:07,460 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:10,759 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2959 ;maxrecord 30 ; nextrecord 2989 ; returned 30
+2018-07-26 14:02:10,760 VerificationMetadata: WARNING: 7 incorrect record(s)  
+2018-07-26 14:02:10,823 Insertion: INFO: 23 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:11,721 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 2989 ;maxrecord 30 ; nextrecord 3019 ; returned 30
+2018-07-26 14:02:11,792 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:12,745 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3019 ;maxrecord 30 ; nextrecord 3049 ; returned 30
+2018-07-26 14:02:12,822 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:13,818 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3049 ;maxrecord 30 ; nextrecord 3079 ; returned 30
+2018-07-26 14:02:13,819 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-26 14:02:13,883 Insertion: INFO: 26 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:14,947 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3079 ;maxrecord 30 ; nextrecord 3109 ; returned 30
+2018-07-26 14:02:15,030 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:15,868 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3109 ;maxrecord 30 ; nextrecord 3139 ; returned 30
+2018-07-26 14:02:15,939 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:16,873 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3139 ;maxrecord 30 ; nextrecord 3169 ; returned 30
+2018-07-26 14:02:16,874 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:02:16,948 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:17,796 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3169 ;maxrecord 30 ; nextrecord 3199 ; returned 30
+2018-07-26 14:02:17,867 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:18,737 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3199 ;maxrecord 30 ; nextrecord 3229 ; returned 30
+2018-07-26 14:02:18,816 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:19,665 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3229 ;maxrecord 30 ; nextrecord 3259 ; returned 30
+2018-07-26 14:02:19,739 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:22,305 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3259 ;maxrecord 30 ; nextrecord 3289 ; returned 30
+2018-07-26 14:02:22,409 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:25,445 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3289 ;maxrecord 30 ; nextrecord 3319 ; returned 30
+2018-07-26 14:02:25,533 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:28,473 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3319 ;maxrecord 30 ; nextrecord 3349 ; returned 30
+2018-07-26 14:02:28,563 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:31,615 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3349 ;maxrecord 30 ; nextrecord 3379 ; returned 30
+2018-07-26 14:02:31,703 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:34,761 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3379 ;maxrecord 30 ; nextrecord 3409 ; returned 30
+2018-07-26 14:02:34,850 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:37,735 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3409 ;maxrecord 30 ; nextrecord 3439 ; returned 30
+2018-07-26 14:02:37,822 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:41,280 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3439 ;maxrecord 30 ; nextrecord 3469 ; returned 30
+2018-07-26 14:02:41,371 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:44,113 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3469 ;maxrecord 30 ; nextrecord 3499 ; returned 30
+2018-07-26 14:02:44,198 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:47,219 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3499 ;maxrecord 30 ; nextrecord 3529 ; returned 30
+2018-07-26 14:02:47,307 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:50,277 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3529 ;maxrecord 30 ; nextrecord 3559 ; returned 30
+2018-07-26 14:02:50,384 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:53,349 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3559 ;maxrecord 30 ; nextrecord 3589 ; returned 30
+2018-07-26 14:02:53,440 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:54,303 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3589 ;maxrecord 30 ; nextrecord 3619 ; returned 30
+2018-07-26 14:02:54,304 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:02:54,376 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:55,245 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3619 ;maxrecord 30 ; nextrecord 3649 ; returned 30
+2018-07-26 14:02:55,321 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:56,323 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3649 ;maxrecord 30 ; nextrecord 3679 ; returned 30
+2018-07-26 14:02:56,324 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:02:56,395 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:57,316 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3679 ;maxrecord 30 ; nextrecord 3709 ; returned 30
+2018-07-26 14:02:57,389 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:58,244 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3709 ;maxrecord 30 ; nextrecord 3739 ; returned 30
+2018-07-26 14:02:58,338 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:02:59,214 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3739 ;maxrecord 30 ; nextrecord 3769 ; returned 30
+2018-07-26 14:02:59,290 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:00,288 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3769 ;maxrecord 30 ; nextrecord 3799 ; returned 30
+2018-07-26 14:03:00,289 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 14:03:00,372 Insertion: INFO: 29 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:01,252 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3799 ;maxrecord 30 ; nextrecord 3829 ; returned 30
+2018-07-26 14:03:01,417 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:02,245 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3829 ;maxrecord 30 ; nextrecord 3859 ; returned 30
+2018-07-26 14:03:02,321 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:03,910 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3859 ;maxrecord 30 ; nextrecord 3889 ; returned 30
+2018-07-26 14:03:03,993 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:07,062 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3889 ;maxrecord 30 ; nextrecord 3919 ; returned 30
+2018-07-26 14:03:07,155 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:10,217 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3919 ;maxrecord 30 ; nextrecord 3949 ; returned 30
+2018-07-26 14:03:10,316 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:13,361 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3949 ;maxrecord 30 ; nextrecord 3979 ; returned 30
+2018-07-26 14:03:13,451 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:16,433 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 3979 ;maxrecord 30 ; nextrecord 4009 ; returned 30
+2018-07-26 14:03:16,523 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:19,495 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4009 ;maxrecord 30 ; nextrecord 4039 ; returned 30
+2018-07-26 14:03:19,583 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:22,328 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4039 ;maxrecord 30 ; nextrecord 4069 ; returned 30
+2018-07-26 14:03:22,419 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:25,338 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4069 ;maxrecord 30 ; nextrecord 4099 ; returned 30
+2018-07-26 14:03:25,429 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:28,414 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4099 ;maxrecord 30 ; nextrecord 4129 ; returned 30
+2018-07-26 14:03:28,515 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:31,238 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4129 ;maxrecord 30 ; nextrecord 4159 ; returned 30
+2018-07-26 14:03:31,350 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:34,895 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4159 ;maxrecord 30 ; nextrecord 4189 ; returned 30
+2018-07-26 14:03:34,994 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:37,971 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4189 ;maxrecord 30 ; nextrecord 4219 ; returned 30
+2018-07-26 14:03:38,060 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:41,112 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4219 ;maxrecord 30 ; nextrecord 4249 ; returned 30
+2018-07-26 14:03:41,200 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:44,193 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4249 ;maxrecord 30 ; nextrecord 4279 ; returned 30
+2018-07-26 14:03:44,294 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:47,243 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4279 ;maxrecord 30 ; nextrecord 4309 ; returned 30
+2018-07-26 14:03:47,332 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:50,303 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4309 ;maxrecord 30 ; nextrecord 4339 ; returned 30
+2018-07-26 14:03:50,395 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:53,386 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4339 ;maxrecord 30 ; nextrecord 4369 ; returned 30
+2018-07-26 14:03:53,516 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:56,479 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4369 ;maxrecord 30 ; nextrecord 4399 ; returned 30
+2018-07-26 14:03:56,570 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:03:59,609 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4399 ;maxrecord 30 ; nextrecord 4429 ; returned 30
+2018-07-26 14:03:59,714 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:02,518 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4429 ;maxrecord 30 ; nextrecord 4459 ; returned 30
+2018-07-26 14:04:02,613 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:05,501 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4459 ;maxrecord 30 ; nextrecord 4489 ; returned 30
+2018-07-26 14:04:05,597 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:06,490 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4489 ;maxrecord 30 ; nextrecord 4519 ; returned 30
+2018-07-26 14:04:06,583 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:07,462 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4519 ;maxrecord 30 ; nextrecord 4549 ; returned 30
+2018-07-26 14:04:07,577 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:08,462 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4549 ;maxrecord 30 ; nextrecord 4579 ; returned 30
+2018-07-26 14:04:08,555 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:09,406 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4579 ;maxrecord 30 ; nextrecord 4609 ; returned 30
+2018-07-26 14:04:09,497 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:10,377 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4609 ;maxrecord 30 ; nextrecord 4639 ; returned 30
+2018-07-26 14:04:10,469 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:11,321 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4639 ;maxrecord 30 ; nextrecord 4669 ; returned 30
+2018-07-26 14:04:11,433 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:14,353 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4669 ;maxrecord 30 ; nextrecord 4699 ; returned 30
+2018-07-26 14:04:14,454 Insertion: INFO: 30 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:14,740 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4699 ;maxrecord 3 ; nextrecord 4702 ; returned 3
+2018-07-26 14:04:14,768 Insertion: INFO: 3 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:15,107 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4702 ;maxrecord 3 ; nextrecord 4705 ; returned 3
+2018-07-26 14:04:15,152 Insertion: INFO: 3 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:15,602 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4705 ;maxrecord 3 ; nextrecord 4708 ; returned 3
+2018-07-26 14:04:15,625 Insertion: INFO: 3 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:16,618 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4708 ;maxrecord 3 ; nextrecord 4711 ; returned 3
+2018-07-26 14:04:16,640 Insertion: INFO: 3 next values from Picto-Occitanie inserted into database
+2018-07-26 14:04:16,922 ExtractionGeocatalogueController: INFO: matches 4713 (from 0 to 4712) ; first record 4711 ;maxrecord 3 ; nextrecord 4713 ; returned 2
+2018-07-26 14:04:16,942 Insertion: INFO: 2 next values from Picto-Occitanie inserted into database
+2018-07-26 14:08:48,984 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:08:49,319 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:08:49,628 ok: INFO: ok
+2018-07-26 14:08:50,245 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 14:08:50,632 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 14:08:50,985 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-26 14:08:51,398 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-07-26 14:08:51,802 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-07-26 14:08:52,211 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-07-26 14:09:02,681 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:09:02,964 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:09:03,217 ok: INFO: ok
+2018-07-26 14:09:03,546 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 14:09:03,921 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 14:09:04,236 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-26 14:09:04,579 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-07-26 14:09:04,969 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-07-26 14:09:05,302 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-07-26 14:09:05,655 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
+2018-07-26 14:09:06,005 ExtractionGeocatalogueController: WARNING: could not insert record 7, jumping to next record
+2018-07-26 14:09:06,336 ExtractionGeocatalogueController: WARNING: could not insert record 8, jumping to next record
+2018-07-26 14:09:06,664 ExtractionGeocatalogueController: WARNING: could not insert record 9, jumping to next record
+2018-07-26 14:09:07,042 ExtractionGeocatalogueController: WARNING: could not insert record 10, jumping to next record
+2018-07-26 14:09:07,388 ExtractionGeocatalogueController: WARNING: could not insert record 11, jumping to next record
+2018-07-26 14:09:07,737 ExtractionGeocatalogueController: WARNING: could not insert record 12, jumping to next record
+2018-07-26 14:09:08,095 ExtractionGeocatalogueController: WARNING: could not insert record 13, jumping to next record
+2018-07-26 14:09:08,483 ExtractionGeocatalogueController: WARNING: could not insert record 14, jumping to next record
+2018-07-26 14:09:08,813 ExtractionGeocatalogueController: WARNING: could not insert record 15, jumping to next record
+2018-07-26 14:09:09,152 ExtractionGeocatalogueController: WARNING: could not insert record 16, jumping to next record
+2018-07-26 14:09:09,488 ExtractionGeocatalogueController: WARNING: could not insert record 17, jumping to next record
+2018-07-26 14:09:09,830 ExtractionGeocatalogueController: WARNING: could not insert record 18, jumping to next record
+2018-07-26 14:09:10,185 ExtractionGeocatalogueController: WARNING: could not insert record 19, jumping to next record
+2018-07-26 14:09:10,511 ExtractionGeocatalogueController: WARNING: could not insert record 20, jumping to next record
+2018-07-26 14:09:10,831 ExtractionGeocatalogueController: WARNING: could not insert record 21, jumping to next record
+2018-07-26 14:09:11,170 ExtractionGeocatalogueController: WARNING: could not insert record 22, jumping to next record
+2018-07-26 14:09:11,520 ExtractionGeocatalogueController: WARNING: could not insert record 23, jumping to next record
+2018-07-26 14:09:11,902 ExtractionGeocatalogueController: WARNING: could not insert record 24, jumping to next record
+2018-07-26 14:09:12,243 ExtractionGeocatalogueController: WARNING: could not insert record 25, jumping to next record
+2018-07-26 14:09:12,568 ExtractionGeocatalogueController: WARNING: could not insert record 26, jumping to next record
+2018-07-26 14:09:12,899 ExtractionGeocatalogueController: WARNING: could not insert record 27, jumping to next record
+2018-07-26 14:09:13,229 ExtractionGeocatalogueController: WARNING: could not insert record 28, jumping to next record
+2018-07-26 14:09:13,616 ExtractionGeocatalogueController: WARNING: could not insert record 29, jumping to next record
+2018-07-26 14:09:13,914 ExtractionGeocatalogueController: WARNING: could not insert record 30, jumping to next record
+2018-07-26 14:09:14,251 ExtractionGeocatalogueController: WARNING: could not insert record 31, jumping to next record
+2018-07-26 14:09:14,602 ExtractionGeocatalogueController: WARNING: could not insert record 32, jumping to next record
+2018-07-26 14:09:14,928 ExtractionGeocatalogueController: WARNING: could not insert record 33, jumping to next record
+2018-07-26 14:09:15,264 ExtractionGeocatalogueController: WARNING: could not insert record 34, jumping to next record
+2018-07-26 14:09:15,594 ExtractionGeocatalogueController: WARNING: could not insert record 35, jumping to next record
+2018-07-26 14:09:15,943 ExtractionGeocatalogueController: WARNING: could not insert record 36, jumping to next record
+2018-07-26 14:09:17,905 ExtractionGeocatalogueController: WARNING: could not insert record 37, jumping to next record
+2018-07-26 14:09:18,275 ExtractionGeocatalogueController: WARNING: could not insert record 38, jumping to next record
+2018-07-26 14:09:18,636 ExtractionGeocatalogueController: WARNING: could not insert record 39, jumping to next record
+2018-07-26 14:09:19,030 ExtractionGeocatalogueController: WARNING: could not insert record 40, jumping to next record
+2018-07-26 14:09:19,525 ExtractionGeocatalogueController: WARNING: could not insert record 41, jumping to next record
+2018-07-26 14:09:19,857 ExtractionGeocatalogueController: WARNING: could not insert record 42, jumping to next record
+2018-07-26 14:09:20,270 ExtractionGeocatalogueController: WARNING: could not insert record 43, jumping to next record
+2018-07-26 14:09:20,634 ExtractionGeocatalogueController: WARNING: could not insert record 44, jumping to next record
+2018-07-26 14:09:20,994 ExtractionGeocatalogueController: WARNING: could not insert record 45, jumping to next record
+2018-07-26 14:09:21,463 ExtractionGeocatalogueController: WARNING: could not insert record 46, jumping to next record
+2018-07-26 14:09:21,784 ExtractionGeocatalogueController: WARNING: could not insert record 47, jumping to next record
+2018-07-26 14:09:22,125 ExtractionGeocatalogueController: WARNING: could not insert record 48, jumping to next record
+2018-07-26 14:09:22,452 ExtractionGeocatalogueController: WARNING: could not insert record 49, jumping to next record
+2018-07-26 14:09:22,808 ExtractionGeocatalogueController: WARNING: could not insert record 50, jumping to next record
+2018-07-26 14:09:23,141 ExtractionGeocatalogueController: WARNING: could not insert record 51, jumping to next record
+2018-07-26 14:09:23,471 ExtractionGeocatalogueController: WARNING: could not insert record 52, jumping to next record
+2018-07-26 14:09:23,884 ExtractionGeocatalogueController: WARNING: could not insert record 53, jumping to next record
+2018-07-26 14:09:24,219 ExtractionGeocatalogueController: WARNING: could not insert record 54, jumping to next record
+2018-07-26 14:09:24,545 ExtractionGeocatalogueController: WARNING: could not insert record 55, jumping to next record
+2018-07-26 14:09:24,880 ExtractionGeocatalogueController: WARNING: could not insert record 56, jumping to next record
+2018-07-26 14:09:25,209 ExtractionGeocatalogueController: WARNING: could not insert record 57, jumping to next record
+2018-07-26 14:09:25,540 ExtractionGeocatalogueController: WARNING: could not insert record 58, jumping to next record
+2018-07-26 14:09:25,891 ExtractionGeocatalogueController: WARNING: could not insert record 59, jumping to next record
+2018-07-26 14:09:26,232 ExtractionGeocatalogueController: WARNING: could not insert record 60, jumping to next record
+2018-07-26 14:09:26,573 ExtractionGeocatalogueController: WARNING: could not insert record 61, jumping to next record
+2018-07-26 14:09:26,897 ExtractionGeocatalogueController: WARNING: could not insert record 62, jumping to next record
+2018-07-26 14:09:27,212 ExtractionGeocatalogueController: WARNING: could not insert record 63, jumping to next record
+2018-07-26 14:09:27,551 ExtractionGeocatalogueController: WARNING: could not insert record 64, jumping to next record
+2018-07-26 14:09:27,889 ExtractionGeocatalogueController: WARNING: could not insert record 65, jumping to next record
+2018-07-26 14:09:28,218 ExtractionGeocatalogueController: WARNING: could not insert record 66, jumping to next record
+2018-07-26 14:09:28,557 ExtractionGeocatalogueController: WARNING: could not insert record 67, jumping to next record
+2018-07-26 14:09:28,906 ExtractionGeocatalogueController: WARNING: could not insert record 68, jumping to next record
+2018-07-26 14:09:29,246 ExtractionGeocatalogueController: WARNING: could not insert record 69, jumping to next record
+2018-07-26 14:09:29,574 ExtractionGeocatalogueController: WARNING: could not insert record 70, jumping to next record
+2018-07-26 14:09:29,909 ExtractionGeocatalogueController: WARNING: could not insert record 71, jumping to next record
+2018-07-26 14:09:30,246 ExtractionGeocatalogueController: WARNING: could not insert record 72, jumping to next record
+2018-07-26 14:09:30,581 ExtractionGeocatalogueController: WARNING: could not insert record 73, jumping to next record
+2018-07-26 14:09:30,916 ExtractionGeocatalogueController: WARNING: could not insert record 74, jumping to next record
+2018-07-26 14:09:31,226 ExtractionGeocatalogueController: WARNING: could not insert record 75, jumping to next record
+2018-07-26 14:09:31,557 ExtractionGeocatalogueController: WARNING: could not insert record 76, jumping to next record
+2018-07-26 14:09:31,886 ExtractionGeocatalogueController: WARNING: could not insert record 77, jumping to next record
+2018-07-26 14:09:32,223 ExtractionGeocatalogueController: WARNING: could not insert record 78, jumping to next record
+2018-07-26 14:09:32,573 ExtractionGeocatalogueController: WARNING: could not insert record 79, jumping to next record
+2018-07-26 14:09:32,913 ExtractionGeocatalogueController: WARNING: could not insert record 80, jumping to next record
+2018-07-26 14:09:33,257 ExtractionGeocatalogueController: WARNING: could not insert record 81, jumping to next record
+2018-07-26 14:09:33,612 ExtractionGeocatalogueController: WARNING: could not insert record 82, jumping to next record
+2018-07-26 14:09:37,175 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:09:37,402 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:09:37,637 ok: INFO: ok
+2018-07-26 14:09:37,974 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 14:09:38,316 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 14:09:38,653 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-26 14:09:38,999 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-07-26 14:09:39,344 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-07-26 14:09:39,687 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-07-26 14:09:40,027 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
+2018-07-26 14:09:40,370 ExtractionGeocatalogueController: WARNING: could not insert record 7, jumping to next record
+2018-07-26 14:09:40,692 ExtractionGeocatalogueController: WARNING: could not insert record 8, jumping to next record
+2018-07-26 14:09:41,020 ExtractionGeocatalogueController: WARNING: could not insert record 9, jumping to next record
+2018-07-26 14:09:41,337 ExtractionGeocatalogueController: WARNING: could not insert record 10, jumping to next record
+2018-07-26 14:09:41,668 ExtractionGeocatalogueController: WARNING: could not insert record 11, jumping to next record
+2018-07-26 14:09:41,993 ExtractionGeocatalogueController: WARNING: could not insert record 12, jumping to next record
+2018-07-26 14:09:42,356 ExtractionGeocatalogueController: WARNING: could not insert record 13, jumping to next record
+2018-07-26 14:09:42,705 ExtractionGeocatalogueController: WARNING: could not insert record 14, jumping to next record
+2018-07-26 14:09:43,038 ExtractionGeocatalogueController: WARNING: could not insert record 15, jumping to next record
+2018-07-26 14:09:43,375 ExtractionGeocatalogueController: WARNING: could not insert record 16, jumping to next record
+2018-07-26 14:09:43,716 ExtractionGeocatalogueController: WARNING: could not insert record 17, jumping to next record
+2018-07-26 14:09:44,043 ExtractionGeocatalogueController: WARNING: could not insert record 18, jumping to next record
+2018-07-26 14:09:44,382 ExtractionGeocatalogueController: WARNING: could not insert record 19, jumping to next record
+2018-07-26 14:09:44,736 ExtractionGeocatalogueController: WARNING: could not insert record 20, jumping to next record
+2018-07-26 14:09:45,036 ExtractionGeocatalogueController: WARNING: could not insert record 21, jumping to next record
+2018-07-26 14:09:45,356 ExtractionGeocatalogueController: WARNING: could not insert record 22, jumping to next record
+2018-07-26 14:09:45,688 ExtractionGeocatalogueController: WARNING: could not insert record 23, jumping to next record
+2018-07-26 14:09:46,028 ExtractionGeocatalogueController: WARNING: could not insert record 24, jumping to next record
+2018-07-26 14:09:46,351 ExtractionGeocatalogueController: WARNING: could not insert record 25, jumping to next record
+2018-07-26 14:09:46,694 ExtractionGeocatalogueController: WARNING: could not insert record 26, jumping to next record
+2018-07-26 14:09:47,015 ExtractionGeocatalogueController: WARNING: could not insert record 27, jumping to next record
+2018-07-26 14:09:47,330 ExtractionGeocatalogueController: WARNING: could not insert record 28, jumping to next record
+2018-07-26 14:09:47,633 ExtractionGeocatalogueController: WARNING: could not insert record 29, jumping to next record
+2018-07-26 14:09:47,963 ExtractionGeocatalogueController: WARNING: could not insert record 30, jumping to next record
+2018-07-26 14:09:48,275 ExtractionGeocatalogueController: WARNING: could not insert record 31, jumping to next record
+2018-07-26 14:09:48,617 ExtractionGeocatalogueController: WARNING: could not insert record 32, jumping to next record
+2018-07-26 14:09:48,956 ExtractionGeocatalogueController: WARNING: could not insert record 33, jumping to next record
+2018-07-26 14:09:49,281 ExtractionGeocatalogueController: WARNING: could not insert record 34, jumping to next record
+2018-07-26 14:09:49,591 ExtractionGeocatalogueController: WARNING: could not insert record 35, jumping to next record
+2018-07-26 14:09:49,899 ExtractionGeocatalogueController: WARNING: could not insert record 36, jumping to next record
+2018-07-26 14:09:50,222 ExtractionGeocatalogueController: WARNING: could not insert record 37, jumping to next record
+2018-07-26 14:09:50,541 ExtractionGeocatalogueController: WARNING: could not insert record 38, jumping to next record
+2018-07-26 14:09:50,868 ExtractionGeocatalogueController: WARNING: could not insert record 39, jumping to next record
+2018-07-26 14:09:51,204 ExtractionGeocatalogueController: WARNING: could not insert record 40, jumping to next record
+2018-07-26 14:09:51,527 ExtractionGeocatalogueController: WARNING: could not insert record 41, jumping to next record
+2018-07-26 14:09:51,824 ExtractionGeocatalogueController: WARNING: could not insert record 42, jumping to next record
+2018-07-26 14:09:52,146 ExtractionGeocatalogueController: WARNING: could not insert record 43, jumping to next record
+2018-07-26 14:09:52,471 ExtractionGeocatalogueController: WARNING: could not insert record 44, jumping to next record
+2018-07-26 14:09:52,799 ExtractionGeocatalogueController: WARNING: could not insert record 45, jumping to next record
+2018-07-26 14:09:53,133 ExtractionGeocatalogueController: WARNING: could not insert record 46, jumping to next record
+2018-07-26 14:09:53,468 ExtractionGeocatalogueController: WARNING: could not insert record 47, jumping to next record
+2018-07-26 14:09:53,780 ExtractionGeocatalogueController: WARNING: could not insert record 48, jumping to next record
+2018-07-26 14:09:54,083 ExtractionGeocatalogueController: WARNING: could not insert record 49, jumping to next record
+2018-07-26 14:09:54,400 ExtractionGeocatalogueController: WARNING: could not insert record 50, jumping to next record
+2018-07-26 14:09:54,715 ExtractionGeocatalogueController: WARNING: could not insert record 51, jumping to next record
+2018-07-26 14:09:55,044 ExtractionGeocatalogueController: WARNING: could not insert record 52, jumping to next record
+2018-07-26 14:09:55,365 ExtractionGeocatalogueController: WARNING: could not insert record 53, jumping to next record
+2018-07-26 14:09:55,696 ExtractionGeocatalogueController: WARNING: could not insert record 54, jumping to next record
+2018-07-26 14:09:56,019 ExtractionGeocatalogueController: WARNING: could not insert record 55, jumping to next record
+2018-07-26 14:09:56,331 ExtractionGeocatalogueController: WARNING: could not insert record 56, jumping to next record
+2018-07-26 14:09:56,627 ExtractionGeocatalogueController: WARNING: could not insert record 57, jumping to next record
+2018-07-26 14:09:56,939 ExtractionGeocatalogueController: WARNING: could not insert record 58, jumping to next record
+2018-07-26 14:09:57,258 ExtractionGeocatalogueController: WARNING: could not insert record 59, jumping to next record
+2018-07-26 14:09:57,588 ExtractionGeocatalogueController: WARNING: could not insert record 60, jumping to next record
+2018-07-26 14:09:57,917 ExtractionGeocatalogueController: WARNING: could not insert record 61, jumping to next record
+2018-07-26 14:09:58,249 ExtractionGeocatalogueController: WARNING: could not insert record 62, jumping to next record
+2018-07-26 14:09:58,562 ExtractionGeocatalogueController: WARNING: could not insert record 63, jumping to next record
+2018-07-26 14:09:58,862 ExtractionGeocatalogueController: WARNING: could not insert record 64, jumping to next record
+2018-07-26 14:09:59,195 ExtractionGeocatalogueController: WARNING: could not insert record 65, jumping to next record
+2018-07-26 14:09:59,529 ExtractionGeocatalogueController: WARNING: could not insert record 66, jumping to next record
+2018-07-26 14:09:59,857 ExtractionGeocatalogueController: WARNING: could not insert record 67, jumping to next record
+2018-07-26 14:10:00,178 ExtractionGeocatalogueController: WARNING: could not insert record 68, jumping to next record
+2018-07-26 14:10:00,496 ExtractionGeocatalogueController: WARNING: could not insert record 69, jumping to next record
+2018-07-26 14:10:00,820 ExtractionGeocatalogueController: WARNING: could not insert record 70, jumping to next record
+2018-07-26 14:10:01,148 ExtractionGeocatalogueController: WARNING: could not insert record 71, jumping to next record
+2018-07-26 14:10:01,460 ExtractionGeocatalogueController: WARNING: could not insert record 72, jumping to next record
+2018-07-26 14:10:01,791 ExtractionGeocatalogueController: WARNING: could not insert record 73, jumping to next record
+2018-07-26 14:10:02,123 ExtractionGeocatalogueController: WARNING: could not insert record 74, jumping to next record
+2018-07-26 14:10:02,442 ExtractionGeocatalogueController: WARNING: could not insert record 75, jumping to next record
+2018-07-26 14:10:02,753 ExtractionGeocatalogueController: WARNING: could not insert record 76, jumping to next record
+2018-07-26 14:10:03,072 ExtractionGeocatalogueController: WARNING: could not insert record 77, jumping to next record
+2018-07-26 14:10:03,383 ExtractionGeocatalogueController: WARNING: could not insert record 78, jumping to next record
+2018-07-26 14:10:03,707 ExtractionGeocatalogueController: WARNING: could not insert record 79, jumping to next record
+2018-07-26 14:10:04,023 ExtractionGeocatalogueController: WARNING: could not insert record 80, jumping to next record
+2018-07-26 14:10:04,349 ExtractionGeocatalogueController: WARNING: could not insert record 81, jumping to next record
+2018-07-26 14:10:04,664 ExtractionGeocatalogueController: WARNING: could not insert record 82, jumping to next record
+2018-07-26 14:10:05,003 ExtractionGeocatalogueController: WARNING: could not insert record 83, jumping to next record
+2018-07-26 14:10:05,341 ExtractionGeocatalogueController: WARNING: could not insert record 84, jumping to next record
+2018-07-26 14:10:05,649 ExtractionGeocatalogueController: WARNING: could not insert record 85, jumping to next record
+2018-07-26 14:10:05,985 ExtractionGeocatalogueController: WARNING: could not insert record 86, jumping to next record
+2018-07-26 14:10:06,335 ExtractionGeocatalogueController: WARNING: could not insert record 87, jumping to next record
+2018-07-26 14:10:06,681 ExtractionGeocatalogueController: WARNING: could not insert record 88, jumping to next record
+2018-07-26 14:10:06,995 ExtractionGeocatalogueController: WARNING: could not insert record 89, jumping to next record
+2018-07-26 14:10:07,332 ExtractionGeocatalogueController: WARNING: could not insert record 90, jumping to next record
+2018-07-26 14:10:07,660 ExtractionGeocatalogueController: WARNING: could not insert record 91, jumping to next record
+2018-07-26 14:10:07,987 ExtractionGeocatalogueController: WARNING: could not insert record 92, jumping to next record
+2018-07-26 14:10:08,316 ExtractionGeocatalogueController: WARNING: could not insert record 93, jumping to next record
+2018-07-26 14:10:08,656 ExtractionGeocatalogueController: WARNING: could not insert record 94, jumping to next record
+2018-07-26 14:10:08,999 ExtractionGeocatalogueController: WARNING: could not insert record 95, jumping to next record
+2018-07-26 14:10:09,346 ExtractionGeocatalogueController: WARNING: could not insert record 96, jumping to next record
+2018-07-26 14:10:09,667 ExtractionGeocatalogueController: WARNING: could not insert record 97, jumping to next record
+2018-07-26 14:10:10,005 ExtractionGeocatalogueController: WARNING: could not insert record 98, jumping to next record
+2018-07-26 14:10:10,337 ExtractionGeocatalogueController: WARNING: could not insert record 99, jumping to next record
+2018-07-26 14:10:10,669 ExtractionGeocatalogueController: WARNING: could not insert record 100, jumping to next record
+2018-07-26 14:10:10,990 ExtractionGeocatalogueController: WARNING: could not insert record 101, jumping to next record
+2018-07-26 14:10:11,336 ExtractionGeocatalogueController: WARNING: could not insert record 102, jumping to next record
+2018-07-26 14:10:11,676 ExtractionGeocatalogueController: WARNING: could not insert record 103, jumping to next record
+2018-07-26 14:10:11,992 ExtractionGeocatalogueController: WARNING: could not insert record 104, jumping to next record
+2018-07-26 14:10:12,325 ExtractionGeocatalogueController: WARNING: could not insert record 105, jumping to next record
+2018-07-26 14:10:12,654 ExtractionGeocatalogueController: WARNING: could not insert record 106, jumping to next record
+2018-07-26 14:10:12,980 ExtractionGeocatalogueController: WARNING: could not insert record 107, jumping to next record
+2018-07-26 14:10:13,311 ExtractionGeocatalogueController: WARNING: could not insert record 108, jumping to next record
+2018-07-26 14:10:13,648 ExtractionGeocatalogueController: WARNING: could not insert record 109, jumping to next record
+2018-07-26 14:10:13,967 ExtractionGeocatalogueController: WARNING: could not insert record 110, jumping to next record
+2018-07-26 14:10:14,301 ExtractionGeocatalogueController: WARNING: could not insert record 111, jumping to next record
+2018-07-26 14:10:14,664 ExtractionGeocatalogueController: WARNING: could not insert record 112, jumping to next record
+2018-07-26 14:10:15,017 ExtractionGeocatalogueController: WARNING: could not insert record 113, jumping to next record
+2018-07-26 14:10:15,344 ExtractionGeocatalogueController: WARNING: could not insert record 114, jumping to next record
+2018-07-26 14:10:15,675 ExtractionGeocatalogueController: WARNING: could not insert record 115, jumping to next record
+2018-07-26 14:10:16,056 ExtractionGeocatalogueController: WARNING: could not insert record 116, jumping to next record
+2018-07-26 14:10:16,439 ExtractionGeocatalogueController: WARNING: could not insert record 117, jumping to next record
+2018-07-26 14:10:16,767 ExtractionGeocatalogueController: WARNING: could not insert record 118, jumping to next record
+2018-07-26 14:10:17,103 ExtractionGeocatalogueController: WARNING: could not insert record 119, jumping to next record
+2018-07-26 14:10:17,493 ExtractionGeocatalogueController: WARNING: could not insert record 120, jumping to next record
+2018-07-26 14:10:17,850 ExtractionGeocatalogueController: WARNING: could not insert record 121, jumping to next record
+2018-07-26 14:10:18,184 ExtractionGeocatalogueController: WARNING: could not insert record 122, jumping to next record
+2018-07-26 14:10:18,514 ExtractionGeocatalogueController: WARNING: could not insert record 123, jumping to next record
+2018-07-26 14:10:18,890 ExtractionGeocatalogueController: WARNING: could not insert record 124, jumping to next record
+2018-07-26 14:10:19,263 ExtractionGeocatalogueController: WARNING: could not insert record 125, jumping to next record
+2018-07-26 14:10:19,596 ExtractionGeocatalogueController: WARNING: could not insert record 126, jumping to next record
+2018-07-26 14:10:19,955 ExtractionGeocatalogueController: WARNING: could not insert record 127, jumping to next record
+2018-07-26 14:10:20,281 ExtractionGeocatalogueController: WARNING: could not insert record 128, jumping to next record
+2018-07-26 14:10:20,622 ExtractionGeocatalogueController: WARNING: could not insert record 129, jumping to next record
+2018-07-26 14:10:20,955 ExtractionGeocatalogueController: WARNING: could not insert record 130, jumping to next record
+2018-07-26 14:10:21,313 ExtractionGeocatalogueController: WARNING: could not insert record 131, jumping to next record
+2018-07-26 14:10:21,673 ExtractionGeocatalogueController: WARNING: could not insert record 132, jumping to next record
+2018-07-26 14:10:22,028 ExtractionGeocatalogueController: WARNING: could not insert record 133, jumping to next record
+2018-07-26 14:10:22,378 ExtractionGeocatalogueController: WARNING: could not insert record 134, jumping to next record
+2018-07-26 14:10:22,690 ExtractionGeocatalogueController: WARNING: could not insert record 135, jumping to next record
+2018-07-26 14:10:23,012 ExtractionGeocatalogueController: WARNING: could not insert record 136, jumping to next record
+2018-07-26 14:10:23,788 ExtractionGeocatalogueController: WARNING: could not insert record 137, jumping to next record
+2018-07-26 14:10:24,135 ExtractionGeocatalogueController: WARNING: could not insert record 138, jumping to next record
+2018-07-26 14:10:24,476 ExtractionGeocatalogueController: WARNING: could not insert record 139, jumping to next record
+2018-07-26 14:10:24,823 ExtractionGeocatalogueController: WARNING: could not insert record 140, jumping to next record
+2018-07-26 14:10:25,160 ExtractionGeocatalogueController: WARNING: could not insert record 141, jumping to next record
+2018-07-26 14:10:25,474 ExtractionGeocatalogueController: WARNING: could not insert record 142, jumping to next record
+2018-07-26 14:10:25,813 ExtractionGeocatalogueController: WARNING: could not insert record 143, jumping to next record
+2018-07-26 14:10:26,145 ExtractionGeocatalogueController: WARNING: could not insert record 144, jumping to next record
+2018-07-26 14:10:26,465 ExtractionGeocatalogueController: WARNING: could not insert record 145, jumping to next record
+2018-07-26 14:10:26,809 ExtractionGeocatalogueController: WARNING: could not insert record 146, jumping to next record
+2018-07-26 14:10:27,143 ExtractionGeocatalogueController: WARNING: could not insert record 147, jumping to next record
+2018-07-26 14:10:27,466 ExtractionGeocatalogueController: WARNING: could not insert record 148, jumping to next record
+2018-07-26 14:10:27,788 ExtractionGeocatalogueController: WARNING: could not insert record 149, jumping to next record
+2018-07-26 14:10:28,115 ExtractionGeocatalogueController: WARNING: could not insert record 150, jumping to next record
+2018-07-26 14:10:28,437 ExtractionGeocatalogueController: WARNING: could not insert record 151, jumping to next record
+2018-07-26 14:10:28,769 ExtractionGeocatalogueController: WARNING: could not insert record 152, jumping to next record
+2018-07-26 14:10:29,126 ExtractionGeocatalogueController: WARNING: could not insert record 153, jumping to next record
+2018-07-26 14:10:29,452 ExtractionGeocatalogueController: WARNING: could not insert record 154, jumping to next record
+2018-07-26 14:10:29,800 ExtractionGeocatalogueController: WARNING: could not insert record 155, jumping to next record
+2018-07-26 14:10:30,131 ExtractionGeocatalogueController: WARNING: could not insert record 156, jumping to next record
+2018-07-26 14:10:30,446 ExtractionGeocatalogueController: WARNING: could not insert record 157, jumping to next record
+2018-07-26 14:10:30,777 ExtractionGeocatalogueController: WARNING: could not insert record 158, jumping to next record
+2018-07-26 14:10:31,112 ExtractionGeocatalogueController: WARNING: could not insert record 159, jumping to next record
+2018-07-26 14:10:31,441 ExtractionGeocatalogueController: WARNING: could not insert record 160, jumping to next record
+2018-07-26 14:10:31,752 ExtractionGeocatalogueController: WARNING: could not insert record 161, jumping to next record
+2018-07-26 14:10:32,117 ExtractionGeocatalogueController: WARNING: could not insert record 162, jumping to next record
+2018-07-26 14:10:32,440 ExtractionGeocatalogueController: WARNING: could not insert record 163, jumping to next record
+2018-07-26 14:10:32,759 ExtractionGeocatalogueController: WARNING: could not insert record 164, jumping to next record
+2018-07-26 14:10:33,127 ExtractionGeocatalogueController: WARNING: could not insert record 165, jumping to next record
+2018-07-26 14:10:33,467 ExtractionGeocatalogueController: WARNING: could not insert record 166, jumping to next record
+2018-07-26 14:10:33,836 ExtractionGeocatalogueController: WARNING: could not insert record 167, jumping to next record
+2018-07-26 14:10:34,168 ExtractionGeocatalogueController: WARNING: could not insert record 168, jumping to next record
+2018-07-26 14:10:34,500 ExtractionGeocatalogueController: WARNING: could not insert record 169, jumping to next record
+2018-07-26 14:10:34,827 ExtractionGeocatalogueController: WARNING: could not insert record 170, jumping to next record
+2018-07-26 14:10:35,143 ExtractionGeocatalogueController: WARNING: could not insert record 171, jumping to next record
+2018-07-26 14:10:35,487 ExtractionGeocatalogueController: WARNING: could not insert record 172, jumping to next record
+2018-07-26 14:10:35,811 ExtractionGeocatalogueController: WARNING: could not insert record 173, jumping to next record
+2018-07-26 14:10:36,132 ExtractionGeocatalogueController: WARNING: could not insert record 174, jumping to next record
+2018-07-26 14:10:36,468 ExtractionGeocatalogueController: WARNING: could not insert record 175, jumping to next record
+2018-07-26 14:10:36,820 ExtractionGeocatalogueController: WARNING: could not insert record 176, jumping to next record
+2018-07-26 14:10:37,151 ExtractionGeocatalogueController: WARNING: could not insert record 177, jumping to next record
+2018-07-26 14:10:37,503 ExtractionGeocatalogueController: WARNING: could not insert record 178, jumping to next record
+2018-07-26 14:10:37,810 ExtractionGeocatalogueController: WARNING: could not insert record 179, jumping to next record
+2018-07-26 14:10:38,131 ExtractionGeocatalogueController: WARNING: could not insert record 180, jumping to next record
+2018-07-26 14:10:38,480 ExtractionGeocatalogueController: WARNING: could not insert record 181, jumping to next record
+2018-07-26 14:10:38,804 ExtractionGeocatalogueController: WARNING: could not insert record 182, jumping to next record
+2018-07-26 14:10:39,130 ExtractionGeocatalogueController: WARNING: could not insert record 183, jumping to next record
+2018-07-26 14:10:39,460 ExtractionGeocatalogueController: WARNING: could not insert record 184, jumping to next record
+2018-07-26 14:10:39,801 ExtractionGeocatalogueController: WARNING: could not insert record 185, jumping to next record
+2018-07-26 14:10:40,138 ExtractionGeocatalogueController: WARNING: could not insert record 186, jumping to next record
+2018-07-26 14:10:40,462 ExtractionGeocatalogueController: WARNING: could not insert record 187, jumping to next record
+2018-07-26 14:10:40,783 ExtractionGeocatalogueController: WARNING: could not insert record 188, jumping to next record
+2018-07-26 14:10:41,112 ExtractionGeocatalogueController: WARNING: could not insert record 189, jumping to next record
+2018-07-26 14:10:41,441 ExtractionGeocatalogueController: WARNING: could not insert record 190, jumping to next record
+2018-07-26 14:10:41,789 ExtractionGeocatalogueController: WARNING: could not insert record 191, jumping to next record
+2018-07-26 14:10:42,112 ExtractionGeocatalogueController: WARNING: could not insert record 192, jumping to next record
+2018-07-26 14:10:42,439 ExtractionGeocatalogueController: WARNING: could not insert record 193, jumping to next record
+2018-07-26 14:10:42,768 ExtractionGeocatalogueController: WARNING: could not insert record 194, jumping to next record
+2018-07-26 14:10:43,082 ExtractionGeocatalogueController: WARNING: could not insert record 195, jumping to next record
+2018-07-26 14:10:43,416 ExtractionGeocatalogueController: WARNING: could not insert record 196, jumping to next record
+2018-07-26 14:10:43,759 ExtractionGeocatalogueController: WARNING: could not insert record 197, jumping to next record
+2018-07-26 14:10:44,084 ExtractionGeocatalogueController: WARNING: could not insert record 198, jumping to next record
+2018-07-26 14:10:44,421 ExtractionGeocatalogueController: WARNING: could not insert record 199, jumping to next record
+2018-07-26 14:10:44,748 ExtractionGeocatalogueController: WARNING: could not insert record 200, jumping to next record
+2018-07-26 14:10:45,080 ExtractionGeocatalogueController: WARNING: could not insert record 201, jumping to next record
+2018-07-26 14:10:45,390 ExtractionGeocatalogueController: WARNING: could not insert record 202, jumping to next record
+2018-07-26 14:10:45,726 ExtractionGeocatalogueController: WARNING: could not insert record 203, jumping to next record
+2018-07-26 14:10:46,068 ExtractionGeocatalogueController: WARNING: could not insert record 204, jumping to next record
+2018-07-26 14:10:46,399 ExtractionGeocatalogueController: WARNING: could not insert record 205, jumping to next record
+2018-07-26 14:10:46,713 ExtractionGeocatalogueController: WARNING: could not insert record 206, jumping to next record
+2018-07-26 14:10:47,039 ExtractionGeocatalogueController: WARNING: could not insert record 207, jumping to next record
+2018-07-26 14:10:47,380 ExtractionGeocatalogueController: WARNING: could not insert record 208, jumping to next record
+2018-07-26 14:10:47,711 ExtractionGeocatalogueController: WARNING: could not insert record 209, jumping to next record
+2018-07-26 14:10:48,039 ExtractionGeocatalogueController: WARNING: could not insert record 210, jumping to next record
+2018-07-26 14:10:48,376 ExtractionGeocatalogueController: WARNING: could not insert record 211, jumping to next record
+2018-07-26 14:11:50,758 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:11:51,045 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:11:51,327 ok: INFO: ok
+2018-07-26 14:11:51,673 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 14:11:52,091 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 14:11:52,424 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-26 14:11:52,800 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-07-26 14:11:53,170 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-07-26 14:11:53,496 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-07-26 14:11:53,886 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
+2018-07-26 14:11:54,290 ExtractionGeocatalogueController: WARNING: could not insert record 7, jumping to next record
+2018-07-26 14:11:54,615 ExtractionGeocatalogueController: WARNING: could not insert record 8, jumping to next record
+2018-07-26 14:11:54,957 ExtractionGeocatalogueController: WARNING: could not insert record 9, jumping to next record
+2018-07-26 14:11:55,289 ExtractionGeocatalogueController: WARNING: could not insert record 10, jumping to next record
+2018-07-26 14:11:55,597 ExtractionGeocatalogueController: WARNING: could not insert record 11, jumping to next record
+2018-07-26 14:11:55,909 ExtractionGeocatalogueController: WARNING: could not insert record 12, jumping to next record
+2018-07-26 14:11:56,283 ExtractionGeocatalogueController: WARNING: could not insert record 13, jumping to next record
+2018-07-26 14:11:56,623 ExtractionGeocatalogueController: WARNING: could not insert record 14, jumping to next record
+2018-07-26 14:11:56,969 ExtractionGeocatalogueController: WARNING: could not insert record 15, jumping to next record
+2018-07-26 14:11:57,370 ExtractionGeocatalogueController: WARNING: could not insert record 16, jumping to next record
+2018-07-26 14:11:57,727 ExtractionGeocatalogueController: WARNING: could not insert record 17, jumping to next record
+2018-07-26 14:11:58,039 ExtractionGeocatalogueController: WARNING: could not insert record 18, jumping to next record
+2018-07-26 14:11:58,374 ExtractionGeocatalogueController: WARNING: could not insert record 19, jumping to next record
+2018-07-26 14:11:58,763 ExtractionGeocatalogueController: WARNING: could not insert record 20, jumping to next record
+2018-07-26 14:11:59,085 ExtractionGeocatalogueController: WARNING: could not insert record 21, jumping to next record
+2018-07-26 14:11:59,383 ExtractionGeocatalogueController: WARNING: could not insert record 22, jumping to next record
+2018-07-26 14:11:59,740 ExtractionGeocatalogueController: WARNING: could not insert record 23, jumping to next record
+2018-07-26 14:12:00,057 ExtractionGeocatalogueController: WARNING: could not insert record 24, jumping to next record
+2018-07-26 14:12:00,382 ExtractionGeocatalogueController: WARNING: could not insert record 25, jumping to next record
+2018-07-26 14:12:00,715 ExtractionGeocatalogueController: WARNING: could not insert record 26, jumping to next record
+2018-07-26 14:12:01,083 ExtractionGeocatalogueController: WARNING: could not insert record 27, jumping to next record
+2018-07-26 14:12:01,441 ExtractionGeocatalogueController: WARNING: could not insert record 28, jumping to next record
+2018-07-26 14:12:01,745 ExtractionGeocatalogueController: WARNING: could not insert record 29, jumping to next record
+2018-07-26 14:12:02,052 ExtractionGeocatalogueController: WARNING: could not insert record 30, jumping to next record
+2018-07-26 14:12:02,377 ExtractionGeocatalogueController: WARNING: could not insert record 31, jumping to next record
+2018-07-26 14:12:02,688 ExtractionGeocatalogueController: WARNING: could not insert record 32, jumping to next record
+2018-07-26 14:12:03,004 ExtractionGeocatalogueController: WARNING: could not insert record 33, jumping to next record
+2018-07-26 14:12:03,319 ExtractionGeocatalogueController: WARNING: could not insert record 34, jumping to next record
+2018-07-26 14:12:03,622 ExtractionGeocatalogueController: WARNING: could not insert record 35, jumping to next record
+2018-07-26 14:12:03,915 ExtractionGeocatalogueController: WARNING: could not insert record 36, jumping to next record
+2018-07-26 14:12:04,234 ExtractionGeocatalogueController: WARNING: could not insert record 37, jumping to next record
+2018-07-26 14:12:04,560 ExtractionGeocatalogueController: WARNING: could not insert record 38, jumping to next record
+2018-07-26 14:12:04,867 ExtractionGeocatalogueController: WARNING: could not insert record 39, jumping to next record
+2018-07-26 14:12:05,183 ExtractionGeocatalogueController: WARNING: could not insert record 40, jumping to next record
+2018-07-26 14:12:05,511 ExtractionGeocatalogueController: WARNING: could not insert record 41, jumping to next record
+2018-07-26 14:12:05,826 ExtractionGeocatalogueController: WARNING: could not insert record 42, jumping to next record
+2018-07-26 14:12:06,122 ExtractionGeocatalogueController: WARNING: could not insert record 43, jumping to next record
+2018-07-26 14:12:06,450 ExtractionGeocatalogueController: WARNING: could not insert record 44, jumping to next record
+2018-07-26 14:12:06,763 ExtractionGeocatalogueController: WARNING: could not insert record 45, jumping to next record
+2018-07-26 14:12:07,083 ExtractionGeocatalogueController: WARNING: could not insert record 46, jumping to next record
+2018-07-26 14:12:07,447 ExtractionGeocatalogueController: WARNING: could not insert record 47, jumping to next record
+2018-07-26 14:12:07,769 ExtractionGeocatalogueController: WARNING: could not insert record 48, jumping to next record
+2018-07-26 14:12:08,087 ExtractionGeocatalogueController: WARNING: could not insert record 49, jumping to next record
+2018-07-26 14:12:08,379 ExtractionGeocatalogueController: WARNING: could not insert record 50, jumping to next record
+2018-07-26 14:12:08,707 ExtractionGeocatalogueController: WARNING: could not insert record 51, jumping to next record
+2018-07-26 14:12:09,022 ExtractionGeocatalogueController: WARNING: could not insert record 52, jumping to next record
+2018-07-26 14:12:09,340 ExtractionGeocatalogueController: WARNING: could not insert record 53, jumping to next record
+2018-07-26 14:12:09,676 ExtractionGeocatalogueController: WARNING: could not insert record 54, jumping to next record
+2018-07-26 14:12:09,995 ExtractionGeocatalogueController: WARNING: could not insert record 55, jumping to next record
+2018-07-26 14:12:10,354 ExtractionGeocatalogueController: WARNING: could not insert record 56, jumping to next record
+2018-07-26 14:12:10,668 ExtractionGeocatalogueController: WARNING: could not insert record 57, jumping to next record
+2018-07-26 14:12:10,991 ExtractionGeocatalogueController: WARNING: could not insert record 58, jumping to next record
+2018-07-26 14:12:11,313 ExtractionGeocatalogueController: WARNING: could not insert record 59, jumping to next record
+2018-07-26 14:12:11,642 ExtractionGeocatalogueController: WARNING: could not insert record 60, jumping to next record
+2018-07-26 14:12:11,968 ExtractionGeocatalogueController: WARNING: could not insert record 61, jumping to next record
+2018-07-26 14:12:12,279 ExtractionGeocatalogueController: WARNING: could not insert record 62, jumping to next record
+2018-07-26 14:12:12,602 ExtractionGeocatalogueController: WARNING: could not insert record 63, jumping to next record
+2018-07-26 14:12:12,918 ExtractionGeocatalogueController: WARNING: could not insert record 64, jumping to next record
+2018-07-26 14:12:13,226 ExtractionGeocatalogueController: WARNING: could not insert record 65, jumping to next record
+2018-07-26 14:12:13,569 ExtractionGeocatalogueController: WARNING: could not insert record 66, jumping to next record
+2018-07-26 14:12:13,894 ExtractionGeocatalogueController: WARNING: could not insert record 67, jumping to next record
+2018-07-26 14:12:14,224 ExtractionGeocatalogueController: WARNING: could not insert record 68, jumping to next record
+2018-07-26 14:12:14,550 ExtractionGeocatalogueController: WARNING: could not insert record 69, jumping to next record
+2018-07-26 14:12:14,880 ExtractionGeocatalogueController: WARNING: could not insert record 70, jumping to next record
+2018-07-26 14:12:15,194 ExtractionGeocatalogueController: WARNING: could not insert record 71, jumping to next record
+2018-07-26 14:12:15,520 ExtractionGeocatalogueController: WARNING: could not insert record 72, jumping to next record
+2018-07-26 14:12:15,841 ExtractionGeocatalogueController: WARNING: could not insert record 73, jumping to next record
+2018-07-26 14:12:16,161 ExtractionGeocatalogueController: WARNING: could not insert record 74, jumping to next record
+2018-07-26 14:12:16,485 ExtractionGeocatalogueController: WARNING: could not insert record 75, jumping to next record
+2018-07-26 14:12:16,812 ExtractionGeocatalogueController: WARNING: could not insert record 76, jumping to next record
+2018-07-26 14:12:17,136 ExtractionGeocatalogueController: WARNING: could not insert record 77, jumping to next record
+2018-07-26 14:12:17,447 ExtractionGeocatalogueController: WARNING: could not insert record 78, jumping to next record
+2018-07-26 14:12:17,754 ExtractionGeocatalogueController: WARNING: could not insert record 79, jumping to next record
+2018-07-26 14:12:18,072 ExtractionGeocatalogueController: WARNING: could not insert record 80, jumping to next record
+2018-07-26 14:12:18,416 ExtractionGeocatalogueController: WARNING: could not insert record 81, jumping to next record
+2018-07-26 14:12:18,745 ExtractionGeocatalogueController: WARNING: could not insert record 82, jumping to next record
+2018-07-26 14:12:19,077 ExtractionGeocatalogueController: WARNING: could not insert record 83, jumping to next record
+2018-07-26 14:12:19,395 ExtractionGeocatalogueController: WARNING: could not insert record 84, jumping to next record
+2018-07-26 14:12:19,712 ExtractionGeocatalogueController: WARNING: could not insert record 85, jumping to next record
+2018-07-26 14:12:20,050 ExtractionGeocatalogueController: WARNING: could not insert record 86, jumping to next record
+2018-07-26 14:12:20,349 ExtractionGeocatalogueController: WARNING: could not insert record 87, jumping to next record
+2018-07-26 14:12:20,692 ExtractionGeocatalogueController: WARNING: could not insert record 88, jumping to next record
+2018-07-26 14:12:21,026 ExtractionGeocatalogueController: WARNING: could not insert record 89, jumping to next record
+2018-07-26 14:12:21,348 ExtractionGeocatalogueController: WARNING: could not insert record 90, jumping to next record
+2018-07-26 14:12:21,660 ExtractionGeocatalogueController: WARNING: could not insert record 91, jumping to next record
+2018-07-26 14:12:21,987 ExtractionGeocatalogueController: WARNING: could not insert record 92, jumping to next record
+2018-07-26 14:12:22,321 ExtractionGeocatalogueController: WARNING: could not insert record 93, jumping to next record
+2018-07-26 14:12:22,698 ExtractionGeocatalogueController: WARNING: could not insert record 94, jumping to next record
+2018-07-26 14:12:23,026 ExtractionGeocatalogueController: WARNING: could not insert record 95, jumping to next record
+2018-07-26 14:12:23,343 ExtractionGeocatalogueController: WARNING: could not insert record 96, jumping to next record
+2018-07-26 14:12:23,659 ExtractionGeocatalogueController: WARNING: could not insert record 97, jumping to next record
+2018-07-26 14:12:23,987 ExtractionGeocatalogueController: WARNING: could not insert record 98, jumping to next record
+2018-07-26 14:12:24,316 ExtractionGeocatalogueController: WARNING: could not insert record 99, jumping to next record
+2018-07-26 14:12:24,648 ExtractionGeocatalogueController: WARNING: could not insert record 100, jumping to next record
+2018-07-26 14:12:24,954 ExtractionGeocatalogueController: WARNING: could not insert record 101, jumping to next record
+2018-07-26 14:12:25,268 ExtractionGeocatalogueController: WARNING: could not insert record 102, jumping to next record
+2018-07-26 14:12:25,590 ExtractionGeocatalogueController: WARNING: could not insert record 103, jumping to next record
+2018-07-26 14:12:25,924 ExtractionGeocatalogueController: WARNING: could not insert record 104, jumping to next record
+2018-07-26 14:12:26,238 ExtractionGeocatalogueController: WARNING: could not insert record 105, jumping to next record
+2018-07-26 14:12:26,558 ExtractionGeocatalogueController: WARNING: could not insert record 106, jumping to next record
+2018-07-26 14:12:26,874 ExtractionGeocatalogueController: WARNING: could not insert record 107, jumping to next record
+2018-07-26 14:12:27,188 ExtractionGeocatalogueController: WARNING: could not insert record 108, jumping to next record
+2018-07-26 14:12:27,511 ExtractionGeocatalogueController: WARNING: could not insert record 109, jumping to next record
+2018-07-26 14:12:27,825 ExtractionGeocatalogueController: WARNING: could not insert record 110, jumping to next record
+2018-07-26 14:12:28,147 ExtractionGeocatalogueController: WARNING: could not insert record 111, jumping to next record
+2018-07-26 14:12:28,445 ExtractionGeocatalogueController: WARNING: could not insert record 112, jumping to next record
+2018-07-26 14:12:28,783 ExtractionGeocatalogueController: WARNING: could not insert record 113, jumping to next record
+2018-07-26 14:12:29,095 ExtractionGeocatalogueController: WARNING: could not insert record 114, jumping to next record
+2018-07-26 14:12:29,406 ExtractionGeocatalogueController: WARNING: could not insert record 115, jumping to next record
+2018-07-26 14:12:29,714 ExtractionGeocatalogueController: WARNING: could not insert record 116, jumping to next record
+2018-07-26 14:12:30,035 ExtractionGeocatalogueController: WARNING: could not insert record 117, jumping to next record
+2018-07-26 14:12:30,357 ExtractionGeocatalogueController: WARNING: could not insert record 118, jumping to next record
+2018-07-26 14:12:30,678 ExtractionGeocatalogueController: WARNING: could not insert record 119, jumping to next record
+2018-07-26 14:12:31,005 ExtractionGeocatalogueController: WARNING: could not insert record 120, jumping to next record
+2018-07-26 14:12:31,300 ExtractionGeocatalogueController: WARNING: could not insert record 121, jumping to next record
+2018-07-26 14:12:31,641 ExtractionGeocatalogueController: WARNING: could not insert record 122, jumping to next record
+2018-07-26 14:12:31,945 ExtractionGeocatalogueController: WARNING: could not insert record 123, jumping to next record
+2018-07-26 14:12:32,258 ExtractionGeocatalogueController: WARNING: could not insert record 124, jumping to next record
+2018-07-26 14:13:03,322 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:13:03,561 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:13:03,829 ExtractionGeocatalogueController: ERROR: 'Raised exception while getting metadata :java.lang.NullPointerException'
+2018-07-26 14:13:03,829 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 14:13:21,554 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:13:21,786 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:13:22,081 ok: INFO: ok
+2018-07-26 14:13:22,453 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 14:13:22,826 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 14:13:23,152 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-26 14:13:23,498 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-07-26 14:13:23,866 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-07-26 14:13:24,179 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-07-26 14:13:48,703 ExtractionGeocatalogueController: INFO: connect to :https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 14:13:48,941 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 14:13:49,189 ok: INFO: ok
+2018-07-26 14:13:49,516 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-26 14:13:49,886 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-26 14:13:50,229 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-26 14:13:50,561 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-07-26 14:13:50,865 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-07-26 14:13:51,197 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-07-26 14:13:51,557 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
+2018-07-26 14:13:51,925 ExtractionGeocatalogueController: WARNING: could not insert record 7, jumping to next record

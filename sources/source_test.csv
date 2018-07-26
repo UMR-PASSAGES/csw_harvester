@@ -1,6 +1,6 @@
 #4,SHOM,0,0,30,http://services.data.shom.fr/geonetwork/,http://services.data.shom.fr/csw/ISOAP?service=CSW&version=2.0.2
 #8,GEOSUD,0,0,30,http://geosud.ign.fr/,http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2
 #11,SEXTANT,0,0,30,http://sextant.ifremer.fr/,http://sextant.ifremer.fr/geonetwork/srv/eng/csw?service=CSW&version=2.0.2
-#50,Picto-Occitanie,0,0,30,https://www.picto-occitanie.fr/,https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+50,Picto-Occitanie,0,0,30,https://www.picto-occitanie.fr/,https://www.picto-occitanie.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
 #7,Geoportail,0,0,30,http://www.geocatalogue.fr/,http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
-390,georep,0,0,30,http://www.geoportal.gouv.nc/,http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+#12,SIE_Eaufrance,0,0,30,http://www.data.eaufrance.fr/,http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2

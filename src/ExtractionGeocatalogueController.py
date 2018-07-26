@@ -39,7 +39,8 @@ class ExtractionGeocatalogue(object):
         """
         options = GlobalData.get_instance().get_options()
         outputschema = options.outputschema
-        self.queries = {'maxrecords': 1, 'esn': 'full', 'outputschema': outputschema, 'startposition': 0}
+        esn = options.esn
+        self.queries = {'maxrecords': 1, 'esn': esn, 'outputschema': outputschema, 'startposition': 0}
         self.source = source
         self.csw = None
         self._connect_service_web(source.url_csw)

@@ -88,6 +88,7 @@ class GlobalData(object):
 
         """
         outputschema = 'http://www.isotc211.org/2005/gmd'
+        esn = 'summary'
         sources_files = "../sources/source_test.csv"
         log_file = '../csw-harvester.log'
         date = datetime.datetime.today().strftime('%Y-%m-%d')
@@ -96,6 +97,8 @@ class GlobalData(object):
 
         self.parser.add_option("-f", "--outputschema", dest="outputschema", action="store", default=outputschema,
                                help="the outputschema for CSW ; default = http://www.isotc211.org/2005/gmd")
+        self.parser.add_option("-e", "--esn", dest="esn", action="store", default=esn,
+                               help="ElementSetName : brief, summary or full ; default = summary")
         self.parser.add_option("-s", "--sources", dest="sources",
                                action="store", default=sources_files,
                                help="the CSV sources files ; default = ./sources/source_test.csv")

@@ -13263,3 +13263,1309 @@ LINE 1: ... (8238, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
 2018-07-24 15:43:43,452 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 241 ;maxrecord 16 ; nextrecord 256 ; returned 15
 2018-07-24 15:43:43,452 VerificationMetadata: WARNING: 15 incorrect record(s)  
 2018-07-24 15:43:43,454 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:30,485 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-24 16:22:32,211 ExtractionGeocatalogueController: INFO: connected
+2018-07-24 16:22:33,294 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:33,295 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:33,295 ok: INFO: ok
+2018-07-24 16:22:35,090 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,090 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,091 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,091 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,092 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,092 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,093 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,093 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,094 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,094 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,094 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,095 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,095 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,095 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,096 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,096 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,097 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,097 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,098 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,098 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,098 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,099 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,099 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,099 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,100 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,100 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,101 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,101 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,102 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,102 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,102 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,102 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,103 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,103 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,103 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,104 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,104 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,104 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,104 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,105 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,105 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,105 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,105 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,106 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,106 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,106 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,106 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,107 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,107 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,107 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,108 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,108 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,108 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,108 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,109 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,109 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,109 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,109 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,110 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,110 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:35,110 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-24 16:22:35,110 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:35,121 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:36,853 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,854 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,856 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,857 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,858 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,859 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,860 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,861 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,862 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,863 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,864 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,865 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,866 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,867 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,868 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,869 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,870 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,871 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,872 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,872 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,873 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,873 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,874 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,874 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,875 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,875 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,876 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,876 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,877 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,877 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,878 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,878 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,879 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,879 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,880 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,880 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,881 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,881 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,882 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,882 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,883 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,883 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,884 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,884 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,885 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,885 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,886 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,886 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,886 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,887 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,887 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,887 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,888 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,888 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,889 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,890 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,890 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,890 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:36,891 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-24 16:22:36,891 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:36,895 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:38,637 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,637 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,638 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,638 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,638 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,638 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,639 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,639 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,639 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,639 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,639 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,640 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,640 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,640 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,640 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,640 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,641 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,641 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,641 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,641 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,642 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,642 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,642 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,642 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,643 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,643 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,643 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,643 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,644 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,644 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,644 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,644 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,644 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,645 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,645 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,645 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,646 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,646 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,646 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,646 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,647 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,647 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,647 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,647 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,648 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,648 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,648 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,648 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,649 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,649 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,649 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,649 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,650 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,650 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,650 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,650 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,651 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,651 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,651 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,651 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:38,651 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-24 16:22:38,651 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:38,654 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:40,063 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,063 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,064 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,064 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,065 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,065 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,065 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,065 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,066 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,066 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,066 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,066 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,066 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,067 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,067 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,067 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,067 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,068 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,068 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,068 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,069 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,069 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,069 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,069 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,069 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,070 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,070 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,070 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,070 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,071 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,071 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,071 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,071 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,072 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,072 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,072 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,072 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,072 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,073 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,073 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,073 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,073 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,073 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,074 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,074 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,074 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,076 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,076 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,076 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,076 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,076 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,077 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,077 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,077 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,077 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:40,078 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-24 16:22:40,078 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:40,080 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:41,814 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,814 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,814 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,815 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,815 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,815 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,816 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,816 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,817 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,817 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,817 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,818 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,818 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,818 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,819 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,819 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,819 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,820 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,820 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,820 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,821 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,821 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,821 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,822 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,822 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,822 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,823 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,823 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,823 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,824 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,824 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,824 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,825 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,825 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,825 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,826 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,826 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,826 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,826 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,827 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,827 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,827 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,828 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,828 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,828 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,828 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,828 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,829 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,829 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,829 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,829 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,830 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,830 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,830 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,832 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:41,832 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-24 16:22:41,832 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:41,835 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:43,579 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,580 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,582 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,583 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,585 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,586 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,588 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,589 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,590 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,591 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,593 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,594 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,595 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,596 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,597 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,598 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,599 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,600 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,601 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,601 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,603 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,603 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,604 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,605 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,606 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,606 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,607 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,608 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,608 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,609 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,610 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,610 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,611 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,611 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,611 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,612 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,612 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,613 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,613 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,613 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,614 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,614 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,615 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,615 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,616 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,616 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,617 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,617 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,618 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,618 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,618 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,619 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,620 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,620 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,620 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,621 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,621 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,622 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,622 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,623 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:43,623 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-24 16:22:43,623 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:43,628 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:45,005 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,005 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,006 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,006 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,007 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,007 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,008 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,008 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,009 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,009 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,010 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,010 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,010 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,011 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,011 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,011 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,012 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,012 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,013 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,013 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,014 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,014 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,014 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,015 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,015 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,015 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,015 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,015 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,016 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,016 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,016 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,016 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,017 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,017 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,017 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,017 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,018 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,018 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,018 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,018 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,019 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,019 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,019 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,019 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,020 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,020 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,020 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,020 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,021 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,021 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,021 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,021 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,022 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,022 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,022 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,022 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,023 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,023 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,023 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,023 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:45,023 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-07-24 16:22:45,023 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:45,026 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:46,420 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,420 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,420 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,426 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,426 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,426 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,426 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,426 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,427 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,427 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,427 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,427 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,428 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,428 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,428 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,428 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,428 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,428 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,429 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,429 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,429 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,429 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,430 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,430 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,430 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,430 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,430 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,431 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,431 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,431 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,431 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,431 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,432 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,432 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,432 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,433 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,433 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,433 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:46,433 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-07-24 16:22:46,433 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:22:46,436 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:22:47,469 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,470 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,470 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,470 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,471 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,471 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,471 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,471 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,472 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,472 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,472 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,472 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,473 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,473 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,473 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,473 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,474 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,474 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,474 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,474 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,475 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,475 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,475 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,475 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,475 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,476 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,476 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,476 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,476 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,477 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:22:47,477 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 241 ;maxrecord 16 ; nextrecord 256 ; returned 15
+2018-07-24 16:22:47,477 VerificationMetadata: WARNING: 15 incorrect record(s)  
+2018-07-24 16:22:47,480 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:23:03,919 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-24 16:23:04,615 ExtractionGeocatalogueController: INFO: connected
+2018-07-24 16:23:05,346 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:05,346 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:05,347 ok: INFO: ok
+2018-07-24 16:23:07,068 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,069 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,069 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,070 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,070 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,071 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,071 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,071 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,072 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,072 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,073 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,073 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,074 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,074 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,074 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,075 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,076 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,076 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,077 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,077 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,078 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,078 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,078 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,078 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,079 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,079 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,079 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,079 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,080 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,080 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,080 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,080 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,081 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,081 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,081 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,081 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,082 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,082 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,082 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,082 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,083 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,083 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,083 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,083 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,084 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,084 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,084 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,084 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,085 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,085 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,085 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,085 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,085 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,086 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,086 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,086 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,086 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,087 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:07,087 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-24 16:23:07,087 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:23:07,097 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:23:08,828 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,829 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,829 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,829 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,830 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,830 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,830 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,830 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,831 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,832 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,832 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,832 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,832 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,832 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,833 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,833 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,833 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,833 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,834 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,834 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,834 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,834 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,835 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,835 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,835 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,835 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,835 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,836 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,836 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,836 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,836 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,837 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,837 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,837 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,837 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,837 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,838 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,838 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,838 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,838 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,839 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,839 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,840 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,840 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,840 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,840 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,841 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,841 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,841 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,841 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,842 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,842 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,842 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,842 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:08,843 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-24 16:23:08,843 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:23:08,846 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:23:10,542 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,543 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,544 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,545 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,546 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,547 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,548 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,549 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,550 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,551 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,552 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,553 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,554 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,554 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,555 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,555 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,556 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,556 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,557 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,557 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,558 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,558 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,559 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,559 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,560 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,560 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,561 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,561 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,562 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,563 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,563 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,564 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,564 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,565 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,565 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,566 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,566 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,567 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,567 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,568 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,568 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,569 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,569 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,570 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,570 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,570 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,571 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,571 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,571 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,571 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,572 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,572 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,573 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,573 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,573 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,573 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,574 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,574 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,574 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,574 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:10,575 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-24 16:23:10,575 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:23:10,579 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:23:12,299 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,300 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,300 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,300 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,300 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,300 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,301 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,301 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,301 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,301 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,302 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,302 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,302 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,302 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,303 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,303 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,303 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,303 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,304 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,304 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,304 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,304 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,305 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,305 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,305 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,305 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,305 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,306 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,306 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,306 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,306 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,306 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,307 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,307 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,307 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,307 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,308 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,308 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,308 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,308 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,308 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,309 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,309 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,309 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,309 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,309 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,310 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,310 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,310 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,310 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,311 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,311 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,311 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,311 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,311 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,312 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,312 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,312 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,313 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,313 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:12,313 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-24 16:23:12,313 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:23:12,316 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:23:52,283 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-24 16:23:53,001 ExtractionGeocatalogueController: INFO: connected
+2018-07-24 16:23:53,709 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:53,709 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:53,710 ok: INFO: ok
+2018-07-24 16:23:55,411 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,411 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,412 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,412 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,412 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,412 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,413 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,413 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,413 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,413 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,414 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,414 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,414 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,414 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,414 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,415 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,415 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,415 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,415 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,415 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,416 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,416 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,416 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,416 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,417 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,417 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,417 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,417 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,418 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,418 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,418 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,418 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,419 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,419 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,419 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,419 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,420 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,420 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,420 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,420 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,421 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,422 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,423 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,424 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,425 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:55,426 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-24 16:23:55,426 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:23:55,437 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:23:57,160 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,160 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,161 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,161 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,161 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,161 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,162 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,162 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,162 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,163 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,163 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,163 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,164 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,164 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,165 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,165 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,165 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,165 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,166 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,166 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,167 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,167 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,167 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,168 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,168 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,168 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,169 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,169 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,170 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,170 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,171 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,171 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,171 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,172 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,172 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,172 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,173 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,173 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,173 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,174 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,174 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,175 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,175 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,175 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,176 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,176 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,176 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,177 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,177 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,177 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,178 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,178 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,178 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,179 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,179 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,179 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,180 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,180 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:57,180 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-24 16:23:57,180 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:23:57,183 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:23:58,959 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,959 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,959 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,959 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,960 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,960 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,960 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,960 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,961 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,961 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,961 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,961 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,962 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,962 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,962 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,963 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,963 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,964 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,964 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,964 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,965 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,965 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,966 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,966 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,967 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,967 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,968 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,968 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,969 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,969 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,970 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,970 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,971 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,971 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,971 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,971 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,972 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,972 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,973 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,973 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,973 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,974 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,974 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,974 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,975 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,975 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,975 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,976 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,976 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,976 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,977 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,977 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,977 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,978 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,978 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,978 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,979 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,979 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,979 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,979 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:23:58,980 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-24 16:23:58,980 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:23:58,983 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:24:00,696 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,696 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,696 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,696 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,697 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,697 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,697 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,697 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,698 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,698 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,698 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,698 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,699 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,699 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,699 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,699 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,700 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,700 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,700 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,700 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,701 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,701 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,701 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,701 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,701 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,702 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,702 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,702 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,702 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,703 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,703 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,703 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,703 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,704 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,704 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,704 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,704 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,705 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,705 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,705 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,705 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,705 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,706 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,706 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,706 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,706 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,707 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,707 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,707 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,707 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,708 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,708 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,708 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,708 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,709 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,709 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,709 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,710 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,710 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,710 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:00,710 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-24 16:24:00,710 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:24:00,713 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:24:02,437 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,437 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,438 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,438 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,438 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,438 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,439 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,439 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,439 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,439 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,440 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,440 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,440 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,440 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,441 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,441 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,441 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,441 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,441 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,442 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,442 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,442 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,442 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,443 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,443 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,443 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,443 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,443 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,444 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,444 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,444 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,444 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,445 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,445 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,445 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,445 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,446 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,446 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,446 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,446 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,447 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,447 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,447 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,447 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,448 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,448 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,448 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,448 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,449 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,449 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,449 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,449 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,450 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,450 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,450 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,451 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,451 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,451 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,451 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,451 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:02,452 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-24 16:24:02,452 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-24 16:24:02,455 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-24 16:24:23,030 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-24 16:24:23,747 ExtractionGeocatalogueController: INFO: connected
+2018-07-24 16:24:24,480 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:24,480 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:24,481 ok: INFO: ok
+2018-07-24 16:24:26,213 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,213 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,213 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,213 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,214 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,214 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,214 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,214 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,215 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,215 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,215 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,215 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,215 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,216 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,216 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,216 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,216 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,217 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,217 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,217 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,217 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,218 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,218 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,218 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,218 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,219 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,219 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,219 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,219 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,220 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,220 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,220 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,220 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,220 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,221 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,221 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,221 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,221 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,222 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,222 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,222 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,222 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,223 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,223 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,223 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,223 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,224 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,224 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,224 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,224 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,225 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,225 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,225 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,225 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,226 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,226 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,226 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,226 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,227 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,227 owslib.ows: WARNING: Invalid CRS %r. Expected integer
+2018-07-24 16:24:26,227 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-24 16:24:54,246 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-24 16:24:54,965 ExtractionGeocatalogueController: INFO: connected
+2018-07-24 16:24:56,027 ok: INFO: ok
+2018-07-24 16:24:58,930 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-24 16:24:58,964 Insertion: ERROR: 30 next values from 39  not inserted into database : (psycopg2.DataError) invalid input syntax for type date: "2018-04"
+LINE 1: ... (7092, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
+                                                             ^
+ [SQL: 'INSERT INTO metadata (id_metadata, identifier, datestamp, xml_text, stdname, xml) VALUES (%(id_metadata)s, %(identifier)s, %(datestamp)s, %(xml_text)s, %(stdname)s, %(xml)s)'] [parameters: ({'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7086, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'identifier': '{4EC6223C-02E8-49D9-8979-2EE830D21FBB}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7087, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'identifier': '{11353CE1-C376-4CC6-8984-C115FC1964CB}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7088, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'identifier': '{69489D1E-5CB7-4AC2-8D18-167B9D07C5B6}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7089, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'identifier': '{926F58DE-98D0-44E0-BFBC-B88FDC7ED313}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7090, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-01-17', 'identifier': '{F0A00EB5-60AA-4381-8219-61DE4AD42617}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7091, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-25', 'identifier': '{2D9D3B00-4F9C-4841-A272-C6EA4759CCA1}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7092, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'identifier': '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7093, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'identifier': '{954C660C-2696-4BFF-BBFC-146B84B85819}'}  ... displaying 10 of 30 total bound parameter sets ...  {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7114, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'identifier': '{21DF245F-B88B-4DCE-BB80-FD831BD95AAA}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7115, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'identifier': '{4D48293C-1302-490F-83EB-CB303906DFB8}'})] (Background on this error at: http://sqlalche.me/e/9h9h)
+2018-07-24 16:25:01,999 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-24 16:25:02,000 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-24 16:54:26,205 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-24 16:54:28,640 ExtractionGeocatalogueController: INFO: connected
+2018-07-24 16:54:30,075 ok: INFO: ok
+2018-07-24 16:54:32,992 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-24 16:54:33,026 Insertion: ERROR: 30 next values from 39  not inserted into database : (psycopg2.DataError) invalid input syntax for type date: "2018-04"
+LINE 1: ... (7092, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
+                                                             ^
+ [SQL: 'INSERT INTO metadata (id_metadata, identifier, datestamp, xml_text, stdname, xml) VALUES (%(id_metadata)s, %(identifier)s, %(datestamp)s, %(xml_text)s, %(stdname)s, %(xml)s)'] [parameters: ({'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{4EC6223C-02E8-49D9-8979-2EE830D21FBB}', 'id_metadata': 7086, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{11353CE1-C376-4CC6-8984-C115FC1964CB}', 'id_metadata': 7087, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{69489D1E-5CB7-4AC2-8D18-167B9D07C5B6}', 'id_metadata': 7088, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{926F58DE-98D0-44E0-BFBC-B88FDC7ED313}', 'id_metadata': 7089, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{F0A00EB5-60AA-4381-8219-61DE4AD42617}', 'id_metadata': 7090, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-01-17', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{2D9D3B00-4F9C-4841-A272-C6EA4759CCA1}', 'id_metadata': 7091, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-25', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', 'id_metadata': 7092, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{954C660C-2696-4BFF-BBFC-146B84B85819}', 'id_metadata': 7093, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}  ... displaying 10 of 30 total bound parameter sets ...  {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{21DF245F-B88B-4DCE-BB80-FD831BD95AAA}', 'id_metadata': 7114, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{4D48293C-1302-490F-83EB-CB303906DFB8}', 'id_metadata': 7115, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'})] (Background on this error at: http://sqlalche.me/e/9h9h)
+2018-07-24 16:54:35,907 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-24 16:54:35,908 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-24 16:55:31,661 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-24 16:55:32,379 ExtractionGeocatalogueController: INFO: connected
+2018-07-24 16:55:33,429 ok: INFO: ok
+2018-07-24 16:55:36,369 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-24 16:55:36,404 Insertion: ERROR: 30 next values from 39  not inserted into database : (psycopg2.DataError) invalid input syntax for type date: "2018-04"
+LINE 1: ... (7092, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
+                                                             ^
+ [SQL: 'INSERT INTO metadata (id_metadata, identifier, datestamp, xml_text, stdname, xml) VALUES (%(id_metadata)s, %(identifier)s, %(datestamp)s, %(xml_text)s, %(stdname)s, %(xml)s)'] [parameters: ({'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{4EC6223C-02E8-49D9-8979-2EE830D21FBB}', 'id_metadata': 7086, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{11353CE1-C376-4CC6-8984-C115FC1964CB}', 'id_metadata': 7087, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{69489D1E-5CB7-4AC2-8D18-167B9D07C5B6}', 'id_metadata': 7088, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{926F58DE-98D0-44E0-BFBC-B88FDC7ED313}', 'id_metadata': 7089, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{F0A00EB5-60AA-4381-8219-61DE4AD42617}', 'id_metadata': 7090, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-01-17', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{2D9D3B00-4F9C-4841-A272-C6EA4759CCA1}', 'id_metadata': 7091, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-25', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', 'id_metadata': 7092, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{954C660C-2696-4BFF-BBFC-146B84B85819}', 'id_metadata': 7093, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}  ... displaying 10 of 30 total bound parameter sets ...  {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{21DF245F-B88B-4DCE-BB80-FD831BD95AAA}', 'id_metadata': 7114, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'identifier': '{4D48293C-1302-490F-83EB-CB303906DFB8}', 'id_metadata': 7115, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n'})] (Background on this error at: http://sqlalche.me/e/9h9h)
+2018-07-24 16:55:39,346 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-24 16:55:39,347 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 09:16:49,239 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-26 09:16:50,665 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:16:52,205 ok: INFO: ok
+2018-07-26 09:16:55,099 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 09:17:30,861 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-26 09:17:31,579 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:17:32,657 ok: INFO: ok
+2018-07-26 09:17:35,480 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 09:17:35,636 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:17:38,550 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 09:17:38,551 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 09:17:38,683 Insertion: INFO: 29 next values from georep inserted into database
+2018-07-26 09:17:41,693 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 09:17:41,830 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:17:44,643 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 09:17:44,773 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:17:47,582 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 09:17:47,734 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:18:24,927 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-26 09:18:25,629 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:18:26,704 ok: INFO: ok
+2018-07-26 09:18:29,590 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 09:18:29,600 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:18:29,604 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:18:32,411 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 09:18:32,411 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 09:18:32,414 VerificationMatadata: WARNING:  29 : records already exist
+2018-07-26 09:18:32,416 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:18:35,227 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 09:18:35,230 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:18:35,232 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:18:38,031 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 09:18:38,034 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:18:38,036 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:18:40,842 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 09:18:40,845 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:18:40,847 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:18:43,748 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-26 09:19:24,014 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-26 09:19:24,731 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:19:25,809 ok: INFO: ok
+2018-07-26 09:19:28,663 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 09:19:28,672 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:19:28,676 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:19:31,597 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 09:19:31,598 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 09:19:31,601 VerificationMatadata: WARNING:  29 : records already exist
+2018-07-26 09:19:31,603 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:19:34,399 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 09:19:34,402 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:19:34,404 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:19:37,022 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 09:19:37,026 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:19:37,027 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:19:39,954 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 09:19:39,957 VerificationMatadata: WARNING:  30 : records already exist
+2018-07-26 09:19:39,959 Insertion: INFO: 0 next values from georep inserted into database
+2018-07-26 09:19:48,082 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-26 09:19:48,225 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:19:53,579 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-07-26 09:19:53,707 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:19:58,512 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-07-26 09:19:58,640 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:20:01,687 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 241 ;maxrecord 16 ; nextrecord 256 ; returned 15
+2018-07-26 09:20:01,765 Insertion: INFO: 15 next values from georep inserted into database
+2018-07-26 09:21:52,646 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-26 09:21:54,359 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:21:55,779 ok: INFO: ok
+2018-07-26 09:22:00,951 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 09:22:00,989 Insertion: ERROR: 30 next values from 390  not inserted into database : (psycopg2.DataError) invalid input syntax for type date: "2018-04"
+LINE 1: ... (7346, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
+                                                             ^
+ [SQL: 'INSERT INTO metadata (id_metadata, identifier, datestamp, xml_text, stdname, xml) VALUES (%(id_metadata)s, %(identifier)s, %(datestamp)s, %(xml_text)s, %(stdname)s, %(xml)s)'] [parameters: ({'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (26251 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7340, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'identifier': '{4EC6223C-02E8-49D9-8979-2EE830D21FBB}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21083 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7341, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2014-12-17', 'identifier': '{11353CE1-C376-4CC6-8984-C115FC1964CB}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21128 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7342, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'identifier': '{69489D1E-5CB7-4AC2-8D18-167B9D07C5B6}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21035 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7343, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-18', 'identifier': '{926F58DE-98D0-44E0-BFBC-B88FDC7ED313}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (15805 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7344, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-01-17', 'identifier': '{F0A00EB5-60AA-4381-8219-61DE4AD42617}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (16234 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7345, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-05-25', 'identifier': '{2D9D3B00-4F9C-4841-A272-C6EA4759CCA1}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (12460 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7346, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'identifier': '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (11864 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7347, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2018-04', 'identifier': '{954C660C-2696-4BFF-BBFC-146B84B85819}'}  ... displaying 10 of 30 total bound parameter sets ...  {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (19347 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7368, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'identifier': '{21DF245F-B88B-4DCE-BB80-FD831BD95AAA}'}, {'xml': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'xml_text': '<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xml ... (21731 characters truncated) ... t\t\t\t\t</gmd:statement>\n\t\t\t\t</gmd:LI_Lineage>\n\t\t\t</gmd:lineage>\n\t\t</gmd:DQ_DataQuality>\n\t</gmd:dataQualityInfo>\n</gmd:MD_Metadata>\n', 'id_metadata': 7369, 'stdname': 'INSPIRE Metadata Implementing Rules', 'datestamp': '2015-04-01', 'identifier': '{4D48293C-1302-490F-83EB-CB303906DFB8}'})] (Background on this error at: http://sqlalche.me/e/9h9h)
+2018-07-26 09:22:06,405 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 09:22:06,406 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 09:24:05,412 ExtractionGeocatalogueController: INFO: connect to :http://www.geoportal.gouv.nc/geoportal/csw?service=CSW&version=2.0.2
+2018-07-26 09:24:06,111 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 09:24:07,189 ok: INFO: ok
+2018-07-26 09:24:12,126 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 09:24:12,279 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:24:17,097 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 09:24:17,098 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 09:24:17,228 Insertion: INFO: 29 next values from georep inserted into database
+2018-07-26 09:24:22,053 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 09:24:22,192 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:24:26,630 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 09:24:26,768 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:24:31,703 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 09:24:31,846 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:24:36,848 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-26 09:24:37,003 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:24:41,708 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-07-26 09:24:41,836 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:24:46,416 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-07-26 09:24:46,551 Insertion: INFO: 30 next values from georep inserted into database
+2018-07-26 09:24:49,689 ExtractionGeocatalogueController: INFO: matches 256 (from 0 to 255) ; first record 241 ;maxrecord 16 ; nextrecord 256 ; returned 15
+2018-07-26 09:24:49,764 Insertion: INFO: 15 next values from georep inserted into database

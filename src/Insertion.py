@@ -5,6 +5,7 @@ from sqlalchemy import exc
 
 # import utilities.
 from datetime import datetime
+from dateutil import parser
 
 from Log import *
 from GlobalData import *
@@ -321,9 +322,11 @@ class Insertion(object):
         index = 0
         list_to_return = []
         for input in data.values():
+            # for dates like '2018-04' (in georep for example)
+            input.datestamp = parser.parse(input.datestamp)
+            
             metadata = Metadata(id_metadata=self.id_metadata + index, identifier=input.identifier,
                                 datestamp=input.datestamp, xml_text=input.xml, stdname=input.stdname, xml=input.xml)
-            #Log.get_instance().insert_info(datestamp, 'ici')
             list_to_return.append(metadata)
             index += 1
         return list_to_return

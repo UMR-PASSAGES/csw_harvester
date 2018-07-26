@@ -125,7 +125,6 @@ class ExtractionGeocatalogue(object):
         while len(self.csw.records) == 0:
             # jumps to next record
             Log.get_instance().insert_warning('ExtractionGeocatalogueController', 'could not insert record %s, jumping to next record' % str(self.csw.results['nextrecord']-1))
-            print (self.csw.results['nextrecord'])
             self.csw.results['nextrecord'] +=1
             self.queries['startposition'] = self.csw.results['nextrecord']
             self.csw.getrecords2(**self.queries)

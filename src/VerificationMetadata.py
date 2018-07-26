@@ -122,19 +122,16 @@ class VerificationMetadata:
         for j in data:
             i = data.get(j)
             correspond = False
-            
             if all([hasattr(i, 'datetimestamp'),
                     hasattr(i, 'xml'),
                     hasattr(i, 'stdname'),
                     hasattr(i, 'identification')]):
-
                 if all([hasattr(i.identification, 'identtype'),
                         hasattr(i.identification, 'keywords'),
                         hasattr(i.identification, 'contact'),
                         hasattr(i.identification, 'contributor'),
                         hasattr(i.identification, 'creator'),
                         hasattr(i.identification, 'bbox')]):
-
                     if all([hasattr(i.identification.bbox, 'maxx'),
                             hasattr(i.identification.bbox, 'maxy'),
                             hasattr(i.identification.bbox, 'minx'),

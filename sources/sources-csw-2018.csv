@@ -17,7 +17,7 @@
 24,GeoGuyane,0,0,30,http://catalogue.geoguyane.fr/,https://catalogue.geoguyane.fr/geonetwork/srv/fr/csw-geoguyane?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
 27,GeoMayotte,0,0,30,http://www.geomayotte.fr/,http://www.geomayotte.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
 28,GeoNormandie,0,0,30,http://catalogue.geonormandie.fr/,http://catalogue.geonormandie.fr/geonetwork/srv/fre/csw
-29,GEOPAL,0,0,30,http://www.geopal.org/,
+29,GEOPAL,0,0,30,http://www.geopal.org/,http://www.geopal.org/,http://www.geopal.org/geonetwork/srv/fre/csw
 30,GeoPicardie,0,0,30,http://www.geopicardie.fr/,http://www.geopicardie.fr/geonetwork/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
 32,GuyaneSIG,0,0,30,https://catalogue.guyane-sig.fr/,https://catalogue.guyane-sig.fr/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
 35,PEIGEO,0,0,30,http://www.peigeo.re/,http://www.peigeo.re/geonetwork/srv/fre/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities

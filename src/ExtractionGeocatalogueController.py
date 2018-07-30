@@ -64,8 +64,8 @@ class ExtractionGeocatalogue(object):
         Log.get_instance().insert_info('ExtractionGeocatalogueController', "connect to :%s" % url_csw)
         try:
             # added skip_caps=True for geocatalogue
-            #self.csw = CatalogueServiceWeb(url_csw)
-            self.csw = CatalogueServiceWeb(url_csw, skip_caps=True)
+            self.csw = CatalogueServiceWeb(url_csw)
+            #self.csw = CatalogueServiceWeb(url_csw, skip_caps=True)
         except:
             Log.get_instance().insert_error('ExtractionGeocatalogueController', 'Cannot connect to %s' % url_csw)
         if self.csw is not None:

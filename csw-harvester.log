@@ -15989,3 +15989,551 @@ LINE 1: ... (7346, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
 2018-07-26 15:14:15,151 ExtractionGeocatalogueController: INFO: matches 114321 (from 0 to 114320) ; first record 1081 ;maxrecord 30 ; nextrecord 1111 ; returned 30
 2018-07-26 15:14:15,152 VerificationMetadata: WARNING: 2 incorrect record(s)  
 2018-07-26 15:14:15,214 Insertion: INFO: 28 next values from Geoportail inserted into database
+2018-07-26 15:20:40,333 ExtractionGeocatalogueController: INFO: connect to :http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/eng/csw-moissonnable-ds-2?service=CSW
+2018-07-26 15:20:40,333 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:20:44,429 ok: INFO: ok
+2018-07-26 15:20:50,700 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 15:20:50,784 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:20:57,118 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 15:20:57,192 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:03,342 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 15:21:03,412 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:10,099 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 15:21:10,170 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:16,752 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 15:21:16,827 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:26,606 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-26 15:21:26,756 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:33,618 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-07-26 15:21:33,688 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:40,119 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-07-26 15:21:40,200 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:46,278 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-07-26 15:21:46,343 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:21:52,366 ExtractionGeocatalogueController: INFO: matches 16974 (from 0 to 16973) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-07-26 15:21:52,433 Insertion: INFO: 30 next values from GeoIDE inserted into database
+2018-07-26 15:22:14,743 ExtractionGeocatalogueController: INFO: connect to :http://services.data.shom.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-07-26 15:22:14,743 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:22:15,033 ok: INFO: ok
+2018-07-26 15:22:15,537 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 15:22:15,613 Insertion: INFO: 28 next values from SHOM inserted into database
+2018-07-26 15:22:16,309 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 15:22:16,376 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:16,816 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 15:22:16,886 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:17,412 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-07-26 15:22:17,485 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:18,097 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-07-26 15:22:18,171 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:18,918 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-07-26 15:22:18,991 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:19,633 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-07-26 15:22:19,697 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:20,159 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-07-26 15:22:20,212 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:20,801 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-07-26 15:22:20,852 Insertion: INFO: 29 next values from SHOM inserted into database
+2018-07-26 15:22:21,400 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-07-26 15:22:21,450 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:21,978 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-07-26 15:22:22,029 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:22,427 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-07-26 15:22:22,478 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:22,975 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-07-26 15:22:23,026 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:23,448 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-07-26 15:22:23,500 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:23,973 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-07-26 15:22:24,027 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:24,510 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-07-26 15:22:24,564 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:25,001 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-07-26 15:22:25,057 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:25,532 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-07-26 15:22:25,587 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:26,010 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-07-26 15:22:26,064 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:26,652 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-07-26 15:22:26,705 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:27,102 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-07-26 15:22:27,159 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:27,621 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-07-26 15:22:27,679 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:28,107 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-07-26 15:22:28,163 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:28,664 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-07-26 15:22:28,721 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:29,158 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-07-26 15:22:29,216 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:29,608 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 751 ;maxrecord 30 ; nextrecord 781 ; returned 30
+2018-07-26 15:22:29,667 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:30,296 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 781 ;maxrecord 30 ; nextrecord 811 ; returned 30
+2018-07-26 15:22:30,355 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:30,792 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 811 ;maxrecord 30 ; nextrecord 841 ; returned 30
+2018-07-26 15:22:30,850 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:31,238 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 841 ;maxrecord 30 ; nextrecord 871 ; returned 30
+2018-07-26 15:22:31,298 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:31,672 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 871 ;maxrecord 30 ; nextrecord 901 ; returned 30
+2018-07-26 15:22:31,731 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:32,308 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 901 ;maxrecord 30 ; nextrecord 931 ; returned 30
+2018-07-26 15:22:32,362 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:32,852 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 931 ;maxrecord 30 ; nextrecord 961 ; returned 30
+2018-07-26 15:22:32,913 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:33,388 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 961 ;maxrecord 30 ; nextrecord 991 ; returned 30
+2018-07-26 15:22:33,449 Insertion: INFO: 30 next values from SHOM inserted into database
+2018-07-26 15:22:33,705 ExtractionGeocatalogueController: INFO: matches 1001 (from 0 to 1000) ; first record 991 ;maxrecord 11 ; nextrecord 0 ; returned 11
+2018-07-26 15:22:33,732 Insertion: INFO: 10 next values from SHOM inserted into database
+2018-07-26 15:23:48,604 ExtractionGeocatalogueController: INFO: connect to :http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2
+2018-07-26 15:23:48,604 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:23:51,226 ExtractionGeocatalogueController: ERROR: Exceeded 30 redirects.
+2018-07-26 15:23:51,226 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:37:32,518 ExtractionGeocatalogueController: INFO: connect to :http://wxs.ign.fr/geoportail/csw?service=CSW&version=2.0.2
+2018-07-26 15:37:32,518 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:37:32,686 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-26 15:37:32,686 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:39:04,608 ExtractionGeocatalogueController: INFO: connect to :http://wxs.ign.fr/geoportail/csw?service=CSW&version=2.0.2&request=GetCapabilities
+2018-07-26 15:39:04,608 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:39:04,787 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-26 15:39:04,787 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:45:52,490 ExtractionGeocatalogueController: INFO: connect to :http://wxs.ign.fr/geoportail/csw?service=CSW&version=2.0.2&request=GetCapabilities
+2018-07-26 15:45:52,490 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:45:52,741 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-26 15:45:52,741 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:46:13,136 ExtractionGeocatalogueController: INFO: connect to :http://wxs.ign.fr/geoportail/csw?service=CSW&version=2.0.2&request=GetCapabilities
+2018-07-26 15:46:13,136 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:46:13,267 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-26 15:46:13,268 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:49:22,154 ExtractionGeocatalogueController: INFO: connect to :http://gpp3-wxs.ign.fr/geoportail/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-26 15:49:22,154 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:49:22,285 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-26 15:49:22,286 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:52:19,145 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2
+2018-07-26 15:52:19,145 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:52:19,287 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 15:52:19,288 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:52:32,828 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2
+2018-07-26 15:52:32,829 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:52:32,932 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 15:52:32,932 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 15:52:39,146 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2
+2018-07-26 15:52:39,147 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 15:52:39,245 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-26 15:52:39,245 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 16:25:40,902 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/cd8aeeede5324b54900264d6c5987d04/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?
+2018-07-26 16:25:40,903 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 16:25:41,136 ExtractionGeocatalogueController: ERROR: Document is XML, but not CSW-ish
+2018-07-26 16:25:41,136 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-26 16:26:13,040 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/cd8aeeede5324b54900264d6c5987d04/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?
+2018-07-26 16:26:13,154 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 16:26:18,643 ok: INFO: ok
+2018-07-26 16:26:25,797 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 16:26:25,797 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 16:26:25,899 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-26 16:26:35,944 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 31 ;maxrecord 21 ; nextrecord 0 ; returned 20
+2018-07-26 16:26:35,945 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 16:26:36,008 Insertion: INFO: 19 next values from PPIGE inserted into database
+2018-07-26 16:49:57,884 ExtractionGeocatalogueController: INFO: connect to :http://services.api.isogeo.com/ows/s/3f5cb018fe4e48dcac7f6039acd01962/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-26 16:49:58,083 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 16:49:59,508 ok: INFO: ok
+2018-07-26 16:50:07,052 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 16:50:07,052 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-26 16:50:07,060 VerificationMatadata: WARNING:  8 : records already exist
+2018-07-26 16:50:07,122 Insertion: INFO: 18 next values from PPIGE inserted into database
+2018-07-26 16:50:09,739 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 16:50:09,740 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-26 16:50:09,742 VerificationMatadata: WARNING:  7 : records already exist
+2018-07-26 16:50:09,806 Insertion: INFO: 21 next values from PPIGE inserted into database
+2018-07-26 16:50:12,375 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 16:50:12,375 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 16:50:12,377 VerificationMatadata: WARNING:  15 : records already exist
+2018-07-26 16:50:12,423 Insertion: INFO: 14 next values from PPIGE inserted into database
+2018-07-26 16:50:23,715 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 91 ;maxrecord 30 ; nextrecord 0 ; returned 29
+2018-07-26 16:50:23,715 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 16:50:23,718 VerificationMatadata: WARNING:  18 : records already exist
+2018-07-26 16:50:23,755 Insertion: INFO: 10 next values from PPIGE inserted into database
+2018-07-26 16:51:50,978 ExtractionGeocatalogueController: INFO: connect to :http://services.api.isogeo.com/ows/s/3f5cb018fe4e48dcac7f6039acd01962/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-26 16:51:51,149 ExtractionGeocatalogueController: INFO: connected
+2018-07-26 16:51:51,945 ok: INFO: ok
+2018-07-26 16:51:59,001 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-26 16:51:59,002 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-26 16:51:59,094 Insertion: INFO: 26 next values from PPIGE inserted into database
+2018-07-26 16:52:01,470 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-26 16:52:01,470 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-26 16:52:01,550 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-26 16:52:05,447 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-26 16:52:05,448 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 16:52:05,537 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-26 16:52:16,363 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 91 ;maxrecord 30 ; nextrecord 0 ; returned 29
+2018-07-26 16:52:16,364 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-26 16:52:16,458 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 13:53:32,079 ExtractionGeocatalogueController: INFO: connect to :http://services.api.isogeo.com/ows/s/3f5cb018fe4e48dcac7f6039acd01962/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 13:53:32,266 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 13:53:33,181 ok: INFO: ok
+2018-07-30 13:53:40,864 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 13:53:40,865 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 13:53:40,969 Insertion: INFO: 26 next values from PPIGE inserted into database
+2018-07-30 13:53:43,491 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-30 13:53:43,491 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 13:53:43,575 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 13:53:46,077 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-30 13:53:46,078 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 13:53:46,173 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 13:53:56,989 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 91 ;maxrecord 30 ; nextrecord 0 ; returned 29
+2018-07-30 13:53:56,990 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 13:53:57,081 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 13:56:21,385 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/cd8aeeede5324b54900264d6c5987d04/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 13:56:21,530 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 13:56:26,150 ok: INFO: ok
+2018-07-30 13:56:32,403 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 13:56:32,404 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 13:56:32,512 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 13:56:43,879 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 31 ;maxrecord 21 ; nextrecord 0 ; returned 20
+2018-07-30 13:56:43,879 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 13:56:43,947 Insertion: INFO: 19 next values from PPIGE inserted into database
+2018-07-30 14:15:04,293 ExtractionGeocatalogueController: INFO: connect to :http://services.api.isogeo.com/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/10c435bccac248ec999a0bb4f4c3a511/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?
+2018-07-30 14:15:04,511 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 14:15:12,291 ok: INFO: ok
+2018-07-30 14:15:14,147 ExtractionGeocatalogueController: INFO: matches 13 (from 0 to 12) ; first record 0 ;maxrecord 13 ; nextrecord 0 ; returned 12
+2018-07-30 14:15:14,207 Insertion: INFO: 12 next values from PPIGE inserted into database
+2018-07-30 14:16:33,387 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/44ae43fb7d4c40da99ed8eb9bf5d2833/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?
+2018-07-30 14:16:33,530 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 14:16:34,244 ok: INFO: ok
+2018-07-30 14:16:35,130 ExtractionGeocatalogueController: INFO: matches 6 (from 0 to 5) ; first record 0 ;maxrecord 6 ; nextrecord 0 ; returned 5
+2018-07-30 14:16:35,169 Insertion: INFO: 5 next values from PPIGE inserted into database
+2018-07-30 14:17:54,665 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/cc1ba385918d40cc8078063121873550/c/dd6ed2a65c0d43d99f65e4b4b8ff0509/m0_ZBCtJU3nJj1S3Q2FIAa6u_KZ70?
+2018-07-30 14:17:54,813 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 14:17:56,332 ok: INFO: ok
+2018-07-30 14:17:58,880 ExtractionGeocatalogueController: INFO: matches 9 (from 0 to 8) ; first record 0 ;maxrecord 9 ; nextrecord 0 ; returned 8
+2018-07-30 14:17:58,881 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 14:17:58,919 Insertion: INFO: 6 next values from PPIGE inserted into database
+2018-07-30 14:18:36,526 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/46403dae5982449da7eb0fc21fc380e0/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?
+2018-07-30 14:18:36,644 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 14:18:37,309 ok: INFO: ok
+2018-07-30 14:18:39,593 ExtractionGeocatalogueController: INFO: matches 28 (from 0 to 27) ; first record 0 ;maxrecord 28 ; nextrecord 0 ; returned 27
+2018-07-30 14:18:39,684 Insertion: INFO: 27 next values from PPIGE inserted into database
+2018-07-30 14:19:41,120 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/67e1593a58b648158532b074e0c4d0fe/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?
+2018-07-30 14:19:41,261 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 14:19:41,955 ok: INFO: ok
+2018-07-30 14:19:42,822 ExtractionGeocatalogueController: INFO: matches 6 (from 0 to 5) ; first record 0 ;maxrecord 6 ; nextrecord 0 ; returned 5
+2018-07-30 14:19:42,857 Insertion: INFO: 5 next values from PPIGE inserted into database
+2018-07-30 14:20:28,398 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/cc1ba385918d40cc8078063121873550/c/8628eb8c60744132b1e7aa509c7add84/m0_ZBCtJU3nJj1S3Q2FIAa6u_KZ70?
+2018-07-30 14:20:28,579 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 14:20:29,778 ok: INFO: ok
+2018-07-30 14:20:31,527 ExtractionGeocatalogueController: INFO: matches 7 (from 0 to 6) ; first record 0 ;maxrecord 7 ; nextrecord 0 ; returned 6
+2018-07-30 14:20:31,527 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 14:20:31,560 Insertion: INFO: 2 next values from PPIGE inserted into database
+2018-07-30 14:21:15,373 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/cd8aeeede5324b54900264d6c5987d04/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?
+2018-07-30 14:21:15,513 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 14:21:19,442 ok: INFO: ok
+2018-07-30 14:21:25,691 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 14:21:25,691 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 14:21:25,800 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 14:21:37,832 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 31 ;maxrecord 21 ; nextrecord 0 ; returned 20
+2018-07-30 14:21:37,833 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 14:21:37,901 Insertion: INFO: 19 next values from PPIGE inserted into database
+2018-07-30 15:45:04,452 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/c/cd8aeeede5324b54900264d6c5987d04/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 15:45:04,617 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 15:45:08,647 ok: INFO: ok
+2018-07-30 15:45:14,191 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 15:45:14,192 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 15:45:14,204 VerificationMatadata: WARNING:  29 : records already exist
+2018-07-30 15:45:14,208 Insertion: INFO: 0 next values from PPIGE inserted into database
+2018-07-30 15:45:24,360 ExtractionGeocatalogueController: INFO: matches 51 (from 0 to 50) ; first record 31 ;maxrecord 21 ; nextrecord 0 ; returned 20
+2018-07-30 15:45:24,360 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 15:45:24,362 VerificationMatadata: WARNING:  19 : records already exist
+2018-07-30 15:45:24,364 Insertion: INFO: 0 next values from PPIGE inserted into database
+2018-07-30 16:05:03,041 ExtractionGeocatalogueController: INFO: connect to :http://services.api.isogeo.com/ows/s/3f5cb018fe4e48dcac7f6039acd01962/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 16:05:03,221 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:05:04,380 ok: INFO: ok
+2018-07-30 16:05:11,081 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 16:05:11,081 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 16:05:11,183 Insertion: INFO: 26 next values from PPIGE inserted into database
+2018-07-30 16:05:13,782 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-30 16:05:13,783 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:05:13,869 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:05:16,830 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-30 16:05:16,831 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:05:16,926 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:05:27,691 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 91 ;maxrecord 30 ; nextrecord 0 ; returned 29
+2018-07-30 16:05:27,691 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:05:27,781 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:07:05,529 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 16:07:07,820 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:07:08,447 ok: INFO: ok
+2018-07-30 16:07:14,382 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 16:07:14,382 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 16:07:14,474 Insertion: INFO: 26 next values from PPIGE inserted into database
+2018-07-30 16:07:16,633 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-30 16:07:16,633 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:07:16,717 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:07:18,816 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-30 16:07:18,817 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:07:18,911 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:07:29,514 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 91 ;maxrecord 30 ; nextrecord 0 ; returned 29
+2018-07-30 16:07:29,515 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:07:29,601 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:27:25,594 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/3f5cb018fe4e48dcac7f6039acd01962/ZKyGZvBoeonP1vIzCeAAwJqDc4HifEMRC2fH4sTg4dRh6cy4A5G9JC?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 16:27:25,706 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:27:32,698 ok: INFO: ok
+2018-07-30 16:27:40,590 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 16:27:40,591 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 16:27:40,603 VerificationMatadata: WARNING:  26 : records already exist
+2018-07-30 16:27:40,607 Insertion: INFO: 0 next values from PPIGE inserted into database
+2018-07-30 16:27:43,094 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-30 16:27:43,095 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:27:43,098 VerificationMatadata: WARNING:  28 : records already exist
+2018-07-30 16:27:43,100 Insertion: INFO: 0 next values from PPIGE inserted into database
+2018-07-30 16:27:45,395 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-07-30 16:27:45,396 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:27:45,399 VerificationMatadata: WARNING:  29 : records already exist
+2018-07-30 16:27:45,400 Insertion: INFO: 0 next values from PPIGE inserted into database
+2018-07-30 16:27:56,288 ExtractionGeocatalogueController: INFO: matches 120 (from 0 to 119) ; first record 91 ;maxrecord 30 ; nextrecord 0 ; returned 29
+2018-07-30 16:27:56,289 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:27:56,292 VerificationMatadata: WARNING:  28 : records already exist
+2018-07-30 16:27:56,293 Insertion: INFO: 0 next values from PPIGE inserted into database
+2018-07-30 16:27:56,294 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/cc1ba385918d40cc8078063121873550/m0_ZBCtJU3nJj1S3Q2FIAa6u_KZ70?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 16:27:56,395 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:27:57,006 ok: INFO: ok
+2018-07-30 16:27:59,661 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 16:27:59,669 VerificationMatadata: WARNING:  1 : records already exist
+2018-07-30 16:27:59,772 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:28:03,847 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-30 16:28:03,848 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:03,944 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:28:06,598 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 61 ;maxrecord 30 ; nextrecord 90 ; returned 29
+2018-07-30 16:28:06,689 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:28:09,346 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 90 ;maxrecord 30 ; nextrecord 120 ; returned 30
+2018-07-30 16:28:09,347 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:09,351 VerificationMatadata: WARNING:  1 : records already exist
+2018-07-30 16:28:09,431 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:28:12,020 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 120 ;maxrecord 30 ; nextrecord 150 ; returned 30
+2018-07-30 16:28:12,106 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:28:14,850 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 150 ;maxrecord 30 ; nextrecord 180 ; returned 30
+2018-07-30 16:28:14,935 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:28:17,750 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 180 ;maxrecord 30 ; nextrecord 210 ; returned 30
+2018-07-30 16:28:17,751 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:28:17,840 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:28:20,685 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 210 ;maxrecord 30 ; nextrecord 240 ; returned 30
+2018-07-30 16:28:20,770 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:28:23,263 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 240 ;maxrecord 30 ; nextrecord 270 ; returned 30
+2018-07-30 16:28:23,264 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:23,345 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:28:25,960 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 270 ;maxrecord 30 ; nextrecord 300 ; returned 30
+2018-07-30 16:28:25,961 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:26,042 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:28:28,632 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 300 ;maxrecord 30 ; nextrecord 330 ; returned 30
+2018-07-30 16:28:28,714 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:28:31,203 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 330 ;maxrecord 30 ; nextrecord 360 ; returned 30
+2018-07-30 16:28:31,204 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:31,287 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:28:33,826 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 360 ;maxrecord 30 ; nextrecord 390 ; returned 30
+2018-07-30 16:28:33,920 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:28:36,719 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 390 ;maxrecord 30 ; nextrecord 420 ; returned 30
+2018-07-30 16:28:36,720 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:36,806 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:28:39,365 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 420 ;maxrecord 30 ; nextrecord 450 ; returned 30
+2018-07-30 16:28:39,451 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:28:46,482 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 450 ;maxrecord 30 ; nextrecord 480 ; returned 30
+2018-07-30 16:28:46,483 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 16:28:46,489 VerificationMatadata: WARNING:  6 : records already exist
+2018-07-30 16:28:46,548 Insertion: INFO: 20 next values from PPIGE inserted into database
+2018-07-30 16:28:49,430 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 480 ;maxrecord 30 ; nextrecord 510 ; returned 30
+2018-07-30 16:28:49,441 VerificationMatadata: WARNING:  10 : records already exist
+2018-07-30 16:28:49,500 Insertion: INFO: 20 next values from PPIGE inserted into database
+2018-07-30 16:28:52,394 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 510 ;maxrecord 30 ; nextrecord 540 ; returned 30
+2018-07-30 16:28:52,394 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:52,402 VerificationMatadata: WARNING:  6 : records already exist
+2018-07-30 16:28:52,474 Insertion: INFO: 23 next values from PPIGE inserted into database
+2018-07-30 16:28:56,925 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 540 ;maxrecord 30 ; nextrecord 570 ; returned 30
+2018-07-30 16:28:56,926 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 16:28:56,935 VerificationMatadata: WARNING:  4 : records already exist
+2018-07-30 16:28:57,004 Insertion: INFO: 22 next values from PPIGE inserted into database
+2018-07-30 16:28:59,687 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 570 ;maxrecord 30 ; nextrecord 600 ; returned 30
+2018-07-30 16:28:59,688 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:28:59,696 VerificationMatadata: WARNING:  6 : records already exist
+2018-07-30 16:28:59,761 Insertion: INFO: 23 next values from PPIGE inserted into database
+2018-07-30 16:29:02,000 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 600 ;maxrecord 30 ; nextrecord 630 ; returned 30
+2018-07-30 16:29:02,001 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:29:02,009 VerificationMatadata: WARNING:  7 : records already exist
+2018-07-30 16:29:02,070 Insertion: INFO: 22 next values from PPIGE inserted into database
+2018-07-30 16:29:06,242 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 630 ;maxrecord 30 ; nextrecord 660 ; returned 30
+2018-07-30 16:29:06,243 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:29:06,251 VerificationMatadata: WARNING:  5 : records already exist
+2018-07-30 16:29:06,327 Insertion: INFO: 24 next values from PPIGE inserted into database
+2018-07-30 16:29:10,275 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 660 ;maxrecord 30 ; nextrecord 690 ; returned 30
+2018-07-30 16:29:10,276 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:29:10,286 VerificationMatadata: WARNING:  11 : records already exist
+2018-07-30 16:29:10,343 Insertion: INFO: 17 next values from PPIGE inserted into database
+2018-07-30 16:29:14,526 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 690 ;maxrecord 30 ; nextrecord 720 ; returned 30
+2018-07-30 16:29:14,536 VerificationMatadata: WARNING:  10 : records already exist
+2018-07-30 16:29:14,596 Insertion: INFO: 20 next values from PPIGE inserted into database
+2018-07-30 16:29:17,865 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 720 ;maxrecord 30 ; nextrecord 750 ; returned 30
+2018-07-30 16:29:17,875 VerificationMatadata: WARNING:  14 : records already exist
+2018-07-30 16:29:17,928 Insertion: INFO: 16 next values from PPIGE inserted into database
+2018-07-30 16:29:20,846 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 750 ;maxrecord 30 ; nextrecord 780 ; returned 30
+2018-07-30 16:29:20,847 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:29:20,856 VerificationMatadata: WARNING:  11 : records already exist
+2018-07-30 16:29:20,902 Insertion: INFO: 17 next values from PPIGE inserted into database
+2018-07-30 16:29:33,604 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 780 ;maxrecord 30 ; nextrecord 810 ; returned 30
+2018-07-30 16:29:33,605 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:29:33,618 VerificationMatadata: WARNING:  6 : records already exist
+2018-07-30 16:29:33,705 Insertion: INFO: 23 next values from PPIGE inserted into database
+2018-07-30 16:29:35,426 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 810 ;maxrecord 7 ; nextrecord 0 ; returned 7
+2018-07-30 16:29:35,433 VerificationMatadata: WARNING:  7 : records already exist
+2018-07-30 16:29:35,435 Insertion: INFO: 0 next values from PPIGE inserted into database
+2018-07-30 16:30:56,243 ExtractionGeocatalogueController: INFO: connect to :http://api.isogeo.com/services/ows/s/cc1ba385918d40cc8078063121873550/m0_ZBCtJU3nJj1S3Q2FIAa6u_KZ70?request=GetCapabilities&service=CSW&version=2.0.2
+2018-07-30 16:30:56,426 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:30:56,967 ok: INFO: ok
+2018-07-30 16:30:59,401 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-30 16:30:59,518 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:02,338 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-07-30 16:31:02,339 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:02,434 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:04,660 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 61 ;maxrecord 30 ; nextrecord 90 ; returned 29
+2018-07-30 16:31:04,751 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:07,046 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 90 ;maxrecord 30 ; nextrecord 120 ; returned 30
+2018-07-30 16:31:07,046 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:07,049 VerificationMatadata: WARNING:  1 : records already exist
+2018-07-30 16:31:07,126 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:31:09,385 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 120 ;maxrecord 30 ; nextrecord 150 ; returned 30
+2018-07-30 16:31:09,472 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:11,710 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 150 ;maxrecord 30 ; nextrecord 180 ; returned 30
+2018-07-30 16:31:11,794 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:14,284 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 180 ;maxrecord 30 ; nextrecord 210 ; returned 30
+2018-07-30 16:31:14,285 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:31:14,373 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:31:16,562 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 210 ;maxrecord 30 ; nextrecord 240 ; returned 30
+2018-07-30 16:31:16,642 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:21,090 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 240 ;maxrecord 30 ; nextrecord 270 ; returned 30
+2018-07-30 16:31:21,091 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:21,172 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:23,409 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 270 ;maxrecord 30 ; nextrecord 300 ; returned 30
+2018-07-30 16:31:23,410 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:23,490 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:25,863 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 300 ;maxrecord 30 ; nextrecord 330 ; returned 30
+2018-07-30 16:31:25,966 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:28,337 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 330 ;maxrecord 30 ; nextrecord 360 ; returned 30
+2018-07-30 16:31:28,338 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:28,420 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:30,659 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 360 ;maxrecord 30 ; nextrecord 390 ; returned 30
+2018-07-30 16:31:30,750 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:33,244 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 390 ;maxrecord 30 ; nextrecord 420 ; returned 30
+2018-07-30 16:31:33,245 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:33,330 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:35,579 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 420 ;maxrecord 30 ; nextrecord 450 ; returned 30
+2018-07-30 16:31:35,665 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:42,108 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 450 ;maxrecord 30 ; nextrecord 480 ; returned 30
+2018-07-30 16:31:42,109 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 16:31:42,191 Insertion: INFO: 26 next values from PPIGE inserted into database
+2018-07-30 16:31:44,289 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 480 ;maxrecord 30 ; nextrecord 510 ; returned 30
+2018-07-30 16:31:44,382 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:31:47,263 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 510 ;maxrecord 30 ; nextrecord 540 ; returned 30
+2018-07-30 16:31:47,264 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:47,357 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:50,981 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 540 ;maxrecord 30 ; nextrecord 570 ; returned 30
+2018-07-30 16:31:50,982 VerificationMetadata: WARNING: 4 incorrect record(s)  
+2018-07-30 16:31:51,070 Insertion: INFO: 26 next values from PPIGE inserted into database
+2018-07-30 16:31:53,328 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 570 ;maxrecord 30 ; nextrecord 600 ; returned 30
+2018-07-30 16:31:53,329 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:53,416 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:55,459 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 600 ;maxrecord 30 ; nextrecord 630 ; returned 30
+2018-07-30 16:31:55,459 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:55,549 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:31:58,773 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 630 ;maxrecord 30 ; nextrecord 660 ; returned 30
+2018-07-30 16:31:58,773 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:31:58,873 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:32:01,098 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 660 ;maxrecord 30 ; nextrecord 690 ; returned 30
+2018-07-30 16:32:01,098 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:32:01,195 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:32:03,219 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 690 ;maxrecord 30 ; nextrecord 720 ; returned 30
+2018-07-30 16:32:03,318 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:32:05,433 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 720 ;maxrecord 30 ; nextrecord 750 ; returned 30
+2018-07-30 16:32:05,533 Insertion: INFO: 30 next values from PPIGE inserted into database
+2018-07-30 16:32:08,745 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 750 ;maxrecord 30 ; nextrecord 780 ; returned 30
+2018-07-30 16:32:08,746 VerificationMetadata: WARNING: 2 incorrect record(s)  
+2018-07-30 16:32:08,833 Insertion: INFO: 28 next values from PPIGE inserted into database
+2018-07-30 16:32:21,789 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 780 ;maxrecord 30 ; nextrecord 810 ; returned 30
+2018-07-30 16:32:21,790 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-07-30 16:32:21,884 Insertion: INFO: 29 next values from PPIGE inserted into database
+2018-07-30 16:32:24,253 ExtractionGeocatalogueController: INFO: matches 817 (from 0 to 816) ; first record 810 ;maxrecord 7 ; nextrecord 0 ; returned 7
+2018-07-30 16:32:24,287 Insertion: INFO: 7 next values from PPIGE inserted into database
+2018-07-30 16:36:16,967 ExtractionGeocatalogueController: INFO: connect to :http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2&request=GetCapabilities
+2018-07-30 16:36:27,212 ExtractionGeocatalogueController: ERROR: Cannot connect to http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2&request=GetCapabilities
+2018-07-30 16:36:27,236 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-07-30 16:36:37,412 ExtractionGeocatalogueController: INFO: connect to :http://gpp3-wxs.ign.fr/geoportail/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
+2018-07-30 16:36:37,696 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:36:37,818 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-30 16:36:37,818 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:37:34,061 ExtractionGeocatalogueController: INFO: connect to :http://gpp3-wxs.ign.fr/geoportail/csw?
+2018-07-30 16:37:35,964 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:37:36,097 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-30 16:37:36,098 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:41:06,085 ExtractionGeocatalogueController: INFO: connect to :http://gpp3-wxs.ign.fr/geoportail/csw?
+2018-07-30 16:41:06,085 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:41:06,215 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8
+2018-07-30 16:41:06,215 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:43:22,156 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2
+2018-07-30 16:43:22,156 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:43:22,298 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-30 16:43:22,298 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:43:39,077 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2
+2018-07-30 16:43:39,396 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:43:39,490 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-30 16:43:39,490 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:43:50,161 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2
+2018-07-30 16:43:50,450 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:43:50,543 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-30 16:43:50,543 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:44:02,566 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2
+2018-07-30 16:44:02,566 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:44:02,667 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-30 16:44:02,667 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:44:52,723 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-30 16:44:53,031 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:44:53,123 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-30 16:44:53,123 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:45:22,031 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-30 16:45:22,320 ExtractionGeocatalogueController: INFO: connected
+2018-07-30 16:45:22,413 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-30 16:45:22,413 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-30 16:46:33,435 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw-publication?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-30 16:46:33,723 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.data.eaufrance.fr:/geosource/srv/eng/csw-publication?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-30 16:46:33,746 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised

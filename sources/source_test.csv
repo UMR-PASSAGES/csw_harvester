@@ -1,5 +1,7 @@
 #8,GEOSUD,0,0,30,http://geosud.ign.fr/,http://geosud.ign.fr/csw/ISOAP?service=CSW&version=2.0.2&request=GetCapabilities
 #8,GEOSUD,0,0,30,http://geosud.ign.fr/,http://gpp3-wxs.ign.fr/geoportail/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities
 #8,GEOSUD,0,0,30,http://geosud.ign.fr/,http://gpp3-wxs.ign.fr/geoportail/csw?
-#12,SIE_Eaufrance,0,0,30,http://www.data.eaufrance.fr/,http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
-29,GEOPAL,0,0,30,http://www.geopal.org/,http://www.geopal.org/geonetwork/srv/fre/csw
+#12,SIE_Eaufrance,0,0,30,http://www.data.eaufrance.fr/,http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+#29,GEOPAL,0,0,30,http://www.geopal.org/,http://www.geopal.org/geonetwork/srv/fre/csw
+#2,CARTOMER,0,0,30,http://cartographie.aires-marines.fr/,http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+7,Geoportail,0,0,30,http://www.geocatalogue.fr/,http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW

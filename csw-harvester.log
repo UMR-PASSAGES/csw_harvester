@@ -16708,3 +16708,477 @@ LINE 1: ... (7346, '{AACD6FA8-584F-4211-A62E-DAE5C47C5E87}', '2018-04',...
 2018-07-30 17:01:36,385 ExtractionGeocatalogueController: INFO: matches 5171 (from 0 to 5170) ; first record 125 ;maxrecord 30 ; nextrecord 126 ; returned 1
 2018-07-30 17:01:36,387 VerificationMatadata: WARNING:  1 : records already exist
 2018-07-30 17:01:36,389 Insertion: INFO: 0 next values from GEOPAL inserted into database
+2018-07-31 13:52:04,731 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 13:52:04,746 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 13:52:04,935 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 13:52:04,935 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 13:52:32,052 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 13:52:32,237 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 13:52:32,329 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 13:52:32,329 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 13:52:54,853 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 13:52:55,097 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 13:52:55,188 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 13:52:55,188 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 16:59:53,046 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 16:59:53,380 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 16:59:53,476 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 16:59:53,476 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:00:09,788 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:00:09,788 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:00:09,889 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:00:09,889 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:04:51,221 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:04:51,221 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:04:51,325 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:04:51,325 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:14:24,326 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:14:24,326 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:14:24,467 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:14:24,467 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:14:58,462 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:14:58,677 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:14:58,769 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:14:58,770 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:17:30,870 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr:/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:17:31,195 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:17:31,287 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:17:31,287 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:20:10,223 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:20:10,409 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:20:10,501 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:20:10,502 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:20:39,881 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-07-31 17:20:40,498 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:20:41,898 ok: INFO: ok
+2018-07-31 17:20:43,968 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-07-31 17:20:45,365 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-07-31 17:20:47,205 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-07-31 17:21:44,221 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-07-31 17:21:44,480 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:21:46,163 ok: INFO: ok
+2018-07-31 17:21:48,234 ExtractionGeocatalogueController: INFO: matches 5144 (from 0 to 5143) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-07-31 17:21:48,235 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-07-31 17:21:48,267 Insertion: INFO: 0 next values from GEOPAL inserted into database
+2018-07-31 17:21:59,326 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:21:59,637 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:21:59,731 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:21:59,731 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-07-31 17:22:20,218 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-07-31 17:22:20,533 ExtractionGeocatalogueController: INFO: connected
+2018-07-31 17:22:20,626 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-07-31 17:22:20,627 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 10:10:42,858 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 10:10:43,257 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 10:10:43,426 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 10:10:43,426 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:00:39,779 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:00:40,011 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:00:40,104 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:00:40,104 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:00:54,540 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:00:54,732 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:00:54,826 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:00:54,826 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:01:28,569 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:01:28,569 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:01:28,667 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:01:28,667 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:01:41,864 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:01:41,864 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:01:41,962 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:01:41,962 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:32:20,861 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:32:20,861 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:32:20,962 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:32:20,962 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:32:37,774 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:32:37,774 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:32:37,872 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:32:37,872 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:32:42,315 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:32:42,315 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:32:42,411 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:32:42,411 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 11:32:58,605 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 11:32:58,793 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 11:32:58,883 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 11:32:58,883 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 12:32:25,604 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 12:32:25,947 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 12:32:26,039 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 12:32:26,039 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 12:33:17,923 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 12:33:18,263 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 12:33:18,357 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 12:33:18,358 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 12:35:17,470 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 12:35:17,762 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 12:35:17,855 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 12:35:17,856 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 13:29:09,600 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 13:29:09,992 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 13:29:10,087 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 13:29:10,087 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 14:38:53,723 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 14:38:53,959 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:38:54,050 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 14:38:54,050 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 14:39:06,213 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 14:39:06,624 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:39:08,336 ok: INFO: ok
+2018-08-02 14:39:09,742 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 14:39:10,901 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-08-02 14:39:12,066 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-08-02 14:39:13,233 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-08-02 14:50:31,123 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 14:50:31,474 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:50:31,570 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 14:50:31,570 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 14:50:49,050 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 14:50:49,369 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:50:50,489 ok: INFO: ok
+2018-08-02 14:50:51,727 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 14:52:06,552 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 14:52:06,851 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:52:07,544 ok: INFO: ok
+2018-08-02 14:52:08,741 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 14:52:09,948 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-08-02 14:52:11,140 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-08-02 14:52:12,279 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-08-02 14:52:13,391 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-08-02 14:52:14,828 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-08-02 14:52:16,443 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
+2018-08-02 14:52:18,250 ExtractionGeocatalogueController: WARNING: could not insert record 7, jumping to next record
+2018-08-02 14:53:55,627 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 14:53:55,915 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:53:57,283 ok: INFO: ok
+2018-08-02 14:53:58,723 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 14:53:59,924 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-08-02 14:54:01,096 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-08-02 14:54:02,223 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-08-02 14:54:03,345 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-08-02 14:54:40,493 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 14:54:40,744 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:54:41,871 ok: INFO: ok
+2018-08-02 14:56:08,969 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 14:56:09,264 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:56:10,420 ok: INFO: ok
+2018-08-02 14:56:12,012 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 14:56:20,425 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 14:56:20,741 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 14:56:20,836 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 14:56:20,837 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 15:05:08,711 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 15:05:09,058 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:05:09,148 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 15:05:09,148 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 15:05:31,950 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 15:05:32,166 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:05:32,261 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 15:05:32,261 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 15:05:40,141 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 15:05:40,434 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:05:40,532 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 15:05:40,532 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 15:05:48,733 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 15:05:49,037 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:05:49,130 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 15:05:49,130 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 15:49:13,064 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 15:49:13,359 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:49:14,513 ok: INFO: ok
+2018-08-02 15:49:54,245 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 15:49:54,575 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:49:55,801 ok: INFO: ok
+2018-08-02 15:49:57,022 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 15:49:58,220 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-08-02 15:49:59,568 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-08-02 15:50:00,338 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-08-02 15:50:01,576 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-08-02 15:50:02,720 ExtractionGeocatalogueController: WARNING: could not insert record 5, jumping to next record
+2018-08-02 15:50:03,898 ExtractionGeocatalogueController: WARNING: could not insert record 6, jumping to next record
+2018-08-02 15:51:58,819 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 15:51:59,119 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:52:00,233 ok: INFO: ok
+2018-08-02 15:52:01,413 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 15:52:02,595 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-08-02 15:52:03,768 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-08-02 15:52:04,907 ExtractionGeocatalogueController: WARNING: could not insert record 3, jumping to next record
+2018-08-02 15:52:06,085 ExtractionGeocatalogueController: WARNING: could not insert record 4, jumping to next record
+2018-08-02 15:55:25,355 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 15:55:25,681 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 15:55:25,772 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 15:55:25,773 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 16:09:41,512 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 16:09:41,856 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 16:09:41,947 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 16:09:41,947 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 16:10:01,792 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-02 16:10:02,099 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 16:10:03,405 ok: INFO: ok
+2018-08-02 16:10:04,641 ExtractionGeocatalogueController: WARNING: could not insert record 0, jumping to next record
+2018-08-02 16:10:05,834 ExtractionGeocatalogueController: WARNING: could not insert record 1, jumping to next record
+2018-08-02 16:10:06,993 ExtractionGeocatalogueController: WARNING: could not insert record 2, jumping to next record
+2018-08-02 16:17:28,062 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 16:17:28,352 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 16:17:28,446 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 16:17:28,446 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 16:17:54,845 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 16:17:55,134 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 16:17:55,230 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 16:17:55,231 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-02 16:57:17,017 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-02 16:57:17,279 ExtractionGeocatalogueController: INFO: connected
+2018-08-02 16:57:17,369 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-02 16:57:17,369 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-03 10:15:54,476 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-03 10:15:54,908 ExtractionGeocatalogueController: INFO: connected
+2018-08-03 10:15:55,071 ExtractionGeocatalogueController: ERROR: Opening and ending tag mismatch: br line 1 and body, line 1, column 242
+2018-08-03 10:15:55,072 ExtractionGeocatalogueController: ERROR: records are not correct : 
+ 	 'CatalogueServiceWeb' object has no attribute 'results' 
+ aborted.
+2018-08-03 10:27:00,305 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-03 10:27:00,306 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-03 10:27:00,347 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:27:23,265 ExtractionGeocatalogueController: INFO: connect to :http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-03 10:27:23,265 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.data.eaufrance.fr/geosource/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&request=GetCapabilities
+2018-08-03 10:27:23,309 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:27:43,641 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:27:43,641 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:27:43,683 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:28:09,278 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:28:09,302 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:28:09,345 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:28:54,110 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:28:54,110 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:28:54,152 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:29:01,189 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:29:01,189 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:29:01,234 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:29:07,837 ExtractionGeocatalogueController: INFO: connect to :http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:29:07,838 ExtractionGeocatalogueController: ERROR: Cannot connect to http://www.geopal.org/geonetwork/srv/fre/csw
+2018-08-03 10:29:07,882 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:29:39,206 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:29:39,206 ExtractionGeocatalogueController: ERROR: Cannot connect to http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:29:39,247 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:30:41,332 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:30:41,332 ExtractionGeocatalogueController: ERROR: Cannot connect to http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:30:41,373 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:34:10,137 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:34:10,137 ExtractionGeocatalogueController: ERROR: Cannot connect to http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:34:10,178 ExtractionGeocatalogueController: ERROR:  connection csw lost or not initialised
+2018-08-03 10:34:32,197 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:35:40,765 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:35:40,765 ExtractionGeocatalogueController: INFO: connected
+2018-08-03 10:35:42,287 ok: INFO: ok
+2018-08-03 10:35:43,533 ExtractionGeocatalogueController: INFO: matches 494 (from 0 to 493) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-08-03 10:35:43,533 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-08-03 10:35:43,650 Insertion: INFO: 29 next values from CARTOMER inserted into database
+2018-08-03 10:37:06,604 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:37:06,605 ExtractionGeocatalogueController: INFO: connected
+2018-08-03 10:37:07,868 ok: INFO: ok
+2018-08-03 10:37:09,104 ExtractionGeocatalogueController: INFO: matches 494 (from 0 to 493) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-08-03 10:37:09,105 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-08-03 10:37:09,112 VerificationMatadata: WARNING:  29 : records already exist
+2018-08-03 10:37:09,116 Insertion: INFO: 0 next values from CARTOMER inserted into database
+2018-08-03 10:37:14,069 ExtractionGeocatalogueController: INFO: connect to :http://cartographie.aires-marines.fr/geosource/srv/fre/csw?SERVICE=CSW&REQUEST=GetCapabilities&VERSION=2.0.2
+2018-08-03 10:37:14,069 ExtractionGeocatalogueController: INFO: connected
+2018-08-03 10:37:15,284 ok: INFO: ok
+2018-08-03 10:37:47,213 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-08-03 10:37:47,213 ExtractionGeocatalogueController: INFO: connected
+2018-08-03 10:37:47,922 ok: INFO: ok
+2018-08-03 10:37:48,352 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-08-03 10:37:48,458 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:49,121 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-08-03 10:37:49,226 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:49,930 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-08-03 10:37:50,044 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:50,764 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-08-03 10:37:50,878 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:51,504 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-08-03 10:37:51,612 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:52,271 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-08-03 10:37:52,381 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:53,012 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-08-03 10:37:53,122 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:53,728 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-08-03 10:37:53,837 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:37:54,416 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-08-03 10:37:54,541 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:14,030 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-08-03 10:38:14,030 ExtractionGeocatalogueController: INFO: connected
+2018-08-03 10:38:14,485 ok: INFO: ok
+2018-08-03 10:38:14,886 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-08-03 10:38:14,897 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:14,901 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:15,534 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-08-03 10:38:15,539 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:15,541 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:16,196 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-08-03 10:38:16,201 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:16,203 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:16,907 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-08-03 10:38:16,911 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:16,913 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:17,559 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-08-03 10:38:17,563 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:17,565 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:18,188 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-08-03 10:38:18,192 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:18,194 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:18,861 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-08-03 10:38:18,866 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:18,868 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:22,910 ExtractionGeocatalogueController: INFO: connect to :http://www.geocatalogue.fr/api-public/servicesRest?SERVICE=CSW
+2018-08-03 10:38:22,910 ExtractionGeocatalogueController: INFO: connected
+2018-08-03 10:38:23,323 ok: INFO: ok
+2018-08-03 10:38:23,710 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 0 ;maxrecord 30 ; nextrecord 31 ; returned 30
+2018-08-03 10:38:23,720 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:23,724 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:24,370 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 31 ;maxrecord 30 ; nextrecord 61 ; returned 30
+2018-08-03 10:38:24,374 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:24,376 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:25,095 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 61 ;maxrecord 30 ; nextrecord 91 ; returned 30
+2018-08-03 10:38:25,100 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:25,102 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:25,733 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 91 ;maxrecord 30 ; nextrecord 121 ; returned 30
+2018-08-03 10:38:25,738 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:25,740 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:26,350 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 121 ;maxrecord 30 ; nextrecord 151 ; returned 30
+2018-08-03 10:38:26,354 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:26,356 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:27,021 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 151 ;maxrecord 30 ; nextrecord 181 ; returned 30
+2018-08-03 10:38:27,025 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:27,027 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:27,675 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 181 ;maxrecord 30 ; nextrecord 211 ; returned 30
+2018-08-03 10:38:27,679 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:27,681 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:28,314 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 211 ;maxrecord 30 ; nextrecord 241 ; returned 30
+2018-08-03 10:38:28,318 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:28,321 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:28,940 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 241 ;maxrecord 30 ; nextrecord 271 ; returned 30
+2018-08-03 10:38:28,945 VerificationMatadata: WARNING:  30 : records already exist
+2018-08-03 10:38:28,947 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:29,577 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 271 ;maxrecord 30 ; nextrecord 301 ; returned 30
+2018-08-03 10:38:29,689 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:30,521 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 301 ;maxrecord 30 ; nextrecord 331 ; returned 30
+2018-08-03 10:38:30,645 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:31,310 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 331 ;maxrecord 30 ; nextrecord 361 ; returned 30
+2018-08-03 10:38:31,426 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:32,229 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 361 ;maxrecord 30 ; nextrecord 391 ; returned 30
+2018-08-03 10:38:32,350 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:33,055 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 391 ;maxrecord 30 ; nextrecord 421 ; returned 30
+2018-08-03 10:38:33,177 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:33,783 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 421 ;maxrecord 30 ; nextrecord 451 ; returned 30
+2018-08-03 10:38:33,898 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:34,585 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 451 ;maxrecord 30 ; nextrecord 481 ; returned 30
+2018-08-03 10:38:34,701 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:35,383 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 481 ;maxrecord 30 ; nextrecord 511 ; returned 30
+2018-08-03 10:38:35,506 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:36,099 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 511 ;maxrecord 30 ; nextrecord 541 ; returned 30
+2018-08-03 10:38:36,209 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:36,796 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 541 ;maxrecord 30 ; nextrecord 571 ; returned 30
+2018-08-03 10:38:36,905 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:37,602 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 571 ;maxrecord 30 ; nextrecord 601 ; returned 30
+2018-08-03 10:38:37,720 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:38,653 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 601 ;maxrecord 30 ; nextrecord 631 ; returned 30
+2018-08-03 10:38:38,870 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:39,659 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 631 ;maxrecord 30 ; nextrecord 661 ; returned 30
+2018-08-03 10:38:39,780 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:40,429 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 661 ;maxrecord 30 ; nextrecord 691 ; returned 30
+2018-08-03 10:38:40,549 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:41,090 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 691 ;maxrecord 30 ; nextrecord 721 ; returned 30
+2018-08-03 10:38:41,188 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:41,754 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 721 ;maxrecord 30 ; nextrecord 751 ; returned 30
+2018-08-03 10:38:41,755 VerificationMetadata: WARNING: 1 incorrect record(s)  
+2018-08-03 10:38:41,878 Insertion: INFO: 29 next values from Geoportail inserted into database
+2018-08-03 10:38:42,512 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 751 ;maxrecord 30 ; nextrecord 781 ; returned 30
+2018-08-03 10:38:42,631 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:43,208 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 781 ;maxrecord 30 ; nextrecord 811 ; returned 30
+2018-08-03 10:38:43,345 Insertion: INFO: 30 next values from Geoportail inserted into database
+2018-08-03 10:38:44,626 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 811 ;maxrecord 30 ; nextrecord 841 ; returned 30
+2018-08-03 10:38:44,627 VerificationMetadata: WARNING: 21 incorrect record(s)  
+2018-08-03 10:38:44,715 Insertion: INFO: 9 next values from Geoportail inserted into database
+2018-08-03 10:38:45,277 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 841 ;maxrecord 30 ; nextrecord 871 ; returned 30
+2018-08-03 10:38:45,279 VerificationMetadata: WARNING: 30 incorrect record(s)  
+2018-08-03 10:38:45,286 Insertion: INFO: 0 next values from Geoportail inserted into database
+2018-08-03 10:38:45,837 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 871 ;maxrecord 30 ; nextrecord 901 ; returned 30
+2018-08-03 10:38:45,837 VerificationMetadata: WARNING: 25 incorrect record(s)  
+2018-08-03 10:38:45,864 Insertion: INFO: 5 next values from Geoportail inserted into database
+2018-08-03 10:38:46,479 ExtractionGeocatalogueController: INFO: matches 112731 (from 0 to 112730) ; first record 901 ;maxrecord 30 ; nextrecord 931 ; returned 30
+2018-08-03 10:38:46,581 Insertion: INFO: 30 next values from Geoportail inserted into database

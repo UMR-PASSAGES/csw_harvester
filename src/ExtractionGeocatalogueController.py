@@ -39,14 +39,15 @@ class ExtractionGeocatalogue(object):
         """
         options = GlobalData.get_instance().get_options()
         outputschema = options.outputschema
+        skip_capability = options.skip_capability
         esn = options.esn
-        self.queries = {'maxrecords': 1, 'esn': esn, 'outputschema': outputschema, 'startposition': 0}
+        self.queries = {'maxrecords': 30, 'esn': esn, 'outputschema': outputschema, 'startposition': 0}
         self.source = source
         self.csw = None
-        self._connect_service_web(source.url_csw)
+        self._connect_service_web(source.url_csw, skip_capability)
         self.nmbr_records_to_get = 0
 
-    def _connect_service_web(self, url_csw):
+    def _connect_service_web(self, url_csw, skip_capability):
         """
 
         Connection to the Catalog Service for the Web with the URL, if the connection fails, an exception is raised
@@ -64,8 +65,7 @@ class ExtractionGeocatalogue(object):
         Log.get_instance().insert_info('ExtractionGeocatalogueController', "connect to :%s" % url_csw)
         try:
             # added skip_caps=True for geocatalogue
-            self.csw = CatalogueServiceWeb(url_csw)
-            #self.csw = CatalogueServiceWeb(url_csw, skip_caps=True)
+            self.csw = CatalogueServiceWeb(url_csw, skip_caps = skip_capability)
         except:
             Log.get_instance().insert_error('ExtractionGeocatalogueController', 'Cannot connect to %s' % url_csw)
         if self.csw is not None:

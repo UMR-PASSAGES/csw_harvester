@@ -88,7 +88,7 @@ class GlobalData(object):
 
         """
         outputschema = 'http://www.isotc211.org/2005/gmd'
-        esn = 'full'
+        esn = 'summary'
         skip_capability = 'False'
         sources_files = "../sources/source_test.csv"
         log_file = '../csw-harvester.log'
@@ -99,7 +99,7 @@ class GlobalData(object):
         self.parser.add_option("-f", "--outputschema", dest="outputschema", action="store", default=outputschema,
                                help="the outputschema for CSW ; default = http://www.isotc211.org/2005/gmd")
         self.parser.add_option("-e", "--esn", dest="esn", action="store", default=esn,
-                               help="ElementSetName : brief, summary or full ; default = full")
+                               help="ElementSetName : brief, summary or full ; default = summary")
         self.parser.add_option("-c", "--skip_capability", dest="skip_capability", action="store", default=skip_capability,
                                help="Skip Capability : True or False ; default = False")
         self.parser.add_option("-s", "--sources", dest="sources",

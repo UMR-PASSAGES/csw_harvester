@@ -323,7 +323,12 @@ class Insertion(object):
         list_to_return = []
         for input in data.values():
             # for dates like '2018-04' (in georep for example)
-            input.datestamp = parser.parse(input.datestamp)
+            try:
+                input.datestamp = parser.parse(input.datestamp)
+            # if date does not exist, defaults to 01-01-1900
+            except:
+                Log.get_instance().insert_error('Insertion', 'could not read date')
+                input.datestamp = parser.parse('01-01-1900')
             
             metadata = Metadata(id_metadata=self.id_metadata + index, identifier=input.identifier,
                                 datestamp=input.datestamp, xml_text=input.xml, stdname=input.stdname, xml=input.xml)

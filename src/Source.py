@@ -17,7 +17,7 @@ class Source:
         :param end_record: the last record to get
         :param step: the data range
         :param url_idg: The URL where we find more information about IDG
-        :param url_csw: The url to gat geograaphic data.
+        :param url_csw: The url to get geographic data.
         
         Test:
         >>> source = Source(1, "test", 0, 3, 1, "test.com", "test_csw.com")

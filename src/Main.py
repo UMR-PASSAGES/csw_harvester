@@ -29,7 +29,7 @@ if __name__ == "__main__":
     and for that it utilises Extraction's class to traverse the genetator (list of instances of Source). Which returns a
     generator object that contains the set of values for every geocatalog. These Metadata are verified by the method 
     check of the VerificationMetadata's class to ensure it fullfills the requirements necessary for analysis. 
-    Once it is verified, metadata is saved in the csw_harvester database with the method saveIndB of the class Insertion
+    Once it is verified, metadata is saved in the csw_harvester database with the method save_in_db of the class Insertion
     . 
  
     """

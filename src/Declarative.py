@@ -13,6 +13,7 @@ Base = declarative_base()
 
 class SDI(Base):
     __tablename__ = 'sdi'
+    #__table_args__ = {'schema' : 'schema1'}
     id_sdi = Column(Integer, primary_key=True)
     name = Column(String(250))
     url = Column(String(250))

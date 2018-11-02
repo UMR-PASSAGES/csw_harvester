@@ -173,7 +173,7 @@ class Insertion(object):
 
     def convert_cswdata_to_orm(self, data):
         """
-            Convert cswdata ro declaratives of sqlalchemy.
+            Convert cswdata to declaratives of sqlalchemy.
 
         :param data: collection.orderedDict, the data to convert
         :return: List of declarative to save in BDD.
@@ -454,6 +454,7 @@ class Insertion(object):
             list_to_return.append(geo)
             index += 1
 
+        #print ('list : ' + str(list_to_return[0]))        
         return list_to_return
 
     def _convert_to_responsibleparty(self, data):
